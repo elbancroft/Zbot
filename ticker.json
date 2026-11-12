@@ -1,7 +1,38 @@
 {
-  "asOf": "Nov 12, 1:08 PM CST",
+  "asOf": "Nov 12, 2:05 PM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "Cold rain showers, mixing with snow at times during the overnight, will continue through Saturday, especially in parts of the area…",
+      "account": "@NWSCLE",
+      "time": "Nov 12, 1:49 PM CST",
+      "code": "NEO",
+      "url": "https://x.com/NWSCLE/status/2120967176748187717",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
+    {
+      "text": "Another weak cold front will arrive tonight shifting winds out of the northeast bringing slightly cooler temperatures…",
+      "account": "@NWSFortWorth",
+      "time": "Nov 12, 1:36 PM CST",
+      "code": "DFW",
+      "url": "https://x.com/NWSFortWorth/status/2120963864711905661",
+      "opsTag": [
+        "Rooftop/crane work",
+        "Cooling load"
+      ]
+    },
+    {
+      "text": "Our next storm system will approach the area during the second half of the weekend. Widespread showers are…",
+      "account": "@NWSFortWorth",
+      "time": "Nov 12, 1:11 PM CST",
+      "code": "DFW",
+      "url": "https://x.com/NWSFortWorth/status/2120957550371983704",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
     {
       "text": "High temperatures this afternoon rise into the 60s to low 70s across the area with additional rain showers possible.…",
       "account": "@NWS_BaltWash",
@@ -24,7 +55,7 @@
       ]
     },
     {
-      "text": "A Freeze Watch is in effect for portions of the area Friday night into Saturday AM, with lows around…",
+      "text": "🥶 A Freeze Watch is in effect for portions of the area Friday night into Saturday AM, with lows around…",
       "account": "@NWSAtlanta",
       "time": "Nov 12, 12:07 PM CST",
       "url": "https://x.com/NWSAtlanta/status/2120941662390169989",
@@ -39,16 +70,6 @@
       "code": "PHX",
       "url": "https://x.com/NWSPhoenix/status/2120903610007703982",
       "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "A cold front is currently moving southward through the area, though showers ahead of front have largely come to an end.…",
-      "account": "@NWSAtlanta",
-      "time": "Nov 12, 5:21 AM CST",
-      "url": "https://x.com/NWSAtlanta/status/2120839319027962351",
-      "opsTag": [
-        "Rooftop/crane work",
         "Cooling load"
       ]
     }
