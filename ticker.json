@@ -1,7 +1,39 @@
 {
-  "asOf": "Nov 12, 7:03 AM CST",
+  "asOf": "Nov 12, 8:12 AM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "🧵(1/3) Here is an updated look at the lake effect rain and snow showers expected the next few days. The potential for…",
+      "account": "@NWSChicago",
+      "time": "Nov 12, 7:30 AM CST",
+      "code": "ORD",
+      "url": "https://x.com/NWSChicago/status/2120871941397684506",
+      "opsTag": [
+        "Access/logistics"
+      ]
+    },
+    {
+      "text": "Scattered showers & isolated T-storms are expected to move through parts of the area later on Friday. A…",
+      "account": "@NWSPhoenix",
+      "time": "Nov 12, 7:20 AM CST",
+      "code": "PHX",
+      "url": "https://x.com/NWSPhoenix/status/2120869219470307385",
+      "opsTag": [
+        "Cooling load",
+        "Lightning"
+      ]
+    },
+    {
+      "text": "A windy and rainy day for most, but some parts of the area will get lake-effect snow accumulations later Thursday…",
+      "account": "@WGNNews",
+      "time": "Nov 12, 7:07 AM CST",
+      "code": "ORD",
+      "url": "https://x.com/WGNNews/status/2120866195968524723",
+      "opsTag": [
+        "Rooftop/crane work",
+        "Access/logistics"
+      ]
+    },
     {
       "text": "A cold front is currently moving southward through the area, though showers ahead of front have largely come to an end.…",
       "account": "@NWSAtlanta",
@@ -50,47 +82,6 @@
       "code": "CMH",
       "url": "https://x.com/NWSILN/status/2120763653079126363",
       "opsTag": [
-        "Rooftop/crane work"
-      ]
-    },
-    {
-      "text": "The area's first snow of the season has entered the forecast. 'The Forecasters' break down timing and current…",
-      "account": "@WGNNews",
-      "time": "Nov 11, 9:08 PM CST",
-      "code": "ORD",
-      "url": "https://x.com/WGNNews/status/2120715203843133625",
-      "opsTag": [
-        "Access/logistics"
-      ]
-    },
-    {
-      "text": "After a period of quiet weather, a cooler/wetter pattern will become established this weekend as a series of…",
-      "account": "@NWSPhoenix",
-      "time": "Nov 11, 8:24 PM CST",
-      "code": "PHX",
-      "url": "https://x.com/NWSPhoenix/status/2120704139466543243",
-      "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "Severe Thunderstorm Warning for parts of the area until 8:45 PM EST",
-      "account": "@NWSILN",
-      "time": "Nov 11, 7:13 PM CST",
-      "code": "CMH",
-      "url": "https://x.com/NWSILN/status/2120686483052913112",
-      "opsTag": [
-        "Lightning"
-      ]
-    },
-    {
-      "text": "🍂🌧️ Fall is in full swing, & more storm systems are in the forecast for the upcoming week. To prepare, make sure…",
-      "account": "@NWSPortland",
-      "time": "Nov 11, 5:07 PM CST",
-      "code": "PDX",
-      "url": "https://x.com/NWSPortland/status/2120654650676572403",
-      "opsTag": [
-        "Grid strain",
         "Rooftop/crane work"
       ]
     }
