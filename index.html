@@ -564,6 +564,11 @@
         '<div class="stat"><b>1</b><span>Ready for review</span></div>' +
         '<div class="stat"><b>8</b><span>In progress</span></div>' +
         '<div class="stat"><b>26</b><span>Closed</span></div>';
+      const agingHTML =
+        '<div class="stat" style="border-color:var(--age-green)"><b style="color:var(--age-green)">2</b><span>Green (≤ 2h)</span></div>' +
+        '<div class="stat" style="border-color:var(--age-yellow)"><b style="color:var(--age-yellow)">7</b><span>Yellow (over 2h–8h)</span></div>' +
+        '<div class="stat" style="border-color:var(--age-red)"><b style="color:var(--age-red)">1</b><span>Red (over 8h)</span></div>' +
+        '<div class="stat" style="border-color:#9ca3af"><b style="color:#9ca3af">1</b><span>Age not computable</span></div>';
 
       document.getElementById("app").innerHTML = GROUPS.map(function (group) {
         const items = LINKS.filter(function (item) { return item.group === group.id; });
@@ -587,7 +592,7 @@
               legend +
             "</div>" +
             (group.intro ? '<p class="lede" style="margin:-4px 0 14px">' + esc(group.intro) + "</p>" : "") +
-            (group.id === "tickets" ? '<div class="stats" id="stats" style="margin:0 0 16px">' + statsHTML + "</div>" : "") +
+            (group.id === "tickets" ? '<div class="stats" id="stats" style="margin:0 0 16px">' + statsHTML + "</div>" + '<div class="stats" id="aging-stats" style="margin:0 0 16px">' + agingHTML + "</div>" : "") +
             '<div class="grid">' + items.map(cardHTML).join("") + "</div>" +
           "</section>"
         );
