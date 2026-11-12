@@ -1,7 +1,17 @@
 {
-  "asOf": "Nov 12, 12:03 AM CST",
+  "asOf": "Nov 12, 1:08 AM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "Scattered showers will develop on Thursday, increasing late in the day. Breezy northwest winds are expected.",
+      "account": "@NWSILN",
+      "time": "Nov 12, 12:20 AM CST",
+      "code": "CMH",
+      "url": "https://x.com/NWSILN/status/2120763653079126363",
+      "opsTag": [
+        "Rooftop/crane work"
+      ]
+    },
     {
       "text": "The area's first snow of the season has entered the forecast. 'The Forecasters' break down timing and current…",
       "account": "@WGNNews",
@@ -23,23 +33,13 @@
       ]
     },
     {
-      "text": "Severe Thunderstorm Warning for parts of the area until 8:45 PM EST",
+      "text": "Severe Thunderstorm Warning including several communities in the area until 8:45 PM EST",
       "account": "@NWSILN",
       "time": "Nov 11, 7:13 PM CST",
       "code": "CMH",
       "url": "https://x.com/NWSILN/status/2120686483052913112",
       "opsTag": [
         "Lightning"
-      ]
-    },
-    {
-      "text": "Above normal temperatures continue tonight with increasing clouds. Some showers may reach parts of the area…",
-      "account": "@NWS_BaltWash",
-      "time": "Nov 11, 6:57 PM CST",
-      "code": "IAD",
-      "url": "https://x.com/NWS_BaltWash/status/2120682438775157172",
-      "opsTag": [
-        "Cooling load"
       ]
     },
     {
