@@ -1,7 +1,17 @@
 {
-  "asOf": "Nov 12, 5:07 AM CST",
+  "asOf": "Nov 12, 6:10 AM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "A cold front is currently moving southward through the area, though showers ahead of front have largely come to an end.…",
+      "account": "@NWSAtlanta",
+      "time": "Nov 12, 5:21 AM CST",
+      "url": "https://x.com/NWSAtlanta/status/2120839319027962351",
+      "opsTag": [
+        "Rooftop/crane work",
+        "Cooling load"
+      ]
+    },
     {
       "text": "Sunny, mild & dry weather will be seen today & Friday with highs in the 60s/70s & lows in the 40s/50s.…",
       "account": "@NWSFortWorth",
@@ -64,23 +74,13 @@
       ]
     },
     {
-      "text": "Severe Thunderstorm Warning including several communities in the area until 8:45 PM EST",
+      "text": "Severe Thunderstorm Warning including parts of the area until 8:45 PM EST",
       "account": "@NWSILN",
       "time": "Nov 11, 7:13 PM CST",
       "code": "CMH",
       "url": "https://x.com/NWSILN/status/2120686483052913112",
       "opsTag": [
         "Lightning"
-      ]
-    },
-    {
-      "text": "High temperatures on this Veterans Day were in the mid 80s across the area. We thank those that have…",
-      "account": "@NWSPhoenix",
-      "time": "Nov 11, 6:41 PM CST",
-      "code": "PHX",
-      "url": "https://x.com/NWSPhoenix/status/2120678336745668608",
-      "opsTag": [
-        "Cooling load"
       ]
     },
     {
@@ -92,16 +92,6 @@
       "opsTag": [
         "Grid strain",
         "Rooftop/crane work"
-      ]
-    },
-    {
-      "text": "After a dry end of the week, the next weather system is expected to arrive Saturday night into Sunday. Widespread…",
-      "account": "@NWSFortWorth",
-      "time": "Nov 11, 3:25 PM CST",
-      "code": "DFW",
-      "url": "https://x.com/NWSFortWorth/status/2120629040004366585",
-      "opsTag": [
-        "Cooling load"
       ]
     }
   ]
