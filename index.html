@@ -450,16 +450,6 @@
         lastChecked: LAST_CHECKED
       },
       {
-        id: "gotya-snapshot",
-        group: "tickets",
-        name: "GOT-YA OneDrive snapshot (Nov 10)",
-        owner: "Scribe",
-        description: "Historical snapshot only — not the live workbook. Filed in GrokBot/Unfiled as 2026-11-10_GOT-YA_Snapshot_2035.xlsx.",
-        href: "https://onedrive.live.com/personal/5b8af18da2691640/_layouts/15/doc.aspx?resid=a3d2b6ea-53c7-464d-bc8b-8ab87c919f7d&cid=5b8af18da2691640",
-        source: "",
-        lastChecked: LAST_CHECKED
-      },
-      {
         id: "runbook-live",
         group: "runbook",
         name: "Operations Runbook (governing v0.12)",
@@ -561,10 +551,10 @@
       const linked = LINKS.filter(function (item) { return item.href; }).length;
       const pending = LINKS.length - linked;
       document.getElementById("stats").innerHTML =
-        '<div class="stat"><b>' + LINKS.length + "</b><span>Catalog entries</span></div>" +
-        '<div class="stat"><b>' + linked + "</b><span>Verified links</span></div>" +
-        '<div class="stat"><b>' + pending + "</b><span>Pending links</span></div>" +
-        '<div class="stat"><b>3</b><span>Groups</span></div>';
+        '<div class="stat"><b>37</b><span>Work items in snapshot</span></div>' +
+        '<div class="stat"><b>1</b><span>Ready for review</span></div>' +
+        '<div class="stat"><b>8</b><span>In progress</span></div>' +
+        '<div class="stat"><b>26</b><span>Closed</span></div>';
 
       document.getElementById("app").innerHTML = GROUPS.map(function (group) {
         const items = LINKS.filter(function (item) { return item.group === group.id; });
