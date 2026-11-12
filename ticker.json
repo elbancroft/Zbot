@@ -1,17 +1,7 @@
 {
-  "asOf": "Nov 11, 10:04 PM CST",
+  "asOf": "Nov 11, 11:08 PM CST",
   "label": "Unverified news",
   "items": [
-    {
-      "text": "Ibrahim Rizkalla was taken into ICE custody this summer and would have had his cheek swabbed for DNA, a criminal…",
-      "account": "@nbcwashington",
-      "time": "Nov 11, 9:30 PM CST",
-      "code": "IAD",
-      "url": "https://x.com/nbcwashington/status/2120720755612696586",
-      "opsTag": [
-        "Access/logistics"
-      ]
-    },
     {
       "text": "The area's first snow of the season has entered the forecast. 'The Forecasters' break down timing and current…",
       "account": "@WGNNews",
@@ -33,7 +23,7 @@
       ]
     },
     {
-      "text": "Severe Thunderstorm Warning including several communities in the area until 8:45 PM EST",
+      "text": "Severe Thunderstorm Warning for parts of the area until 8:45 PM EST",
       "account": "@NWSILN",
       "time": "Nov 11, 7:13 PM CST",
       "code": "CMH",
