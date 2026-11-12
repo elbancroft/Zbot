@@ -635,7 +635,7 @@
     // from a message or file stamp; otherwise "about <time> CST (estimate)".
     // Keep the numeric copy; do not replace the numbers with a link.
     // Do not edit ticker.json or the ticker strip.
-    const SNAPSHOT_AS_OF = "2026-11-12 08:08:12 CST";
+    const SNAPSHOT_AS_OF = "2026-11-12 09:07:51 CST";
 
     function render() {
       const linked = LINKS.filter(function (item) { return item.href; }).length;
@@ -648,8 +648,8 @@
         '<div class="stat"><b>1</b><span>Accepted</span></div>' +
         '<div class="stat"><b>45</b><span>Closed</span></div>';
       const agingHTML =
-        '<div class="stat" style="border-color:var(--age-green)"><b style="color:var(--age-green)">3</b><span>Green (≤ 2h)</span></div>' +
-        '<div class="stat" style="border-color:var(--age-yellow)"><b style="color:var(--age-yellow)">0</b><span>Yellow (over 2h–8h)</span></div>' +
+        '<div class="stat" style="border-color:var(--age-green)"><b style="color:var(--age-green)">1</b><span>Green (≤ 2h)</span></div>' +
+        '<div class="stat" style="border-color:var(--age-yellow)"><b style="color:var(--age-yellow)">2</b><span>Yellow (over 2h–8h)</span></div>' +
         '<div class="stat" style="border-color:var(--age-red)"><b style="color:var(--age-red)">7</b><span>Red (over 8h)</span></div>' +
         '<div class="stat" style="border-color:#9ca3af"><b style="color:#9ca3af">0</b><span>Age not computable</span></div>';
 
