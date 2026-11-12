@@ -1,17 +1,7 @@
 {
-  "asOf": "Nov 12, 10:05 AM CST",
+  "asOf": "Nov 12, 11:09 AM CST",
   "label": "Unverified news",
   "items": [
-    {
-      "text": "The first snowflakes of the season are possible tomorrow, but no road impacts are expected. It does serve as a good…",
-      "account": "@NWSILN",
-      "time": "Nov 12, 9:52 AM CST",
-      "code": "CMH",
-      "url": "https://x.com/NWSILN/status/2120907473238282738",
-      "opsTag": [
-        "Access/logistics"
-      ]
-    },
     {
       "text": "Low temperatures this morning were in the 50s and low 60s, which is above normal for this time of year. Temperatures…",
       "account": "@NWSPhoenix",
@@ -20,16 +10,6 @@
       "url": "https://x.com/NWSPhoenix/status/2120903610007703982",
       "opsTag": [
         "Cooling load"
-      ]
-    },
-    {
-      "text": "🧵(1/3) Here is an updated look at the lake effect rain and snow showers expected the next few days. The potential for…",
-      "account": "@NWSChicago",
-      "time": "Nov 12, 7:30 AM CST",
-      "code": "ORD",
-      "url": "https://x.com/NWSChicago/status/2120871941397684506",
-      "opsTag": [
-        "Access/logistics"
       ]
     },
     {
@@ -61,16 +41,6 @@
       "url": "https://x.com/NWSFortWorth/status/2120831141569540176",
       "opsTag": [
         "Cooling load"
-      ]
-    },
-    {
-      "text": "Rain showers are expected today, with up to 0.5\" of rain possible. Rain may mix with snow Friday through Saturday…",
-      "account": "@NWSCLE",
-      "time": "Nov 12, 4:20 AM CST",
-      "code": "NEO",
-      "url": "https://x.com/NWSCLE/status/2120824107570810921",
-      "opsTag": [
-        "Access/logistics"
       ]
     },
     {
