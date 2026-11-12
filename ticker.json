@@ -1,7 +1,37 @@
 {
-  "asOf": "Nov 12, 12:04 PM CST",
+  "asOf": "Nov 12, 1:08 PM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "High temperatures this afternoon rise into the 60s to low 70s across the area with additional rain showers possible.…",
+      "account": "@NWS_BaltWash",
+      "time": "Nov 12, 1:05 PM CST",
+      "code": "IAD",
+      "url": "https://x.com/NWS_BaltWash/status/2120956171469119933",
+      "opsTag": [
+        "Rooftop/crane work",
+        "Cooling load"
+      ]
+    },
+    {
+      "text": "Cooler temperatures remain in place as we head into the weekend. A warming trend will arrive next week!",
+      "account": "@NWSILN",
+      "time": "Nov 12, 12:36 PM CST",
+      "code": "CMH",
+      "url": "https://x.com/NWSILN/status/2120948915604426802",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
+    {
+      "text": "A Freeze Watch is in effect for portions of the area Friday night into Saturday AM, with lows around…",
+      "account": "@NWSAtlanta",
+      "time": "Nov 12, 12:07 PM CST",
+      "url": "https://x.com/NWSAtlanta/status/2120941662390169989",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
     {
       "text": "Low temperatures this morning were in the 50s and low 60s, which is above normal for this time of year. Temperatures…",
       "account": "@NWSPhoenix",
@@ -19,16 +49,6 @@
       "url": "https://x.com/NWSAtlanta/status/2120839319027962351",
       "opsTag": [
         "Rooftop/crane work",
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "Sunny, mild & dry weather will be seen today & Friday with highs in the 60s/70s & lows in the 40s/50s.…",
-      "account": "@NWSFortWorth",
-      "time": "Nov 12, 4:48 AM CST",
-      "code": "DFW",
-      "url": "https://x.com/NWSFortWorth/status/2120831141569540176",
-      "opsTag": [
         "Cooling load"
       ]
     }
