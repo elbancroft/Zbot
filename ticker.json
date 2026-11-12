@@ -1,7 +1,27 @@
 {
-  "asOf": "Nov 12, 4:03 AM CST",
+  "asOf": "Nov 12, 5:07 AM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "Sunny, mild & dry weather will be seen today & Friday with highs in the 60s/70s & lows in the 40s/50s.…",
+      "account": "@NWSFortWorth",
+      "time": "Nov 12, 4:48 AM CST",
+      "code": "DFW",
+      "url": "https://x.com/NWSFortWorth/status/2120831141569540176",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
+    {
+      "text": "Rain showers are expected today, with up to 0.5\" of rain possible. Rain may mix with snow Friday through Saturday…",
+      "account": "@NWSCLE",
+      "time": "Nov 12, 4:20 AM CST",
+      "code": "NEO",
+      "url": "https://x.com/NWSCLE/status/2120824107570810921",
+      "opsTag": [
+        "Access/logistics"
+      ]
+    },
     {
       "text": "Showers are possible today through Fri morning as a cold front pushes through. Much colder weather and gusty winds…",
       "account": "@NWS_BaltWash",
@@ -82,17 +102,6 @@
       "url": "https://x.com/NWSFortWorth/status/2120629040004366585",
       "opsTag": [
         "Cooling load"
-      ]
-    },
-    {
-      "text": "Rain will increase in coverage tonight and continue Thursday with periods of moderate rain possible. Temperatures will…",
-      "account": "@NWSCLE",
-      "time": "Nov 11, 2:52 PM CST",
-      "code": "NEO",
-      "url": "https://x.com/NWSCLE/status/2120620643372642404",
-      "opsTag": [
-        "Cooling load",
-        "Access/logistics"
       ]
     }
   ]
