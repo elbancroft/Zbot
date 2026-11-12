@@ -1,5 +1,5 @@
 {
-  "asOf": "Nov 12, 3:08 AM CST",
+  "asOf": "Nov 12, 4:03 AM CST",
   "label": "Unverified news",
   "items": [
     {
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "text": "Severe Thunderstorm Warning including parts of the area until 8:45 PM EST",
+      "text": "Severe Thunderstorm Warning including several communities in the area until 8:45 PM EST",
       "account": "@NWSILN",
       "time": "Nov 11, 7:13 PM CST",
       "code": "CMH",
@@ -93,16 +93,6 @@
       "opsTag": [
         "Cooling load",
         "Access/logistics"
-      ]
-    },
-    {
-      "text": "A pleasant end of the week with temperatures in the 70s and plenty of sunshine. A weak cold front will move thru the…",
-      "account": "@NWSFortWorth",
-      "time": "Nov 11, 1:56 PM CST",
-      "code": "DFW",
-      "url": "https://x.com/NWSFortWorth/status/2120606600012394556",
-      "opsTag": [
-        "Cooling load"
       ]
     }
   ]
