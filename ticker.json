@@ -1,5 +1,5 @@
 {
-  "asOf": "Nov 12, 8:12 AM CST",
+  "asOf": "Nov 12, 9:05 AM CST",
   "label": "Unverified news",
   "items": [
     {
@@ -13,7 +13,7 @@
       ]
     },
     {
-      "text": "Scattered showers & isolated T-storms are expected to move through parts of the area later on Friday. A…",
+      "text": "Scattered showers & isolated T-storms are expected to move through southern & central parts of the area later on Friday. A…",
       "account": "@NWSPhoenix",
       "time": "Nov 12, 7:20 AM CST",
       "code": "PHX",
@@ -21,17 +21,6 @@
       "opsTag": [
         "Cooling load",
         "Lightning"
-      ]
-    },
-    {
-      "text": "A windy and rainy day for most, but some parts of the area will get lake-effect snow accumulations later Thursday…",
-      "account": "@WGNNews",
-      "time": "Nov 12, 7:07 AM CST",
-      "code": "ORD",
-      "url": "https://x.com/WGNNews/status/2120866195968524723",
-      "opsTag": [
-        "Rooftop/crane work",
-        "Access/logistics"
       ]
     },
     {
