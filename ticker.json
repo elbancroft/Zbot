@@ -1,5 +1,5 @@
 {
-  "asOf": "Nov 12, 2:05 PM CST",
+  "asOf": "Nov 12, 3:04 PM CST",
   "label": "Unverified news",
   "items": [
     {
@@ -59,16 +59,6 @@
       "account": "@NWSAtlanta",
       "time": "Nov 12, 12:07 PM CST",
       "url": "https://x.com/NWSAtlanta/status/2120941662390169989",
-      "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "Low temperatures this morning were in the 50s and low 60s, which is above normal for this time of year. Temperatures…",
-      "account": "@NWSPhoenix",
-      "time": "Nov 12, 9:36 AM CST",
-      "code": "PHX",
-      "url": "https://x.com/NWSPhoenix/status/2120903610007703982",
       "opsTag": [
         "Cooling load"
       ]
