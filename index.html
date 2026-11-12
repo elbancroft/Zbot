@@ -383,10 +383,93 @@
       .clock-card { text-align: left; width: 100%; }
       .stats { grid-template-columns: 1fr 1fr; }
     }
+    /* ZBOT-TICKER:CSS:BEGIN */
+    .xdr-ticker {
+      position: relative;
+      display: flex;
+      align-items: center;
+      gap: 0;
+      margin: 0 0 14px;
+      border-radius: 14px;
+      background: rgba(18, 24, 42, 0.78);
+      border: 1px solid rgba(255, 77, 90, 0.28);
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+      overflow: hidden;
+      font-size: 13px;
+    }
+    .xdr-ticker[hidden] { display: none; }
+    .xdr-ticker-stamp {
+      flex: 0 0 auto;
+      padding: 10px 14px;
+      background: linear-gradient(135deg, rgba(255, 77, 90, 0.22), rgba(245, 166, 35, 0.14));
+      border-right: 1px solid rgba(255, 255, 255, 0.08);
+      color: #ffd2d6;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      white-space: nowrap;
+    }
+    .xdr-ticker-viewport {
+      flex: 1 1 auto;
+      overflow: hidden;
+      min-width: 0;
+      -webkit-mask-image: linear-gradient(90deg, transparent, #000 24px, #000 calc(100% - 24px), transparent);
+      mask-image: linear-gradient(90deg, transparent, #000 24px, #000 calc(100% - 24px), transparent);
+    }
+    .xdr-ticker-track {
+      display: inline-flex;
+      white-space: nowrap;
+      will-change: transform;
+      animation: xdr-ticker-scroll var(--xdr-ticker-duration, 90s) linear infinite;
+    }
+    .xdr-ticker:hover .xdr-ticker-track,
+    .xdr-ticker:focus-within .xdr-ticker-track { animation-play-state: paused; }
+    .xdr-ticker-run { display: inline-flex; flex: 0 0 auto; }
+    .xdr-ticker-item {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 10px 22px 10px 0;
+      color: #c5cbda;
+    }
+    .xdr-ticker-item::before { content: "•"; color: var(--threat-b); padding-left: 2px; }
+    .xdr-ticker-item a { color: var(--text); text-decoration: none; }
+    .xdr-ticker-item a:hover, .xdr-ticker-item a:focus-visible { text-decoration: underline; }
+    .xdr-ticker-meta { color: var(--text-dim); font-weight: 650; }
+    .xdr-ticker-pill {
+      display: inline-block;
+      padding: 1px 8px;
+      border-radius: 999px;
+      font-size: 10.5px;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+      color: #3a2a00;
+      background: var(--pending);
+    }
+    @keyframes xdr-ticker-scroll {
+      from { transform: translateX(0); }
+      to { transform: translateX(-50%); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .xdr-ticker-track { animation: none; }
+      .xdr-ticker-viewport { overflow-x: auto; -webkit-mask-image: none; mask-image: none; }
+      .xdr-ticker-run[aria-hidden="true"] { display: none; }
+    }
+    @media (max-width: 800px) {
+      .xdr-ticker-stamp { max-width: 42%; white-space: normal; }
+    }
+    /* ZBOT-TICKER:CSS:END */
   </style>
 </head>
 <body>
   <div class="wrap">
+    <!-- ZBOT-TICKER:STRIP:BEGIN -->
+    <div class="xdr-ticker" id="xdr-ticker" role="region" aria-label="XDR unverified news ticker" hidden>
+      <div class="xdr-ticker-stamp" id="xdr-ticker-stamp">Unverified news</div>
+      <div class="xdr-ticker-viewport"><div class="xdr-ticker-track" id="xdr-ticker-track"></div></div>
+    </div>
+    <!-- ZBOT-TICKER:STRIP:END -->
     <header class="masthead">
       <div class="mast-inner">
         <div>
@@ -590,5 +673,83 @@
     tickClock();
     setInterval(tickClock, 1000);
   </script>
+  <!-- ZBOT-TICKER:JS:BEGIN -->
+  <script>
+    /* XDR unverified-news ticker. ticker.json is committed by XDR's hourly
+       sweep (publish_ticker.py). TICKER_FALLBACK is the data at patch time,
+       used only if the fetch fails. All text is set with textContent. */
+    (function () {
+      var TICKER_FALLBACK = {"asOf":"Nov 11, 8:11 PM CST","label":"Unverified news","items":[{"text":"Severe Thunderstorm Warning including Bright IN, Sunman IN and Saint Leon IN until 8:45 PM EST","account":"@NWSILN","time":"Nov 11, 7:13 PM CST","url":"https://x.com/NWSILN/status/2120686483052913112","opsTag":["Lightning"]},{"text":"Above normal temperatures continue tonight with increasing clouds. Some showers may reach the Allegheny and Potomac…","account":"@NWS_BaltWash","time":"Nov 11, 6:57 PM CST","url":"https://x.com/NWS_BaltWash/status/2120682438775157172","opsTag":["Cooling load"]},{"text":"High temperatures on this Veterans Day were in the mid 80s at Phoenix, Yuma, and El Centro. We thank those that have…","account":"@NWSPhoenix","time":"Nov 11, 6:41 PM CST","url":"https://x.com/NWSPhoenix/status/2120678336745668608","opsTag":["Cooling load"]},{"text":"Ibrahim Rizkalla was taken into ICE custody this summer and would have had his cheek swabbed for DNA, a criminal…","account":"@nbcwashington","time":"Nov 11, 6:30 PM CST","url":"https://x.com/nbcwashington/status/2120675474917495197","opsTag":["Access/logistics"]},{"text":"🍂🌧️ Fall is in full swing, \u0026 more storm systems are in the forecast for the upcoming week. To prepare, make sure…","account":"@NWSPortland","time":"Nov 11, 5:07 PM CST","url":"https://x.com/NWSPortland/status/2120654650676572403","opsTag":["Grid strain","Rooftop/crane work"]},{"text":"#WinterPrep Week: Is your home ready for an ice storm? Ice storms can cause power outages that can last several days…","account":"@NWSChicago","time":"Nov 11, 5:00 PM CST","url":"https://x.com/NWSChicago/status/2120652795250671667","opsTag":["Grid strain","Access/logistics"]},{"text":"After a dry end of the week, the next weather system is expected to arrive Saturday night into Sunday. Widespread…","account":"@NWSFortWorth","time":"Nov 11, 3:25 PM CST","url":"https://x.com/NWSFortWorth/status/2120629040004366585","opsTag":["Cooling load"]},{"text":"#WinterPrep Week: Shoveling snow can be a health risk. Remember to stay hydrated, take frequent breaks, and move only…","account":"@NWSChicago","time":"Nov 11, 3:00 PM CST","url":"https://x.com/NWSChicago/status/2120622605744918606","opsTag":["Access/logistics"]},{"text":"Rain will increase in coverage tonight and continue Thursday with periods of moderate rain possible. Temperatures will…","account":"@NWSCLE","time":"Nov 11, 2:52 PM CST","url":"https://x.com/NWSCLE/status/2120620643372642404","opsTag":["Cooling load","Access/logistics"]},{"text":"A pleasant end of the week with temperatures in the 70s and plenty of sunshine. A weak cold front will move thru the…","account":"@NWSFortWorth","time":"Nov 11, 1:56 PM CST","url":"https://x.com/NWSFortWorth/status/2120606600012394556","opsTag":["Cooling load"]},{"text":"Rain showers with some embedded thunderstorms will move into the region shortly after sunset this evening…","account":"@NWSILN","time":"Nov 11, 11:41 AM CST","url":"https://x.com/NWSILN/status/2120572694983065852","opsTag":["Lightning"]}]};
+      var REFRESH_MS = 5 * 60 * 1000;
+      var POST_URL = /^https:\/\/(www\.)?(x|twitter)\.com\/[A-Za-z0-9_]{1,30}\/status\/[0-9]{5,25}$/;
+      var lastKey = null;
+
+      function el(tag, cls, text) {
+        var n = document.createElement(tag);
+        if (cls) n.className = cls;
+        if (text != null) n.textContent = String(text);
+        return n;
+      }
+
+      function itemNode(it) {
+        var li = el("span", "xdr-ticker-item");
+        var head = [it.account, it.time].filter(Boolean).join(" · ");
+        if (head) li.appendChild(el("span", "xdr-ticker-meta", head + " ·"));
+        var text = String(it.text || "");
+        if (typeof it.url === "string" && POST_URL.test(it.url)) {
+          var a = el("a", null, text);
+          a.href = it.url;
+          a.target = "_blank";
+          a.rel = "noopener noreferrer";
+          li.appendChild(a);
+        } else {
+          li.appendChild(el("span", null, text));
+        }
+        var tags = Array.isArray(it.opsTag) ? it.opsTag : (it.opsTag ? [it.opsTag] : []);
+        tags.forEach(function (t) { li.appendChild(el("span", "xdr-ticker-pill", t)); });
+        return li;
+      }
+
+      function render(data) {
+        if (!data || !Array.isArray(data.items) || !data.items.length) return false;
+        var key = JSON.stringify(data);
+        if (key === lastKey) return true;
+        lastKey = key;
+        var box = document.getElementById("xdr-ticker");
+        var track = document.getElementById("xdr-ticker-track");
+        var stamp = document.getElementById("xdr-ticker-stamp");
+        if (!box || !track || !stamp) return false;
+        stamp.textContent = (data.label || "Unverified news") + (data.asOf ? ", as of " + data.asOf : "");
+        while (track.firstChild) track.removeChild(track.firstChild);
+        for (var copy = 0; copy < 2; copy++) {
+          var run = el("span", "xdr-ticker-run");
+          if (copy) run.setAttribute("aria-hidden", "true");
+          data.items.forEach(function (it) {
+            var n = itemNode(it);
+            if (copy) n.querySelectorAll("a").forEach(function (a) { a.tabIndex = -1; });
+            run.appendChild(n);
+          });
+          track.appendChild(run);
+        }
+        box.hidden = false;
+        var width = track.firstChild.getBoundingClientRect().width || 2000;
+        track.style.setProperty("--xdr-ticker-duration", Math.max(30, Math.round(width / 70)) + "s");
+        return true;
+      }
+
+      function load() {
+        if (!window.fetch) return;
+        fetch("ticker.json?ts=" + Date.now(), { cache: "no-store" })
+          .then(function (r) { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
+          .then(function (d) { if (!render(d) && lastKey === null) render(TICKER_FALLBACK); })
+          .catch(function () { if (lastKey === null) render(TICKER_FALLBACK); });
+      }
+
+      render(TICKER_FALLBACK);
+      load();
+      setInterval(load, REFRESH_MS);
+    })();
+  </script>
+  <!-- ZBOT-TICKER:JS:END -->
 </body>
 </html>
