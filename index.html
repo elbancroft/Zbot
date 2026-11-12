@@ -402,7 +402,6 @@
       </div>
     </header>
 
-    <div class="stats" id="stats"></div>
     <main id="app"></main>
 
     <footer>
@@ -550,7 +549,7 @@
     function render() {
       const linked = LINKS.filter(function (item) { return item.href; }).length;
       const pending = LINKS.length - linked;
-      document.getElementById("stats").innerHTML =
+      const statsHTML =
         '<div class="stat"><b>37</b><span>Work items in snapshot</span></div>' +
         '<div class="stat"><b>1</b><span>Ready for review</span></div>' +
         '<div class="stat"><b>8</b><span>In progress</span></div>' +
@@ -578,6 +577,7 @@
               legend +
             "</div>" +
             (group.intro ? '<p class="lede" style="margin:-4px 0 14px">' + esc(group.intro) + "</p>" : "") +
+            (group.id === "tickets" ? '<div class="stats" id="stats" style="margin:0 0 16px">' + statsHTML + "</div>" : "") +
             '<div class="grid">' + items.map(cardHTML).join("") + "</div>" +
           "</section>"
         );
