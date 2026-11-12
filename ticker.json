@@ -1,7 +1,14 @@
 {
-  "asOf": "Nov 12, 3:04 PM CST",
+  "asOf": "Nov 12, 4:06 PM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "Snow is expected to mix in at times tonight through Friday morning and may lead to slushy accumulations, especially…",
+      "account": "@NWSChicago",
+      "time": "Nov 12, 3:06 PM CST",
+      "code": "ORD",
+      "url": "https://x.com/NWSChicago/status/2120986496987713653"
+    },
     {
       "text": "Cold rain showers, mixing with snow at times during the overnight, will continue through Saturday, especially in parts of the area…",
       "account": "@NWSCLE",
