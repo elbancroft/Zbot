@@ -404,9 +404,6 @@
 
     <main id="app"></main>
 
-    <footer>
-      Standalone local file with no external assets. Edit the LINKS array at the top of the script to add or correct destinations. This page does not invent URLs.
-    </footer>
   </div>
 
   <script>
@@ -415,7 +412,7 @@
        placeholder. Never invent a URL.
        lastChecked is the CST time this inventory was verified.
        ======================================================================== */
-    const LAST_CHECKED = "Wednesday, November 11, 2026, 6:03 PM CST";
+    const LAST_CHECKED = "Wednesday, November 11, 2026, 8:08 PM CST";
 
     const LINKS = [
       {
@@ -550,15 +547,15 @@
       const linked = LINKS.filter(function (item) { return item.href; }).length;
       const pending = LINKS.length - linked;
       const statsHTML =
-        '<div class="stat"><b>37</b><span>Total work volume</span></div>' +
-        '<div class="stat"><b>1</b><span>Ready for review</span></div>' +
-        '<div class="stat"><b>8</b><span>In progress</span></div>' +
-        '<div class="stat"><b>26</b><span>Closed</span></div>';
+        '<div class="stat"><b>39</b><span>Total work volume</span></div>' +
+        '<div class="stat"><b>2</b><span>Ready for review</span></div>' +
+        '<div class="stat"><b>6</b><span>In progress</span></div>' +
+        '<div class="stat"><b>28</b><span>Closed</span></div>';
       const agingHTML =
-        '<div class="stat" style="border-color:var(--age-green)"><b style="color:var(--age-green)">2</b><span>Green (≤ 2h)</span></div>' +
+        '<div class="stat" style="border-color:var(--age-green)"><b style="color:var(--age-green)">0</b><span>Green (≤ 2h)</span></div>' +
         '<div class="stat" style="border-color:var(--age-yellow)"><b style="color:var(--age-yellow)">7</b><span>Yellow (over 2h–8h)</span></div>' +
-        '<div class="stat" style="border-color:var(--age-red)"><b style="color:var(--age-red)">1</b><span>Red (over 8h)</span></div>' +
-        '<div class="stat" style="border-color:#9ca3af"><b style="color:#9ca3af">1</b><span>Age not computable</span></div>';
+        '<div class="stat" style="border-color:var(--age-red)"><b style="color:var(--age-red)">2</b><span>Red (over 8h)</span></div>' +
+        '<div class="stat" style="border-color:#9ca3af"><b style="color:#9ca3af">2</b><span>Age not computable</span></div>';
 
       document.getElementById("app").innerHTML = GROUPS.map(function (group) {
         const items = LINKS.filter(function (item) { return item.group === group.id; });
