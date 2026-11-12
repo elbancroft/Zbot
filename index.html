@@ -446,7 +446,7 @@
         owner: "Archer",
         description: "Published ticket dashboard. Volume charts plus open-ticket aging: green ≤ 2 hours, yellow over 2 through 8 hours, red over 8 hours. Clock starts at Requested CST. This is a republished snapshot of the official workbook, not a live feed.",
         href: "https://cursor.com/canvas/store-2c77da9d-4b8d-4695-afef-1dfe55b4b73a/7d16eab5-f464-4a21-9535-981e9ba84070",
-        source: "ListCanvases query “GOT-YA” / “ticket” and ReadCanvas of Page “GOT-YA — Ticket aging and volume” (canvas 7d16eab5…). Library updated Nov 11, 5:21 PM CST.",
+        source: "",
         lastChecked: LAST_CHECKED
       },
       {
@@ -456,7 +456,7 @@
         owner: "Scribe",
         description: "Official ticket workbook, the source of truth for the aging and volume Page. OneDrive copy in GrokBot/Tracking, refreshed in place daily after the 4 PM sweep (about 5 PM CST) by Researcher.",
         href: "https://onedrive.live.com/personal/5b8af18da2691640/_layouts/15/doc.aspx?resid=179d0aab-5dbf-4dda-8ed4-8ffef5d5fc9f&cid=5b8af18da2691640",
-        source: "Researcher upload, now in GrokBot/Tracking (folder 5B8AF18DA2691640!sc9b844dbd888477c9963ece4c271a584), item 5B8AF18DA2691640!s179d0aab5dbf4dda8ed48ffef5d5fc9f, 109,220 bytes, uploaded 6:08:57 PM CST.",
+        source: "",
         lastChecked: LAST_CHECKED
       },
       {
@@ -466,7 +466,7 @@
         owner: "Scribe",
         description: "Historical snapshot only — not the live workbook. Filed in GrokBot/Unfiled as 2026-11-10_GOT-YA_Snapshot_2035.xlsx.",
         href: "https://onedrive.live.com/personal/5b8af18da2691640/_layouts/15/doc.aspx?resid=a3d2b6ea-53c7-464d-bc8b-8ab87c919f7d&cid=5b8af18da2691640",
-        source: "OneDrive list of GrokBot/Unfiled (item 5B8AF18DA2691640!sa3d2b6ea53c7464dbc8b8ab87c919f7d). lastModified Nov 10, 8:37 PM CST.",
+        source: "",
         lastChecked: LAST_CHECKED
       },
       {
@@ -568,7 +568,7 @@
           '<p class="owner">Owner <strong>' + esc(item.owner) + "</strong></p>" +
           '<p class="desc">' + esc(item.description) + "</p>" +
           '<div class="meta">' +
-            "<div><b>Source</b> — " + esc(item.source) + "</div>" +
+            (item.source ? "<div><b>Source</b> — " + esc(item.source) + "</div>" : "") +
             path +
             "<div><b>Last checked</b> — " + esc(item.lastChecked) + "</div>" +
           "</div>" +
