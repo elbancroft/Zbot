@@ -1,5 +1,5 @@
 {
-  "asOf": "Nov 12, 11:09 AM CST",
+  "asOf": "Nov 12, 12:04 PM CST",
   "label": "Unverified news",
   "items": [
     {
@@ -10,17 +10,6 @@
       "url": "https://x.com/NWSPhoenix/status/2120903610007703982",
       "opsTag": [
         "Cooling load"
-      ]
-    },
-    {
-      "text": "Scattered showers & isolated T-storms are expected to move through the area later on Friday. A…",
-      "account": "@NWSPhoenix",
-      "time": "Nov 12, 7:20 AM CST",
-      "code": "PHX",
-      "url": "https://x.com/NWSPhoenix/status/2120869219470307385",
-      "opsTag": [
-        "Cooling load",
-        "Lightning"
       ]
     },
     {
@@ -41,27 +30,6 @@
       "url": "https://x.com/NWSFortWorth/status/2120831141569540176",
       "opsTag": [
         "Cooling load"
-      ]
-    },
-    {
-      "text": "Showers are possible today through Fri morning as a cold front pushes through. Much colder weather and gusty winds…",
-      "account": "@NWS_BaltWash",
-      "time": "Nov 12, 2:10 AM CST",
-      "code": "IAD",
-      "url": "https://x.com/NWS_BaltWash/status/2120791229063434624",
-      "opsTag": [
-        "Rooftop/crane work",
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "Scattered showers will develop on Thursday, increasing late in the day. Breezy northwest winds are expected.",
-      "account": "@NWSILN",
-      "time": "Nov 12, 12:20 AM CST",
-      "code": "CMH",
-      "url": "https://x.com/NWSILN/status/2120763653079126363",
-      "opsTag": [
-        "Rooftop/crane work"
       ]
     }
   ]
