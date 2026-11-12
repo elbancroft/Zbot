@@ -1,9 +1,19 @@
 {
-  "asOf": "Nov 11, 8:11 PM CST",
+  "asOf": "Nov 11, 9:03 PM CST",
   "label": "Unverified news",
   "items": [
     {
-      "text": "Severe Thunderstorm Warning for parts of the area until 8:45 PM EST",
+      "text": "After a period of quiet weather, a cooler/wetter pattern will become established this weekend as a series of…",
+      "account": "@NWSPhoenix",
+      "time": "Nov 11, 8:24 PM CST",
+      "code": "PHX",
+      "url": "https://x.com/NWSPhoenix/status/2120704139466543243",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
+    {
+      "text": "Severe Thunderstorm Warning including several communities in the area until 8:45 PM EST",
       "account": "@NWSILN",
       "time": "Nov 11, 7:13 PM CST",
       "code": "CMH",
