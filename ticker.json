@@ -1,7 +1,18 @@
 {
-  "asOf": "Nov 12, 2:08 AM CST",
+  "asOf": "Nov 12, 3:08 AM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "Showers are possible today through Fri morning as a cold front pushes through. Much colder weather and gusty winds…",
+      "account": "@NWS_BaltWash",
+      "time": "Nov 12, 2:10 AM CST",
+      "code": "IAD",
+      "url": "https://x.com/NWS_BaltWash/status/2120791229063434624",
+      "opsTag": [
+        "Rooftop/crane work",
+        "Cooling load"
+      ]
+    },
     {
       "text": "Scattered showers will develop on Thursday, increasing late in the day. Breezy northwest winds are expected.",
       "account": "@NWSILN",
