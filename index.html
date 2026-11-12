@@ -212,6 +212,8 @@
     .kicker.threat { color: #ff8a93; }
     .kicker.tickets { color: #93c5fd; }
     .kicker.runbook { color: #c4b5fd; }
+    .bar.editions { background: linear-gradient(180deg, #6ee7b7, #059669); }
+    .kicker.editions { color: #6ee7b7; }
 
     .legend {
       display: flex;
@@ -272,6 +274,8 @@
     .card.threat::before { background: linear-gradient(180deg, var(--threat-a), var(--threat-b)); }
     .card.tickets::before { background: var(--ticket); }
     .card.runbook::before { background: linear-gradient(180deg, #c4b5fd, var(--runbook-deep)); }
+    .card.editions { --accent: #10b981; }
+    .card.editions::before { background: linear-gradient(180deg, #6ee7b7, #059669); }
 
     .card-top {
       display: flex;
@@ -510,6 +514,29 @@
     const LAST_CHECKED = "Wednesday, November 11, 2026, 8:08 PM CST";
 
     const LINKS = [
+      // Latest editions (Travis, Nov 12, 2026, 12:12 PM CST): permanent section.
+      // Link text and URLs only; no edition content. The hourly snapshot copy
+      // and the ticker refresh must not remove or edit these two entries.
+      {
+        id: "morning-edition-latest",
+        group: "editions",
+        name: "Today's Morning Edition",
+        owner: "Z",
+        description: "Private Page, updated in place each weekday morning. Sign-in required.",
+        href: "https://cursor.com/canvas/store-2c77da9d-4b8d-4695-afef-1dfe55b4b73a/be319ea4-86d1-4bbe-b16a-4e827addb6b1",
+        source: "",
+        lastChecked: "Thursday, November 12, 2026, 12:13 PM CST"
+      },
+      {
+        id: "north-middletown-latest",
+        group: "editions",
+        name: "Latest North Middletown Report",
+        owner: "GIO",
+        description: "Private Page, updated in place each evening. Sign-in required.",
+        href: "https://cursor.com/canvas/store-2c77da9d-4b8d-4695-afef-1dfe55b4b73a/c1ed5b1c-a562-413c-b4f4-7f433a83ed74",
+        source: "",
+        lastChecked: "Thursday, November 12, 2026, 12:13 PM CST"
+      },
       {
         id: "xdr-console",
         group: "threat",
@@ -573,6 +600,12 @@
     ];
 
     const GROUPS = [
+      {
+        id: "editions",
+        kicker: "Editions",
+        title: "Latest editions",
+        intro: "Private pages; sign-in required."
+      },
       {
         id: "threat",
         kicker: "Threat monitoring",
