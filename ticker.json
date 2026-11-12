@@ -1,7 +1,27 @@
 {
-  "asOf": "Nov 11, 9:03 PM CST",
+  "asOf": "Nov 11, 10:04 PM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "Ibrahim Rizkalla was taken into ICE custody this summer and would have had his cheek swabbed for DNA, a criminal…",
+      "account": "@nbcwashington",
+      "time": "Nov 11, 9:30 PM CST",
+      "code": "IAD",
+      "url": "https://x.com/nbcwashington/status/2120720755612696586",
+      "opsTag": [
+        "Access/logistics"
+      ]
+    },
+    {
+      "text": "The area's first snow of the season has entered the forecast. 'The Forecasters' break down timing and current…",
+      "account": "@WGNNews",
+      "time": "Nov 11, 9:08 PM CST",
+      "code": "ORD",
+      "url": "https://x.com/WGNNews/status/2120715203843133625",
+      "opsTag": [
+        "Access/logistics"
+      ]
+    },
     {
       "text": "After a period of quiet weather, a cooler/wetter pattern will become established this weekend as a series of…",
       "account": "@NWSPhoenix",
@@ -43,16 +63,6 @@
       ]
     },
     {
-      "text": "Ibrahim Rizkalla was taken into ICE custody this summer and would have had his cheek swabbed for DNA, a criminal…",
-      "account": "@nbcwashington",
-      "time": "Nov 11, 6:30 PM CST",
-      "code": "IAD",
-      "url": "https://x.com/nbcwashington/status/2120675474917495197",
-      "opsTag": [
-        "Access/logistics"
-      ]
-    },
-    {
       "text": "🍂🌧️ Fall is in full swing, & more storm systems are in the forecast for the upcoming week. To prepare, make sure…",
       "account": "@NWSPortland",
       "time": "Nov 11, 5:07 PM CST",
@@ -85,16 +95,6 @@
       ]
     },
     {
-      "text": "#WinterPrep Week: Shoveling snow can be a health risk. Remember to stay hydrated, take frequent breaks, and move only…",
-      "account": "@NWSChicago",
-      "time": "Nov 11, 3:00 PM CST",
-      "code": "ORD",
-      "url": "https://x.com/NWSChicago/status/2120622605744918606",
-      "opsTag": [
-        "Access/logistics"
-      ]
-    },
-    {
       "text": "Rain will increase in coverage tonight and continue Thursday with periods of moderate rain possible. Temperatures will…",
       "account": "@NWSCLE",
       "time": "Nov 11, 2:52 PM CST",
@@ -113,16 +113,6 @@
       "url": "https://x.com/NWSFortWorth/status/2120606600012394556",
       "opsTag": [
         "Cooling load"
-      ]
-    },
-    {
-      "text": "Rain showers with some embedded thunderstorms will move into the region shortly after sunset this evening…",
-      "account": "@NWSILN",
-      "time": "Nov 11, 11:41 AM CST",
-      "code": "CMH",
-      "url": "https://x.com/NWSILN/status/2120572694983065852",
-      "opsTag": [
-        "Lightning"
       ]
     }
   ]
