@@ -1,9 +1,20 @@
 {
-  "asOf": "Nov 13, 9:10 AM CST",
+  "asOf": "Nov 13, 10:07 AM CST",
   "label": "Unverified news",
   "items": [
     {
-      "text": "Lake effect rain & snow will continue to stream into parts of the area off the lake this morning. Some areas will see…",
+      "text": "Low temperatures this morning ranged from the upper 50s to low 60s, around 10 degrees above normal for this time of…",
+      "account": "@NWSPhoenix",
+      "time": "Nov 13, 9:52 AM CST",
+      "code": "PHX",
+      "url": "https://x.com/NWSPhoenix/status/2121269868620067231",
+      "opsTag": [
+        "Cooling load",
+        "Lightning"
+      ]
+    },
+    {
+      "text": "Lake effect rain & snow will continue to stream into the area off the lake this morning. Some areas will see…",
       "account": "@NWSChicago",
       "time": "Nov 13, 8:02 AM CST",
       "code": "ORD",
@@ -55,26 +66,6 @@
       "time": "Nov 13, 4:21 AM CST",
       "code": "DFW",
       "url": "https://x.com/NWSFortWorth/status/2121186647190409338",
-      "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "Widespread rainfall is expected across the area this weekend, with the highest rain chances and coverage…",
-      "account": "@NWSFortWorth",
-      "time": "Nov 13, 4:21 AM CST",
-      "code": "DFW",
-      "url": "https://x.com/NWSFortWorth/status/2121186613334036854",
-      "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "Mountain snow showers off and on over the next couple of days, along with lingering rain showers across parts of the area…",
-      "account": "@NWS_BaltWash",
-      "time": "Nov 13, 12:52 AM CST",
-      "code": "IAD",
-      "url": "https://x.com/NWS_BaltWash/status/2121134115051225258",
       "opsTag": [
         "Cooling load"
       ]
