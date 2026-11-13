@@ -1,7 +1,27 @@
 {
-  "asOf": "Nov 13, 2:05 PM CST",
+  "asOf": "Nov 13, 3:08 PM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "[4:00 PM] Spotty showers will continue through the evening, decreasing in coverage overnight. Cannot rule out some…",
+      "account": "@NWSILN",
+      "time": "Nov 13, 3:01 PM CST",
+      "code": "CMH",
+      "url": "https://x.com/NWSILN/status/2121347767997988970",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
+    {
+      "text": "HAPPENING NOW: Ground Stops have been issued at both of the area's major airports…",
+      "account": "@WGNNews",
+      "time": "Nov 13, 3:01 PM CST",
+      "code": "ORD",
+      "url": "https://x.com/WGNNews/status/2121347757126693343",
+      "opsTag": [
+        "Access/logistics"
+      ]
+    },
     {
       "text": "Heads up! The lake effect showers have produced 1-2 inches of rain across portions of the area and nearby…",
       "account": "@NWSChicago",
@@ -14,16 +34,6 @@
       "account": "@NWSSaltLakeCity",
       "time": "Nov 13, 1:54 PM CST",
       "url": "https://x.com/NWSSaltLakeCity/status/2121330931621670980"
-    },
-    {
-      "text": "Lake effect rain showers will continue through Sat AM, mainly in parts of the area. While some snow may mix in again…",
-      "account": "@NWSChicago",
-      "time": "Nov 13, 1:27 PM CST",
-      "code": "ORD",
-      "url": "https://x.com/NWSChicago/status/2121324143559762224",
-      "opsTag": [
-        "Cooling load"
-      ]
     },
     {
       "text": "The end of the growing season nears with no additional frost/freeze headlines beyond tonight. Lows will fall into the…",
