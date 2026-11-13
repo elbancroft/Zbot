@@ -1,7 +1,36 @@
 {
-  "asOf": "Nov 13, 4:08 AM CST",
+  "asOf": "Nov 13, 5:03 AM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "Temperatures Friday night into Saturday morning will fall to below freezing for portions of the area…",
+      "account": "@NWSAtlanta",
+      "time": "Nov 13, 5:02 AM CST",
+      "url": "https://x.com/NWSAtlanta/status/2121197041300697244",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
+    {
+      "text": "Another cool day is in store on Monday along with mostly cloudy conditions and lingering sprinkles (~20% chance) in…",
+      "account": "@NWSFortWorth",
+      "time": "Nov 13, 4:21 AM CST",
+      "code": "DFW",
+      "url": "https://x.com/NWSFortWorth/status/2121186647190409338",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
+    {
+      "text": "Widespread rainfall is expected across the area this weekend, with the highest rain chances and coverage…",
+      "account": "@NWSFortWorth",
+      "time": "Nov 13, 4:21 AM CST",
+      "code": "DFW",
+      "url": "https://x.com/NWSFortWorth/status/2121186613334036854",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
     {
       "text": "[3:30 AM /13/2026] A period of lake effect precipitation will occur through Saturday AM. Precipitation will…",
       "account": "@NWSChicago",
@@ -64,27 +93,6 @@
       "code": "PHX",
       "url": "https://x.com/NWSPhoenix/status/2121040219432485277",
       "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "Cold rain showers, mixing with snow at times during the overnight, will continue through Saturday, especially in parts of the area…",
-      "account": "@NWSCLE",
-      "time": "Nov 12, 1:49 PM CST",
-      "code": "NEO",
-      "url": "https://x.com/NWSCLE/status/2120967176748187717",
-      "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "Another weak cold front will arrive tonight shifting winds out of the northeast bringing slightly cooler temperatures…",
-      "account": "@NWSFortWorth",
-      "time": "Nov 12, 1:36 PM CST",
-      "code": "DFW",
-      "url": "https://x.com/NWSFortWorth/status/2120963864711905661",
-      "opsTag": [
-        "Rooftop/crane work",
         "Cooling load"
       ]
     }
