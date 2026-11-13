@@ -1,7 +1,14 @@
 {
-  "asOf": "Nov 12, 8:07 PM CST",
+  "asOf": "Nov 12, 9:03 PM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "Bands of lake effect rain are settling along the border of the area and will change to snow overnight.…",
+      "account": "@NWSChicago",
+      "time": "Nov 12, 8:21 PM CST",
+      "code": "ORD",
+      "url": "https://x.com/NWSChicago/status/2121065892431982640"
+    },
     {
       "text": "Colder air arrives tonight on gusty northwest winds. Some rain may reach parts of the area…",
       "account": "@NWS_BaltWash",
@@ -22,13 +29,6 @@
       "opsTag": [
         "Cooling load"
       ]
-    },
-    {
-      "text": "Snow is expected to mix in at times tonight through Friday morning and may lead to slushy accumulations, especially…",
-      "account": "@NWSChicago",
-      "time": "Nov 12, 3:06 PM CST",
-      "code": "ORD",
-      "url": "https://x.com/NWSChicago/status/2120986496987713653"
     },
     {
       "text": "Cold rain showers, mixing with snow at times during the overnight, will continue through Saturday, especially in parts of the area…",
