@@ -1,7 +1,30 @@
 {
-  "asOf": "Nov 13, 1:02 PM CST",
+  "asOf": "Nov 13, 2:05 PM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "Heads up! The lake effect showers have produced 1-2 inches of rain across portions of the area and nearby…",
+      "account": "@NWSChicago",
+      "time": "Nov 13, 2:02 PM CST",
+      "code": "ORD",
+      "url": "https://x.com/NWSChicago/status/2121332888104821072"
+    },
+    {
+      "text": "A Winter Weather Advisory is in effect for the area's higher terrain 7 PM Friday evening through 11 AM Saturday…",
+      "account": "@NWSSaltLakeCity",
+      "time": "Nov 13, 1:54 PM CST",
+      "url": "https://x.com/NWSSaltLakeCity/status/2121330931621670980"
+    },
+    {
+      "text": "Lake effect rain showers will continue through Sat AM, mainly in parts of the area. While some snow may mix in again…",
+      "account": "@NWSChicago",
+      "time": "Nov 13, 1:27 PM CST",
+      "code": "ORD",
+      "url": "https://x.com/NWSChicago/status/2121324143559762224",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
     {
       "text": "The end of the growing season nears with no additional frost/freeze headlines beyond tonight. Lows will fall into the…",
       "account": "@NWS_BaltWash",
@@ -13,7 +36,7 @@
       ]
     },
     {
-      "text": "13 Nov 2026 11:15 AM MST: A broken line of showers with a few embedded thunderstorms currently in the western part of the area…",
+      "text": "13 Nov 2026 11:15 AM MST: A broken line of showers with a few embedded thunderstorms currently in parts of the area…",
       "account": "@NWSPhoenix",
       "time": "Nov 13, 12:23 PM CST",
       "code": "PHX",
@@ -47,23 +70,6 @@
       "opsTag": [
         "Cooling load",
         "Lightning"
-      ]
-    },
-    {
-      "text": "Lake effect rain & snow will continue to stream into the area off the lake this morning. Some areas will see…",
-      "account": "@NWSChicago",
-      "time": "Nov 13, 8:02 AM CST",
-      "code": "ORD",
-      "url": "https://x.com/NWSChicago/status/2121242316354568557"
-    },
-    {
-      "text": "Lake effect rain showers may mix with wet snow tonight, especially inland from the lake. Some light, slushy…",
-      "account": "@NWSCLE",
-      "time": "Nov 13, 5:49 AM CST",
-      "code": "NEO",
-      "url": "https://x.com/NWSCLE/status/2121208776917221550",
-      "opsTag": [
-        "Cooling load"
       ]
     }
   ]
