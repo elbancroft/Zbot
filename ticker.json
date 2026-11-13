@@ -1,7 +1,27 @@
 {
-  "asOf": "Nov 13, 12:09 PM CST",
+  "asOf": "Nov 13, 1:02 PM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "The end of the growing season nears with no additional frost/freeze headlines beyond tonight. Lows will fall into the…",
+      "account": "@NWS_BaltWash",
+      "time": "Nov 13, 1:02 PM CST",
+      "code": "IAD",
+      "url": "https://x.com/NWS_BaltWash/status/2121317673153810750",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
+    {
+      "text": "13 Nov 2026 11:15 AM MST: A broken line of showers with a few embedded thunderstorms currently in the western part of the area…",
+      "account": "@NWSPhoenix",
+      "time": "Nov 13, 12:23 PM CST",
+      "code": "PHX",
+      "url": "https://x.com/NWSPhoenix/status/2121308076636811392",
+      "opsTag": [
+        "Lightning"
+      ]
+    },
     {
       "text": "❄️Say it ain't snow! With the first flakes expected to fly soon, here is how November 13 compares to the average date…",
       "account": "@NWSCLE",
@@ -37,33 +57,12 @@
       "url": "https://x.com/NWSChicago/status/2121242316354568557"
     },
     {
-      "text": "Look for a few showers moving into the area this afternoon as temperatures cool several degrees from…",
-      "account": "@NWSPhoenix",
-      "time": "Nov 13, 6:43 AM CST",
-      "code": "PHX",
-      "url": "https://x.com/NWSPhoenix/status/2121222364793131078",
-      "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
       "text": "Lake effect rain showers may mix with wet snow tonight, especially inland from the lake. Some light, slushy…",
       "account": "@NWSCLE",
       "time": "Nov 13, 5:49 AM CST",
       "code": "NEO",
       "url": "https://x.com/NWSCLE/status/2121208776917221550",
       "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "BLUSTERY & COOLER 🧥: Time to bring out those heavier coats! Highs barely reach 50° Friday and it'll feel even…",
-      "account": "@nbcwashington",
-      "time": "Nov 13, 5:15 AM CST",
-      "code": "IAD",
-      "url": "https://x.com/nbcwashington/status/2121200189453013447",
-      "opsTag": [
-        "Rooftop/crane work",
         "Cooling load"
       ]
     }
