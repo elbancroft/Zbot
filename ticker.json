@@ -1,5 +1,5 @@
 {
-  "asOf": "Nov 13, 8:05 AM CST",
+  "asOf": "Nov 13, 9:10 AM CST",
   "label": "Unverified news",
   "items": [
     {
@@ -75,16 +75,6 @@
       "time": "Nov 13, 12:52 AM CST",
       "code": "IAD",
       "url": "https://x.com/NWS_BaltWash/status/2121134115051225258",
-      "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "A dry weather pattern will return starting this weekend. High temperatures will slowly rise above normal by Wednesday…",
-      "account": "@NWSILN",
-      "time": "Nov 12, 11:14 PM CST",
-      "code": "CMH",
-      "url": "https://x.com/NWSILN/status/2121109446134759890",
       "opsTag": [
         "Cooling load"
       ]
