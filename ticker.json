@@ -1,7 +1,27 @@
 {
-  "asOf": "Nov 12, 11:08 PM CST",
+  "asOf": "Nov 13, 12:02 AM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "A dry weather pattern will return starting this weekend. High temperatures will slowly rise above normal by Wednesday…",
+      "account": "@NWSILN",
+      "time": "Nov 12, 11:14 PM CST",
+      "code": "CMH",
+      "url": "https://x.com/NWSILN/status/2121109446134759890",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
+    {
+      "text": "Cloudy skies and cool temperatures will continue today. A few showers are possible.",
+      "account": "@NWSILN",
+      "time": "Nov 12, 11:14 PM CST",
+      "code": "CMH",
+      "url": "https://x.com/NWSILN/status/2121109438136279472",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
     {
       "text": "Bands of lake effect rain are settling along the border of the area and will change to snow overnight.…",
       "account": "@NWSChicago",
@@ -57,25 +77,6 @@
       "time": "Nov 12, 1:11 PM CST",
       "code": "DFW",
       "url": "https://x.com/NWSFortWorth/status/2120957550371983704",
-      "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "Cooler temperatures remain in place as we head into the weekend. A warming trend will arrive next week!",
-      "account": "@NWSILN",
-      "time": "Nov 12, 12:36 PM CST",
-      "code": "CMH",
-      "url": "https://x.com/NWSILN/status/2120948915604426802",
-      "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "🥶 A Freeze Watch is in effect for portions of the area Friday night into Saturday AM, with lows around…",
-      "account": "@NWSAtlanta",
-      "time": "Nov 12, 12:07 PM CST",
-      "url": "https://x.com/NWSAtlanta/status/2120941662390169989",
       "opsTag": [
         "Cooling load"
       ]
