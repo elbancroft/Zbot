@@ -1,7 +1,28 @@
 {
-  "asOf": "Nov 13, 5:03 AM CST",
+  "asOf": "Nov 13, 6:04 AM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "Lake effect rain showers may mix with wet snow tonight, especially inland from the lake. Some light, slushy…",
+      "account": "@NWSCLE",
+      "time": "Nov 13, 5:49 AM CST",
+      "code": "NEO",
+      "url": "https://x.com/NWSCLE/status/2121208776917221550",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
+    {
+      "text": "BLUSTERY & COOLER 🧥: Time to bring out those heavier coats! Highs barely reach 50° Friday and it'll feel even…",
+      "account": "@nbcwashington",
+      "time": "Nov 13, 5:15 AM CST",
+      "code": "IAD",
+      "url": "https://x.com/nbcwashington/status/2121200189453013447",
+      "opsTag": [
+        "Rooftop/crane work",
+        "Cooling load"
+      ]
+    },
     {
       "text": "Temperatures Friday night into Saturday morning will fall to below freezing for portions of the area…",
       "account": "@NWSAtlanta",
@@ -74,17 +95,6 @@
       "time": "Nov 12, 8:21 PM CST",
       "code": "ORD",
       "url": "https://x.com/NWSChicago/status/2121065892431982640"
-    },
-    {
-      "text": "Colder air arrives tonight on gusty northwest winds. Some rain may reach parts of the area…",
-      "account": "@NWS_BaltWash",
-      "time": "Nov 12, 8:01 PM CST",
-      "code": "IAD",
-      "url": "https://x.com/NWS_BaltWash/status/2121060783056650475",
-      "opsTag": [
-        "Rooftop/crane work",
-        "Cooling load"
-      ]
     },
     {
       "text": "High temperatures this afternoon reached the middle 80s across the area under mostly clear skies. Highs will…",
