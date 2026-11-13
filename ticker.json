@@ -1,7 +1,17 @@
 {
-  "asOf": "Nov 13, 12:02 AM CST",
+  "asOf": "Nov 13, 1:03 AM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "Mountain snow showers off and on over the next couple of days, along with lingering rain showers across parts of the area…",
+      "account": "@NWS_BaltWash",
+      "time": "Nov 13, 12:52 AM CST",
+      "code": "IAD",
+      "url": "https://x.com/NWS_BaltWash/status/2121134115051225258",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
     {
       "text": "A dry weather pattern will return starting this weekend. High temperatures will slowly rise above normal by Wednesday…",
       "account": "@NWSILN",
@@ -68,16 +78,6 @@
       "url": "https://x.com/NWSFortWorth/status/2120963864711905661",
       "opsTag": [
         "Rooftop/crane work",
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "Our next storm system will approach the area during the second half of the weekend. Widespread showers are…",
-      "account": "@NWSFortWorth",
-      "time": "Nov 12, 1:11 PM CST",
-      "code": "DFW",
-      "url": "https://x.com/NWSFortWorth/status/2120957550371983704",
-      "opsTag": [
         "Cooling load"
       ]
     }
