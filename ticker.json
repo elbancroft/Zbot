@@ -1,7 +1,18 @@
 {
-  "asOf": "Nov 12, 7:03 PM CST",
+  "asOf": "Nov 12, 8:07 PM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "Colder air arrives tonight on gusty northwest winds. Some rain may reach parts of the area…",
+      "account": "@NWS_BaltWash",
+      "time": "Nov 12, 8:01 PM CST",
+      "code": "IAD",
+      "url": "https://x.com/NWS_BaltWash/status/2121060783056650475",
+      "opsTag": [
+        "Rooftop/crane work",
+        "Cooling load"
+      ]
+    },
     {
       "text": "High temperatures this afternoon reached the middle 80s across the area under mostly clear skies. Highs will…",
       "account": "@NWSPhoenix",
@@ -47,17 +58,6 @@
       "code": "DFW",
       "url": "https://x.com/NWSFortWorth/status/2120957550371983704",
       "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "High temperatures this afternoon rise into the 60s to low 70s across the area with additional rain showers possible.…",
-      "account": "@NWS_BaltWash",
-      "time": "Nov 12, 1:05 PM CST",
-      "code": "IAD",
-      "url": "https://x.com/NWS_BaltWash/status/2120956171469119933",
-      "opsTag": [
-        "Rooftop/crane work",
         "Cooling load"
       ]
     },
