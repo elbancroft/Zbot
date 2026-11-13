@@ -1,7 +1,17 @@
 {
-  "asOf": "Nov 13, 6:04 AM CST",
+  "asOf": "Nov 13, 7:10 AM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "Look for a few showers moving into the area this afternoon as temperatures cool several degrees from…",
+      "account": "@NWSPhoenix",
+      "time": "Nov 13, 6:43 AM CST",
+      "code": "PHX",
+      "url": "https://x.com/NWSPhoenix/status/2121222364793131078",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
     {
       "text": "Lake effect rain showers may mix with wet snow tonight, especially inland from the lake. Some light, slushy…",
       "account": "@NWSCLE",
@@ -95,16 +105,6 @@
       "time": "Nov 12, 8:21 PM CST",
       "code": "ORD",
       "url": "https://x.com/NWSChicago/status/2121065892431982640"
-    },
-    {
-      "text": "High temperatures this afternoon reached the middle 80s across the area under mostly clear skies. Highs will…",
-      "account": "@NWSPhoenix",
-      "time": "Nov 12, 6:39 PM CST",
-      "code": "PHX",
-      "url": "https://x.com/NWSPhoenix/status/2121040219432485277",
-      "opsTag": [
-        "Cooling load"
-      ]
     }
   ]
 }
