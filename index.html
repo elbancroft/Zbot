@@ -551,7 +551,7 @@
         source: "",
         // lastChecked is the console Page's last-updated CST time. Update it
         // when the console is refreshed. The ticker publisher must not edit this.
-        lastChecked: "Friday, November 13, 2026, 8:06 AM CST"
+        lastChecked: "Friday, November 13, 2026, 10:08 AM CST"
       },
       {
         id: "gotya-aging-volume",
@@ -677,7 +677,7 @@
     // workbook file stamp. Do not leave those cards on LAST_CHECKED.
     // Keep the numeric copy; do not replace the numbers with a link.
     // Do not edit ticker.json or the ticker strip.
-    const SNAPSHOT_AS_OF = "2026-11-13 09:08:21 CST";
+    const SNAPSHOT_AS_OF = "2026-11-13 10:09:09 CST";
 
     function render() {
       const linked = LINKS.filter(function (item) { return item.href; }).length;
@@ -690,8 +690,8 @@
         '<div class="stat"><b>2</b><span>Accepted</span></div>' +
         '<div class="stat"><b>61</b><span>Closed</span></div>';
       const agingHTML =
-        '<div class="stat" style="border-color:var(--age-green)"><b style="color:var(--age-green)">3</b><span>Green (≤ 2h)</span></div>' +
-        '<div class="stat" style="border-color:var(--age-yellow)"><b style="color:var(--age-yellow)">2</b><span>Yellow (over 2h–8h)</span></div>' +
+        '<div class="stat" style="border-color:var(--age-green)"><b style="color:var(--age-green)">0</b><span>Green (≤ 2h)</span></div>' +
+        '<div class="stat" style="border-color:var(--age-yellow)"><b style="color:var(--age-yellow)">5</b><span>Yellow (over 2h–8h)</span></div>' +
         '<div class="stat" style="border-color:var(--age-red)"><b style="color:var(--age-red)">20</b><span>Red (over 8h)</span></div>' +
         '<div class="stat" style="border-color:#9ca3af"><b style="color:#9ca3af">0</b><span>Age not computable</span></div>';
 
