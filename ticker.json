@@ -1,7 +1,14 @@
 {
-  "asOf": "Nov 13, 3:05 AM CST",
+  "asOf": "Nov 13, 4:08 AM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "[3:30 AM /13/2026] A period of lake effect precipitation will occur through Saturday AM. Precipitation will…",
+      "account": "@NWSChicago",
+      "time": "Nov 13, 3:30 AM CST",
+      "code": "ORD",
+      "url": "https://x.com/NWSChicago/status/2121173805594706192"
+    },
     {
       "text": "Mountain snow showers off and on over the next couple of days, along with lingering rain showers across parts of the area…",
       "account": "@NWS_BaltWash",
