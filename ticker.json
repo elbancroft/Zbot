@@ -1,7 +1,17 @@
 {
-  "asOf": "Nov 12, 6:03 PM CST",
+  "asOf": "Nov 12, 7:03 PM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "High temperatures this afternoon reached the middle 80s across the area under mostly clear skies. Highs will…",
+      "account": "@NWSPhoenix",
+      "time": "Nov 12, 6:39 PM CST",
+      "code": "PHX",
+      "url": "https://x.com/NWSPhoenix/status/2121040219432485277",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
     {
       "text": "Snow is expected to mix in at times tonight through Friday morning and may lead to slushy accumulations, especially…",
       "account": "@NWSChicago",
