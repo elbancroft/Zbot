@@ -509,14 +509,18 @@
     /* ========================================================================
        LINKS — edit this array to update the hub. Use href: null for a
        placeholder. Never invent a URL.
-       lastChecked is the CST time this inventory was verified.
+       lastChecked is that item's source last-updated time in CST
+       (the Page or file stamp), not the inventory-verification time.
+       Update it whenever that source is published or refreshed.
        ======================================================================== */
     const LAST_CHECKED = "Wednesday, November 11, 2026, 8:08 PM CST";
 
     const LINKS = [
       // Latest editions (Travis, Nov 12, 2026, 12:12 PM CST): permanent section.
       // Link text and URLs only; no edition content. The hourly snapshot copy
-      // and the ticker refresh must not remove or edit these two entries.
+      // and the ticker refresh must not remove or edit these two entries,
+      // except to set lastChecked to the Page's last-updated CST time when
+      // that edition is published in place.
       {
         id: "morning-edition-latest",
         group: "editions",
@@ -525,7 +529,7 @@
         description: "Private Page, updated in place each weekday morning. Sign-in required.",
         href: "https://cursor.com/canvas/store-2c77da9d-4b8d-4695-afef-1dfe55b4b73a/be319ea4-86d1-4bbe-b16a-4e827addb6b1",
         source: "",
-        lastChecked: "Thursday, November 12, 2026, 12:13 PM CST"
+        lastChecked: "Friday, November 13, 2026, 7:17 AM CST"
       },
       {
         id: "north-middletown-latest",
@@ -535,7 +539,7 @@
         description: "Private Page, updated in place each evening. Sign-in required.",
         href: "https://cursor.com/canvas/store-2c77da9d-4b8d-4695-afef-1dfe55b4b73a/c1ed5b1c-a562-413c-b4f4-7f433a83ed74",
         source: "",
-        lastChecked: "Thursday, November 12, 2026, 12:13 PM CST"
+        lastChecked: "Thursday, November 12, 2026, 8:15 PM CST"
       },
       {
         id: "xdr-console",
@@ -545,7 +549,9 @@
         description: "Threat-monitoring console: official-source feeds, validated events, and the unverified news ticker.",
         href: "https://cursor.com/canvas/store-2c77da9d-4b8d-4695-afef-1dfe55b4b73a/4be4fd33-d987-45bf-87ff-0baa9af6dd4e",
         source: "",
-        lastChecked: LAST_CHECKED
+        // lastChecked is the console Page's last-updated CST time. Update it
+        // when the console is refreshed. The ticker publisher must not edit this.
+        lastChecked: "Friday, November 13, 2026, 7:10 AM CST"
       },
       {
         id: "gotya-aging-volume",
@@ -555,7 +561,7 @@
         description: "Published ticket dashboard. Volume charts plus open-ticket aging: green ≤ 2 hours, yellow over 2 through 8 hours, red over 8 hours. Clock starts at Requested CST. This is a republished snapshot of the official workbook, not a live feed.",
         href: "https://cursor.com/canvas/store-2c77da9d-4b8d-4695-afef-1dfe55b4b73a/7d16eab5-f464-4a21-9535-981e9ba84070",
         source: "",
-        lastChecked: LAST_CHECKED
+        lastChecked: "Friday, November 13, 2026, 7:18 AM CST"
       },
       {
         id: "gotya-workbook",
@@ -565,7 +571,7 @@
         description: "Official ticket workbook, the source of truth for the aging and volume Page. OneDrive copy in GrokBot/Tracking, updated in place by Researcher. Refreshed hourly, 6 AM–12 AM CST.",
         href: "https://onedrive.live.com/personal/5b8af18da2691640/_layouts/15/doc.aspx?resid=179d0aab-5dbf-4dda-8ed4-8ffef5d5fc9f&cid=5b8af18da2691640",
         source: "",
-        lastChecked: LAST_CHECKED
+        lastChecked: "Friday, November 13, 2026, 6:09 AM CST"
       },
       {
         id: "runbook-live",
@@ -666,6 +672,9 @@
     // SNAPSHOT_AS_OF from that snapshot's source stamp (REVISION.asOfCst
     // or the workbook stamp). Use an exact time only when it was read
     // from a message or file stamp; otherwise "about <time> CST (estimate)".
+    // Also set lastChecked on gotya-aging-volume to the dashboard Page's
+    // last-updated CST time, and lastChecked on gotya-workbook to the
+    // workbook file stamp. Do not leave those cards on LAST_CHECKED.
     // Keep the numeric copy; do not replace the numbers with a link.
     // Do not edit ticker.json or the ticker strip.
     const SNAPSHOT_AS_OF = "2026-11-13 07:09:18 CST";
