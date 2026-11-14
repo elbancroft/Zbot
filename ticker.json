@@ -1,7 +1,17 @@
 {
-  "asOf": "Nov 13, 8:07 PM CST",
+  "asOf": "Nov 13, 9:08 PM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "BREAKING UPDATE: The FAA has lifted a nationwide Ground Stop that, according to officials, was caused by a \"temporary…",
+      "account": "@WGNNews",
+      "time": "Nov 13, 8:13 PM CST",
+      "code": "ORD",
+      "url": "https://x.com/WGNNews/status/2121426241123230207",
+      "opsTag": [
+        "Access/logistics"
+      ]
+    },
     {
       "text": "High temperatures today were mostly in the 70s across the area's lower elevations.",
       "account": "@NWSPhoenix",
