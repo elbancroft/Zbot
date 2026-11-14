@@ -1,7 +1,17 @@
 {
-  "asOf": "Nov 14, 10:02 AM CST",
+  "asOf": "Nov 14, 11:08 AM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "Happy Saturday! Low temperatures this morning were mainly in the 50s, but some locations only fell into the low 60s.…",
+      "account": "@NWSPhoenix",
+      "time": "Nov 14, 10:17 AM CST",
+      "code": "PHX",
+      "url": "https://x.com/NWSPhoenix/status/2121638662907597236",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
     {
       "text": "A cold front will sweep through the area Tuesday bringing the next chance of rain and cooler temperatures. Some…",
       "account": "@NWSPhoenix",
@@ -104,16 +114,6 @@
       "url": "https://x.com/NWS_BaltWash/status/2121414343937962268",
       "opsTag": [
         "Cooling load"
-      ]
-    },
-    {
-      "text": "“This was a telecommunication outage throughout FAA,” Mullin said while fielding questions from reporters…",
-      "account": "@WGNNews",
-      "time": "Nov 13, 5:19 PM CST",
-      "code": "ORD",
-      "url": "https://x.com/WGNNews/status/2121382583020015837",
-      "opsTag": [
-        "Access/logistics"
       ]
     }
   ]
