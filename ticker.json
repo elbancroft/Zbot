@@ -1,7 +1,37 @@
 {
-  "asOf": "Nov 14, 6:03 AM CST",
+  "asOf": "Nov 14, 7:09 AM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "A cold front will sweep through the area Tuesday bringing the next chance of rain and cooler temperatures. Some…",
+      "account": "@NWSPhoenix",
+      "time": "Nov 14, 7:05 AM CST",
+      "code": "PHX",
+      "url": "https://x.com/NWSPhoenix/status/2121590248635269295",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
+    {
+      "text": "After this weekend's weather system moves out, temperatures will slowly rebound to near average by the middle of next…",
+      "account": "@NWSFortWorth",
+      "time": "Nov 14, 6:32 AM CST",
+      "code": "DFW",
+      "url": "https://x.com/NWSFortWorth/status/2121582135253299512",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
+    {
+      "text": "Numerous showers and scattered storms are expected on Sunday along with much cooler temps. Showers will taper off west…",
+      "account": "@NWSFortWorth",
+      "time": "Nov 14, 6:32 AM CST",
+      "code": "DFW",
+      "url": "https://x.com/NWSFortWorth/status/2121582127883927795",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
     {
       "text": "Lake effect precipitation continues this weekend. A rain/snow mix this morning will change to mainly rain, with…",
       "account": "@NWSCLE",
@@ -85,29 +115,6 @@
       "opsTag": [
         "Access/logistics"
       ]
-    },
-    {
-      "text": "[4:00 PM] Spotty showers will continue through the evening, decreasing in coverage overnight. Cannot rule out some…",
-      "account": "@NWSILN",
-      "time": "Nov 13, 3:01 PM CST",
-      "code": "CMH",
-      "url": "https://x.com/NWSILN/status/2121347767997988970",
-      "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "A Winter Weather Advisory is in effect for the area's higher terrain 7 PM Friday evening through 11 AM Saturday…",
-      "account": "@NWSSaltLakeCity",
-      "time": "Nov 13, 1:54 PM CST",
-      "url": "https://x.com/NWSSaltLakeCity/status/2121330931621670980"
-    },
-    {
-      "text": "❄️Say it ain't snow! With the first flakes expected to fly soon, here is how November 13 compares to the average date…",
-      "account": "@NWSCLE",
-      "time": "Nov 13, 12:06 PM CST",
-      "code": "NEO",
-      "url": "https://x.com/NWSCLE/status/2121303610264826109"
     }
   ]
 }
