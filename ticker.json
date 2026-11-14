@@ -1,15 +1,15 @@
 {
-  "asOf": "Nov 13, 5:11 PM CST",
+  "asOf": "Nov 13, 6:03 PM CST",
   "label": "Unverified news",
   "items": [
     {
-      "text": "[4:00 PM] Spotty showers will continue through the evening, decreasing in coverage overnight. Cannot rule out some…",
-      "account": "@NWSILN",
-      "time": "Nov 13, 3:01 PM CST",
-      "code": "CMH",
-      "url": "https://x.com/NWSILN/status/2121347767997988970",
+      "text": "“This was a telecommunication outage throughout FAA,” Mullin said while fielding questions from reporters…",
+      "account": "@WGNNews",
+      "time": "Nov 13, 5:19 PM CST",
+      "code": "ORD",
+      "url": "https://x.com/WGNNews/status/2121382583020015837",
       "opsTag": [
-        "Cooling load"
+        "Access/logistics"
       ]
     },
     {
@@ -20,6 +20,16 @@
       "url": "https://x.com/WGNNews/status/2121347757126693343",
       "opsTag": [
         "Access/logistics"
+      ]
+    },
+    {
+      "text": "[4:00 PM] Spotty showers will continue through the evening, decreasing in coverage overnight. Cannot rule out some…",
+      "account": "@NWSILN",
+      "time": "Nov 13, 3:01 PM CST",
+      "code": "CMH",
+      "url": "https://x.com/NWSILN/status/2121347767997988970",
+      "opsTag": [
+        "Cooling load"
       ]
     },
     {
