@@ -1,7 +1,27 @@
 {
-  "asOf": "Nov 14, 2:10 PM CST",
+  "asOf": "Nov 14, 3:03 PM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "Rain will expand overnight tonight and gradually shift east through the day Sunday, with highs in the upper 40s to…",
+      "account": "@NWSFortWorth",
+      "time": "Nov 14, 2:28 PM CST",
+      "code": "DFW",
+      "url": "https://x.com/NWSFortWorth/status/2121701858439750129",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
+    {
+      "text": "Periodic lake enhanced rain showers continue today across parts of the area. Some rain may mix with…",
+      "account": "@NWSCLE",
+      "time": "Nov 14, 2:14 PM CST",
+      "code": "NEO",
+      "url": "https://x.com/NWSCLE/status/2121698368636223921",
+      "opsTag": [
+        "Access/logistics"
+      ]
+    },
     {
       "text": "Areas of light rain are moving in from west to east today and will become more widespread overnight, with the…",
       "account": "@NWSFortWorth",
@@ -73,16 +93,6 @@
       ]
     },
     {
-      "text": "Numerous showers and scattered storms are expected on Sunday along with much cooler temps. Showers will taper off west…",
-      "account": "@NWSFortWorth",
-      "time": "Nov 14, 6:32 AM CST",
-      "code": "DFW",
-      "url": "https://x.com/NWSFortWorth/status/2121582127883927795",
-      "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
       "text": "Lake effect precipitation continues this weekend. A rain/snow mix this morning will change to mainly rain, with…",
       "account": "@NWSCLE",
       "time": "Nov 14, 5:21 AM CST",
@@ -109,16 +119,6 @@
       "time": "Nov 14, 1:59 AM CST",
       "code": "ORD",
       "url": "https://x.com/NWSChicago/status/2121513294976463238"
-    },
-    {
-      "text": "A dry weather pattern will return through the upcoming week. Temperatures will rise above normal starting on Wednesday…",
-      "account": "@NWSILN",
-      "time": "Nov 14, 1:22 AM CST",
-      "code": "CMH",
-      "url": "https://x.com/NWSILN/status/2121503911856992456",
-      "opsTag": [
-        "Cooling load"
-      ]
     }
   ]
 }
