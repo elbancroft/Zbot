@@ -1,7 +1,17 @@
 {
-  "asOf": "Nov 14, 12:06 AM CST",
+  "asOf": "Nov 14, 1:08 AM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "A dry weather pattern will return through the upcoming week. Temperatures will rise above normal starting on Wednesday…",
+      "account": "@NWSILN",
+      "time": "Nov 14, 12:34 AM CST",
+      "code": "CMH",
+      "url": "https://x.com/NWSILN/status/2121491875043426366",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
     {
       "text": "BREAKING UPDATE: The FAA has lifted a nationwide Ground Stop that, according to officials, was caused by a \"temporary…",
       "account": "@WGNNews",
@@ -80,15 +90,6 @@
       "time": "Nov 13, 12:06 PM CST",
       "code": "NEO",
       "url": "https://x.com/NWSCLE/status/2121303610264826109"
-    },
-    {
-      "text": "📉First freezing nights ahead! ➡️Tonight into Sat AM: Freeze Warning/Frost Advisory in effect, with lows in the upper…",
-      "account": "@NWSAtlanta",
-      "time": "Nov 13, 11:30 AM CST",
-      "url": "https://x.com/NWSAtlanta/status/2121294730587763083",
-      "opsTag": [
-        "Cooling load"
-      ]
     },
     {
       "text": "HAPPENING NOW: Ground Stops have been issued at both of the area's major airports…",
