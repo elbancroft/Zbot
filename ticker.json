@@ -1,7 +1,18 @@
 {
-  "asOf": "Nov 14, 5:04 AM CST",
+  "asOf": "Nov 14, 6:03 AM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "Lake effect precipitation continues this weekend. A rain/snow mix this morning will change to mainly rain, with…",
+      "account": "@NWSCLE",
+      "time": "Nov 14, 5:21 AM CST",
+      "code": "NEO",
+      "url": "https://x.com/NWSCLE/status/2121564297025183975",
+      "opsTag": [
+        "Cooling load",
+        "Access/logistics"
+      ]
+    },
     {
       "text": "Much cooler conditions continue over the next few days, with lingering mountain snow showers through Sunday. Otherwise…",
       "account": "@NWS_BaltWash",
@@ -97,16 +108,6 @@
       "time": "Nov 13, 12:06 PM CST",
       "code": "NEO",
       "url": "https://x.com/NWSCLE/status/2121303610264826109"
-    },
-    {
-      "text": "HAPPENING NOW: Ground Stops have been issued at both of the area's major airports…",
-      "account": "@WGNNews",
-      "time": "Nov 13, 3:01 PM CST",
-      "code": "ORD",
-      "url": "https://x.com/WGNNews/status/2121347757126693343",
-      "opsTag": [
-        "Access/logistics"
-      ]
     }
   ]
 }
