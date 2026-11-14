@@ -1,7 +1,14 @@
 {
-  "asOf": "Nov 14, 1:08 AM CST",
+  "asOf": "Nov 14, 2:08 AM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "[2:00 AM /14/2026] Lingering lake effect showers in parts of the area will move east of the area…",
+      "account": "@NWSChicago",
+      "time": "Nov 14, 1:59 AM CST",
+      "code": "ORD",
+      "url": "https://x.com/NWSChicago/status/2121513294976463238"
+    },
     {
       "text": "A dry weather pattern will return through the upcoming week. Temperatures will rise above normal starting on Wednesday…",
       "account": "@NWSILN",
@@ -100,13 +107,6 @@
       "opsTag": [
         "Access/logistics"
       ]
-    },
-    {
-      "text": "Heads up! The lake effect showers have produced 1-2 inches of rain across portions of the area and nearby…",
-      "account": "@NWSChicago",
-      "time": "Nov 13, 2:02 PM CST",
-      "code": "ORD",
-      "url": "https://x.com/NWSChicago/status/2121332888104821072"
     }
   ]
 }
