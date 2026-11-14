@@ -1,7 +1,47 @@
 {
-  "asOf": "Nov 14, 12:08 PM CST",
+  "asOf": "Nov 14, 1:08 PM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "🥶 A Freeze Warning remains in effect for the area tonight into Sunday AM as lows fall to around…",
+      "account": "@NWSAtlanta",
+      "time": "Nov 14, 1:06 PM CST",
+      "url": "https://x.com/NWSAtlanta/status/2121681172338205148",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
+    {
+      "text": "Dry conditions will prevail through at least the middle of the week with gradually warming temperatures.",
+      "account": "@NWSChicago",
+      "time": "Nov 14, 1:05 PM CST",
+      "code": "ORD",
+      "url": "https://x.com/NWSChicago/status/2121680902061216164",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
+    {
+      "text": "Mostly cloudy today with winds gusting up to 25-30 MPH this afternoon in the wake of a cold front. Highs range in the…",
+      "account": "@NWS_BaltWash",
+      "time": "Nov 14, 12:24 PM CST",
+      "code": "IAD",
+      "url": "https://x.com/NWS_BaltWash/status/2121670699450593493",
+      "opsTag": [
+        "Rooftop/crane work",
+        "Cooling load"
+      ]
+    },
+    {
+      "text": "[1:10 PM] The 8 to 14 Day Outlook from the Climate Prediction Center indicates above average chances for both…",
+      "account": "@NWSILN",
+      "time": "Nov 14, 12:13 PM CST",
+      "code": "CMH",
+      "url": "https://x.com/NWSILN/status/2121667781284311464",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
     {
       "text": "Happy Saturday! Low temperatures this morning were mainly in the 50s, but some locations only fell into the low 60s.…",
       "account": "@NWSPhoenix",
@@ -76,42 +116,6 @@
       "time": "Nov 14, 1:22 AM CST",
       "code": "CMH",
       "url": "https://x.com/NWSILN/status/2121503911856992456",
-      "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "BREAKING UPDATE: The FAA has lifted a nationwide Ground Stop that, according to officials, was caused by a \"temporary…",
-      "account": "@WGNNews",
-      "time": "Nov 13, 8:13 PM CST",
-      "code": "ORD",
-      "url": "https://x.com/WGNNews/status/2121426241123230207",
-      "opsTag": [
-        "Access/logistics"
-      ]
-    },
-    {
-      "text": "High temperatures today were mostly in the 70s across the area's lower elevations.",
-      "account": "@NWSPhoenix",
-      "time": "Nov 13, 7:56 PM CST",
-      "code": "PHX",
-      "url": "https://x.com/NWSPhoenix/status/2121421876547485728",
-      "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "A storm system will continue to impact the region through Saturday, bringing widespread rain and mountain snow. After…",
-      "account": "@NWSSaltLakeCity",
-      "time": "Nov 13, 7:51 PM CST",
-      "url": "https://x.com/NWSSaltLakeCity/status/2121420723822407902"
-    },
-    {
-      "text": "The mild start to Fall set or tied some records across the local airports. For the latest high below 60F, the area's main airport broke…",
-      "account": "@NWS_BaltWash",
-      "time": "Nov 13, 7:26 PM CST",
-      "code": "IAD",
-      "url": "https://x.com/NWS_BaltWash/status/2121414343937962268",
       "opsTag": [
         "Cooling load"
       ]
