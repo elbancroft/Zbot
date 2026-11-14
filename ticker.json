@@ -1,7 +1,17 @@
 {
-  "asOf": "Nov 14, 1:08 PM CST",
+  "asOf": "Nov 14, 2:10 PM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "Areas of light rain are moving in from west to east today and will become more widespread overnight, with the…",
+      "account": "@NWSFortWorth",
+      "time": "Nov 14, 1:15 PM CST",
+      "code": "DFW",
+      "url": "https://x.com/NWSFortWorth/status/2121683385957429492",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
     {
       "text": "🥶 A Freeze Warning remains in effect for the area tonight into Sunday AM as lows fall to around…",
       "account": "@NWSAtlanta",
@@ -58,16 +68,6 @@
       "time": "Nov 14, 7:05 AM CST",
       "code": "PHX",
       "url": "https://x.com/NWSPhoenix/status/2121590248635269295",
-      "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "After this weekend's weather system moves out, temperatures will slowly rebound to near average by the middle of next…",
-      "account": "@NWSFortWorth",
-      "time": "Nov 14, 6:32 AM CST",
-      "code": "DFW",
-      "url": "https://x.com/NWSFortWorth/status/2121582135253299512",
       "opsTag": [
         "Cooling load"
       ]
