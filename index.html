@@ -571,7 +571,7 @@
         description: "Official ticket workbook, the source of truth for the aging and volume Page. OneDrive copy in GrokBot/Tracking, updated in place by Researcher. Refreshed hourly, 6 AM–12 AM CST.",
         href: "https://onedrive.live.com/personal/5b8af18da2691640/_layouts/15/doc.aspx?resid=179d0aab-5dbf-4dda-8ed4-8ffef5d5fc9f&cid=5b8af18da2691640",
         source: "",
-        lastChecked: "Friday, November 13, 2026, 4:13 PM CST"
+        lastChecked: "Friday, November 13, 2026, 7:25 PM CST"
       },
       {
         id: "runbook-live",
@@ -677,21 +677,21 @@
     // workbook file stamp. Do not leave those cards on LAST_CHECKED.
     // Keep the numeric copy; do not replace the numbers with a link.
     // Do not edit ticker.json or the ticker strip.
-    const SNAPSHOT_AS_OF = "2026-11-13 17:06:46 CST";
+    const SNAPSHOT_AS_OF = "2026-11-13 20:03:02 CST";
 
     function render() {
       const linked = LINKS.filter(function (item) { return item.href; }).length;
       const pending = LINKS.length - linked;
       const statsHTML =
-        '<div class="stat"><b>88</b><span>Total work volume</span></div>' +
-        '<div class="stat"><b>24</b><span>Open (not closed)</span></div>' +
+        '<div class="stat"><b>89</b><span>Total work volume</span></div>' +
+        '<div class="stat"><b>25</b><span>Open (not closed)</span></div>' +
         '<div class="stat"><b>1</b><span>Ready for review</span></div>' +
-        '<div class="stat"><b>20</b><span>In progress</span></div>' +
+        '<div class="stat"><b>21</b><span>In progress</span></div>' +
         '<div class="stat"><b>2</b><span>Accepted</span></div>' +
         '<div class="stat"><b>1</b><span>Assigned</span></div>' +
         '<div class="stat"><b>64</b><span>Closed</span></div>';
       const agingHTML =
-        '<div class="stat" style="border-color:var(--age-green)"><b style="color:var(--age-green)">0</b><span>Green (≤ 2h)</span></div>' +
+        '<div class="stat" style="border-color:var(--age-green)"><b style="color:var(--age-green)">1</b><span>Green (≤ 2h)</span></div>' +
         '<div class="stat" style="border-color:var(--age-yellow)"><b style="color:var(--age-yellow)">1</b><span>Yellow (over 2h–8h)</span></div>' +
         '<div class="stat" style="border-color:var(--age-red)"><b style="color:var(--age-red)">23</b><span>Red (over 8h)</span></div>' +
         '<div class="stat" style="border-color:#9ca3af"><b style="color:#9ca3af">0</b><span>Age not computable</span></div>';
