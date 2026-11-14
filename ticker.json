@@ -1,23 +1,39 @@
 {
-  "asOf": "Nov 13, 7:02 PM CST",
+  "asOf": "Nov 13, 8:07 PM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "High temperatures today were mostly in the 70s across the area's lower elevations.",
+      "account": "@NWSPhoenix",
+      "time": "Nov 13, 7:56 PM CST",
+      "code": "PHX",
+      "url": "https://x.com/NWSPhoenix/status/2121421876547485728",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
+    {
+      "text": "A storm system will continue to impact the region through Saturday, bringing widespread rain and mountain snow. After…",
+      "account": "@NWSSaltLakeCity",
+      "time": "Nov 13, 7:51 PM CST",
+      "url": "https://x.com/NWSSaltLakeCity/status/2121420723822407902"
+    },
+    {
+      "text": "The mild start to Fall set or tied some records across the local airports. For the latest high below 60F, the area's main airport broke…",
+      "account": "@NWS_BaltWash",
+      "time": "Nov 13, 7:26 PM CST",
+      "code": "IAD",
+      "url": "https://x.com/NWS_BaltWash/status/2121414343937962268",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
     {
       "text": "“This was a telecommunication outage throughout FAA,” Mullin said while fielding questions from reporters…",
       "account": "@WGNNews",
       "time": "Nov 13, 5:19 PM CST",
       "code": "ORD",
       "url": "https://x.com/WGNNews/status/2121382583020015837",
-      "opsTag": [
-        "Access/logistics"
-      ]
-    },
-    {
-      "text": "HAPPENING NOW: Ground Stops have been issued at both of the area's major airports…",
-      "account": "@WGNNews",
-      "time": "Nov 13, 3:01 PM CST",
-      "code": "ORD",
-      "url": "https://x.com/WGNNews/status/2121347757126693343",
       "opsTag": [
         "Access/logistics"
       ]
@@ -33,13 +49,6 @@
       ]
     },
     {
-      "text": "Heads up! The lake effect showers have produced 1-2 inches of rain across portions of the area and nearby…",
-      "account": "@NWSChicago",
-      "time": "Nov 13, 2:02 PM CST",
-      "code": "ORD",
-      "url": "https://x.com/NWSChicago/status/2121332888104821072"
-    },
-    {
       "text": "A Winter Weather Advisory is in effect for the area's higher terrain 7 PM Friday evening through 11 AM Saturday…",
       "account": "@NWSSaltLakeCity",
       "time": "Nov 13, 1:54 PM CST",
@@ -53,16 +62,6 @@
       "url": "https://x.com/NWS_BaltWash/status/2121317673153810750",
       "opsTag": [
         "Cooling load"
-      ]
-    },
-    {
-      "text": "13 Nov 2026 11:15 AM MST: A broken line of showers with a few embedded thunderstorms currently in parts of the area…",
-      "account": "@NWSPhoenix",
-      "time": "Nov 13, 12:23 PM CST",
-      "code": "PHX",
-      "url": "https://x.com/NWSPhoenix/status/2121308076636811392",
-      "opsTag": [
-        "Lightning"
       ]
     },
     {
@@ -82,15 +81,21 @@
       ]
     },
     {
-      "text": "Low temperatures this morning ranged from the upper 50s to low 60s, around 10 degrees above normal for this time of…",
-      "account": "@NWSPhoenix",
-      "time": "Nov 13, 9:52 AM CST",
-      "code": "PHX",
-      "url": "https://x.com/NWSPhoenix/status/2121269868620067231",
+      "text": "HAPPENING NOW: Ground Stops have been issued at both of the area's major airports…",
+      "account": "@WGNNews",
+      "time": "Nov 13, 3:01 PM CST",
+      "code": "ORD",
+      "url": "https://x.com/WGNNews/status/2121347757126693343",
       "opsTag": [
-        "Cooling load",
-        "Lightning"
+        "Access/logistics"
       ]
+    },
+    {
+      "text": "Heads up! The lake effect showers have produced 1-2 inches of rain across portions of the area and nearby…",
+      "account": "@NWSChicago",
+      "time": "Nov 13, 2:02 PM CST",
+      "code": "ORD",
+      "url": "https://x.com/NWSChicago/status/2121332888104821072"
     }
   ]
 }
