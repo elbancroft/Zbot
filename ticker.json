@@ -1,7 +1,17 @@
 {
-  "asOf": "Nov 14, 2:08 AM CST",
+  "asOf": "Nov 14, 3:10 AM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "Much cooler conditions continue over the next few days, with lingering mountain snow showers through Sunday. Otherwise…",
+      "account": "@NWS_BaltWash",
+      "time": "Nov 14, 2:37 AM CST",
+      "code": "IAD",
+      "url": "https://x.com/NWS_BaltWash/status/2121522987568439778",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
     {
       "text": "[2:00 AM /14/2026] Lingering lake effect showers in parts of the area will move east of the area…",
       "account": "@NWSChicago",
@@ -12,9 +22,9 @@
     {
       "text": "A dry weather pattern will return through the upcoming week. Temperatures will rise above normal starting on Wednesday…",
       "account": "@NWSILN",
-      "time": "Nov 14, 12:34 AM CST",
+      "time": "Nov 14, 1:22 AM CST",
       "code": "CMH",
-      "url": "https://x.com/NWSILN/status/2121491875043426366",
+      "url": "https://x.com/NWSILN/status/2121503911856992456",
       "opsTag": [
         "Cooling load"
       ]
@@ -80,16 +90,6 @@
       "account": "@NWSSaltLakeCity",
       "time": "Nov 13, 1:54 PM CST",
       "url": "https://x.com/NWSSaltLakeCity/status/2121330931621670980"
-    },
-    {
-      "text": "The end of the growing season nears with no additional frost/freeze headlines beyond tonight. Lows will fall into the…",
-      "account": "@NWS_BaltWash",
-      "time": "Nov 13, 1:02 PM CST",
-      "code": "IAD",
-      "url": "https://x.com/NWS_BaltWash/status/2121317673153810750",
-      "opsTag": [
-        "Cooling load"
-      ]
     },
     {
       "text": "❄️Say it ain't snow! With the first flakes expected to fly soon, here is how November 13 compares to the average date…",
