@@ -561,7 +561,7 @@
         description: "Published ticket dashboard. Volume charts plus open-ticket aging: green ≤ 2 hours, yellow over 2 through 8 hours, red over 8 hours. Clock starts at Requested CST. This is a republished snapshot of the official workbook, not a live feed.",
         href: "https://cursor.com/canvas/store-2c77da9d-4b8d-4695-afef-1dfe55b4b73a/7d16eab5-f464-4a21-9535-981e9ba84070",
         source: "",
-        lastChecked: "Saturday, November 14, 2026, 9:15 PM CST"
+        lastChecked: "Sunday, November 15, 2026, 7:17 AM CST"
       },
       {
         id: "gotya-workbook",
@@ -571,7 +571,7 @@
         description: "Official ticket workbook, the source of truth for the aging and volume Page. OneDrive copy in GrokBot/Tracking, updated in place by Researcher. Refreshed hourly, 6 AM–12 AM CST.",
         href: "https://onedrive.live.com/personal/5b8af18da2691640/_layouts/15/doc.aspx?resid=179d0aab-5dbf-4dda-8ed4-8ffef5d5fc9f&cid=5b8af18da2691640",
         source: "",
-        lastChecked: "Saturday, November 14, 2026, 8:56 PM CST"
+        lastChecked: "Saturday, November 14, 2026, 9:45 PM CST"
       },
       {
         id: "runbook-live",
@@ -677,21 +677,21 @@
     // workbook file stamp. Do not leave those cards on LAST_CHECKED.
     // Keep the numeric copy; do not replace the numbers with a link.
     // Do not edit ticker.json or the ticker strip.
-    const SNAPSHOT_AS_OF = "2026-11-14 20:56:11 CST";
+    const SNAPSHOT_AS_OF = "2026-11-14 21:45:55 CST";
 
     function render() {
       const linked = LINKS.filter(function (item) { return item.href; }).length;
       const pending = LINKS.length - linked;
       const statsHTML =
-        '<div class="stat"><b>95</b><span>Total work volume</span></div>' +
-        '<div class="stat"><b>25</b><span>Open (not closed)</span></div>' +
-        '<div class="stat"><b>2</b><span>Ready for review</span></div>' +
+        '<div class="stat"><b>100</b><span>Total work volume</span></div>' +
+        '<div class="stat"><b>27</b><span>Open (not closed)</span></div>' +
+        '<div class="stat"><b>4</b><span>Ready for review</span></div>' +
         '<div class="stat"><b>21</b><span>In progress</span></div>' +
         '<div class="stat"><b>2</b><span>Accepted</span></div>' +
         '<div class="stat"><b>0</b><span>Assigned</span></div>' +
-        '<div class="stat"><b>70</b><span>Closed</span></div>';
+        '<div class="stat"><b>73</b><span>Closed</span></div>';
       const agingHTML =
-        '<div class="stat" style="border-color:var(--age-green)"><b style="color:var(--age-green)">0</b><span>Green (≤ 2h)</span></div>' +
+        '<div class="stat" style="border-color:var(--age-green)"><b style="color:var(--age-green)">2</b><span>Green (≤ 2h)</span></div>' +
         '<div class="stat" style="border-color:var(--age-yellow)"><b style="color:var(--age-yellow)">2</b><span>Yellow (over 2h–8h)</span></div>' +
         '<div class="stat" style="border-color:var(--age-red)"><b style="color:var(--age-red)">23</b><span>Red (over 8h)</span></div>' +
         '<div class="stat" style="border-color:#9ca3af"><b style="color:#9ca3af">0</b><span>Age not computable</span></div>';
