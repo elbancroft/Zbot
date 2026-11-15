@@ -1,7 +1,16 @@
 {
-  "asOf": "Nov 14, 5:05 PM CST",
+  "asOf": "Nov 14, 6:08 PM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "Are you prepared for the cold? As temperatures drop, remember to protect: 🫂- Limit time outside & check in on…",
+      "account": "@NWSAtlanta",
+      "time": "Nov 14, 5:30 PM CST",
+      "url": "https://x.com/NWSAtlanta/status/2121747506258465031",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
     {
       "text": "Rain will expand overnight tonight and gradually shift east through the day Sunday, with highs in the upper 40s to…",
       "account": "@NWSFortWorth",
@@ -112,13 +121,6 @@
       "opsTag": [
         "Cooling load"
       ]
-    },
-    {
-      "text": "[2:00 AM /14/2026] Lingering lake effect showers in parts of the area will move east of the area…",
-      "account": "@NWSChicago",
-      "time": "Nov 14, 1:59 AM CST",
-      "code": "ORD",
-      "url": "https://x.com/NWSChicago/status/2121513294976463238"
     }
   ]
 }
