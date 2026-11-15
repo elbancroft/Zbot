@@ -1,7 +1,18 @@
 {
-  "asOf": "Nov 15, 2:03 AM CST",
+  "asOf": "Nov 15, 3:10 AM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "Brisk winds and below normal temperatures will continue through today with waves of clouds. Warmer and dry conditions…",
+      "account": "@NWS_BaltWash",
+      "time": "Nov 15, 2:04 AM CST",
+      "code": "IAD",
+      "url": "https://x.com/NWS_BaltWash/status/2121876929993220335",
+      "opsTag": [
+        "Rooftop/crane work",
+        "Cooling load"
+      ]
+    },
     {
       "text": "[1:25 AM /15/2026] Dry conditions will continue through at least the middle of the upcoming week as temperatures…",
       "account": "@NWSChicago",
@@ -98,17 +109,6 @@
       "code": "ORD",
       "url": "https://x.com/NWSChicago/status/2121680902061216164",
       "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "Mostly cloudy today with winds gusting up to 25-30 MPH this afternoon in the wake of a cold front. Highs range in the…",
-      "account": "@NWS_BaltWash",
-      "time": "Nov 14, 12:24 PM CST",
-      "code": "IAD",
-      "url": "https://x.com/NWS_BaltWash/status/2121670699450593493",
-      "opsTag": [
-        "Rooftop/crane work",
         "Cooling load"
       ]
     },
