@@ -1,7 +1,16 @@
 {
-  "asOf": "Nov 15, 8:05 AM CST",
+  "asOf": "Nov 15, 9:04 AM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "📢 Following this widespread freezing conditions over the weekend, our office has concluded the Frost and Freeze…",
+      "account": "@NWSAtlanta",
+      "time": "Nov 15, 8:28 AM CST",
+      "url": "https://x.com/NWSAtlanta/status/2121973620956176673",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
     {
       "text": "Under a mix of clouds and sun, afternoon highs will comfortably reach very near daily normals today. Readings will be…",
       "account": "@NWSPhoenix",
@@ -40,16 +49,6 @@
       "url": "https://x.com/NWSCLE/status/2121932398560412145",
       "opsTag": [
         "Cooling load"
-      ]
-    },
-    {
-      "text": "Periodic lake enhanced rain showers continue today across parts of the area. Some rain may mix with…",
-      "account": "@NWSCLE",
-      "time": "Nov 14, 2:14 PM CST",
-      "code": "NEO",
-      "url": "https://x.com/NWSCLE/status/2121698368636223921",
-      "opsTag": [
-        "Access/logistics"
       ]
     },
     {
@@ -104,15 +103,6 @@
       ]
     },
     {
-      "text": "Mostly sunny skies with cold overnights will continue, although daytime high temperatures will warm into the upper 60s…",
-      "account": "@NWSAtlanta",
-      "time": "Nov 14, 7:04 PM CST",
-      "url": "https://x.com/NWSAtlanta/status/2121771384112124097",
-      "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
       "text": "High temperatures this afternoon ranged from below normal in parts of the area to slightly above normal elsewhere…",
       "account": "@NWSPhoenix",
       "time": "Nov 14, 6:48 PM CST",
@@ -120,6 +110,16 @@
       "url": "https://x.com/NWSPhoenix/status/2121767245844021734",
       "opsTag": [
         "Cooling load"
+      ]
+    },
+    {
+      "text": "Periodic lake enhanced rain showers continue today across parts of the area. Some rain may mix with…",
+      "account": "@NWSCLE",
+      "time": "Nov 14, 2:14 PM CST",
+      "code": "NEO",
+      "url": "https://x.com/NWSCLE/status/2121698368636223921",
+      "opsTag": [
+        "Access/logistics"
       ]
     }
   ]
