@@ -1,7 +1,27 @@
 {
-  "asOf": "Nov 14, 7:02 PM CST",
+  "asOf": "Nov 14, 8:06 PM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "For tonight, expect decreasing winds with lows mainly in the 30s, locally falling into the mid/upper 20s across parts of the area…",
+      "account": "@NWS_BaltWash",
+      "time": "Nov 14, 8:03 PM CST",
+      "code": "IAD",
+      "url": "https://x.com/NWS_BaltWash/status/2121786251930206666",
+      "opsTag": [
+        "Rooftop/crane work",
+        "Cooling load"
+      ]
+    },
+    {
+      "text": "Mostly sunny skies with cold overnights will continue, although daytime high temperatures will warm into the upper 60s…",
+      "account": "@NWSAtlanta",
+      "time": "Nov 14, 7:04 PM CST",
+      "url": "https://x.com/NWSAtlanta/status/2121771384112124097",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
     {
       "text": "High temperatures this afternoon ranged from below normal in parts of the area to slightly above normal elsewhere…",
       "account": "@NWSPhoenix",
@@ -47,15 +67,6 @@
       "time": "Nov 14, 1:15 PM CST",
       "code": "DFW",
       "url": "https://x.com/NWSFortWorth/status/2121683385957429492",
-      "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "🥶 A Freeze Warning remains in effect for the area tonight into Sunday AM as lows fall to around…",
-      "account": "@NWSAtlanta",
-      "time": "Nov 14, 1:06 PM CST",
-      "url": "https://x.com/NWSAtlanta/status/2121681172338205148",
       "opsTag": [
         "Cooling load"
       ]
@@ -110,16 +121,6 @@
       "opsTag": [
         "Cooling load",
         "Access/logistics"
-      ]
-    },
-    {
-      "text": "Much cooler conditions continue over the next few days, with lingering mountain snow showers through Sunday. Otherwise…",
-      "account": "@NWS_BaltWash",
-      "time": "Nov 14, 2:37 AM CST",
-      "code": "IAD",
-      "url": "https://x.com/NWS_BaltWash/status/2121522987568439778",
-      "opsTag": [
-        "Cooling load"
       ]
     }
   ]
