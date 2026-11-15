@@ -1,12 +1,61 @@
 {
-  "asOf": "Nov 15, 5:11 AM CST",
+  "asOf": "Nov 15, 6:05 AM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "Moderate rain will gradually shift east through the day, with highs in the upper 40s to upper 50s. A few rumbles of…",
+      "account": "@NWSFortWorth",
+      "time": "Nov 15, 6:00 AM CST",
+      "code": "DFW",
+      "url": "https://x.com/NWSFortWorth/status/2121936342896484391",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
+    {
+      "text": "Rain will expand overnight tonight and gradually shift east through the day Sunday, with highs in the upper 40s to…",
+      "account": "@NWSFortWorth",
+      "time": "Nov 14, 2:28 PM CST",
+      "code": "DFW",
+      "url": "https://x.com/NWSFortWorth/status/2121701858439750129",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
+    {
+      "text": "After a chilly stretch of weather, warmer temperatures may be on the way! Above normal temperatures are favored across the area November 20-24.",
+      "account": "@NWSCLE",
+      "time": "Nov 15, 5:44 AM CST",
+      "code": "NEO",
+      "url": "https://x.com/NWSCLE/status/2121932398560412145",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
+    {
+      "text": "Periodic lake enhanced rain showers continue today across parts of the area. Some rain may mix with…",
+      "account": "@NWSCLE",
+      "time": "Nov 14, 2:14 PM CST",
+      "code": "NEO",
+      "url": "https://x.com/NWSCLE/status/2121698368636223921",
+      "opsTag": [
+        "Access/logistics"
+      ]
+    },
     {
       "text": "The start of the week will be cooler than average, but temperatures will gradually warm up through the week to at or…",
       "account": "@NWSAtlanta",
       "time": "Nov 15, 4:20 AM CST",
       "url": "https://x.com/NWSAtlanta/status/2121911261839425802",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
+    {
+      "text": "Mostly sunny skies with cold overnights will continue, although daytime high temperatures will warm into the upper 60s…",
+      "account": "@NWSAtlanta",
+      "time": "Nov 14, 7:04 PM CST",
+      "url": "https://x.com/NWSAtlanta/status/2121771384112124097",
       "opsTag": [
         "Cooling load"
       ]
@@ -23,26 +72,6 @@
       ]
     },
     {
-      "text": "[1:25 AM /15/2026] Dry conditions will continue through at least the middle of the upcoming week as temperatures…",
-      "account": "@NWSChicago",
-      "time": "Nov 15, 1:28 AM CST",
-      "code": "ORD",
-      "url": "https://x.com/NWSChicago/status/2121867819558080886",
-      "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "Mostly cloudy conditions will continue today, but clouds will decrease late tonight into Monday. Thereafter, skies…",
-      "account": "@NWSILN",
-      "time": "Nov 15, 1:25 AM CST",
-      "code": "CMH",
-      "url": "https://x.com/NWSILN/status/2121867283232375089",
-      "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
       "text": "For tonight, expect decreasing winds with lows mainly in the 30s, locally falling into the mid/upper 20s across parts of the area…",
       "account": "@NWS_BaltWash",
       "time": "Nov 14, 8:03 PM CST",
@@ -54,50 +83,11 @@
       ]
     },
     {
-      "text": "Mostly sunny skies with cold overnights will continue, although daytime high temperatures will warm into the upper 60s…",
-      "account": "@NWSAtlanta",
-      "time": "Nov 14, 7:04 PM CST",
-      "url": "https://x.com/NWSAtlanta/status/2121771384112124097",
-      "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "High temperatures this afternoon ranged from below normal in parts of the area to slightly above normal elsewhere…",
-      "account": "@NWSPhoenix",
-      "time": "Nov 14, 6:48 PM CST",
-      "code": "PHX",
-      "url": "https://x.com/NWSPhoenix/status/2121767245844021734",
-      "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "Rain will expand overnight tonight and gradually shift east through the day Sunday, with highs in the upper 40s to…",
-      "account": "@NWSFortWorth",
-      "time": "Nov 14, 2:28 PM CST",
-      "code": "DFW",
-      "url": "https://x.com/NWSFortWorth/status/2121701858439750129",
-      "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "Periodic lake enhanced rain showers continue today across parts of the area. Some rain may mix with…",
-      "account": "@NWSCLE",
-      "time": "Nov 14, 2:14 PM CST",
-      "code": "NEO",
-      "url": "https://x.com/NWSCLE/status/2121698368636223921",
-      "opsTag": [
-        "Access/logistics"
-      ]
-    },
-    {
-      "text": "Areas of light rain are moving in from west to east today and will become more widespread overnight, with the…",
-      "account": "@NWSFortWorth",
-      "time": "Nov 14, 1:15 PM CST",
-      "code": "DFW",
-      "url": "https://x.com/NWSFortWorth/status/2121683385957429492",
+      "text": "[1:25 AM /15/2026] Dry conditions will continue through at least the middle of the upcoming week as temperatures…",
+      "account": "@NWSChicago",
+      "time": "Nov 15, 1:28 AM CST",
+      "code": "ORD",
+      "url": "https://x.com/NWSChicago/status/2121867819558080886",
       "opsTag": [
         "Cooling load"
       ]
@@ -113,11 +103,21 @@
       ]
     },
     {
-      "text": "[1:10 PM] The 8 to 14 Day Outlook from the Climate Prediction Center indicates above average chances for both…",
+      "text": "Mostly cloudy conditions will continue today, but clouds will decrease late tonight into Monday. Thereafter, skies…",
       "account": "@NWSILN",
-      "time": "Nov 14, 12:13 PM CST",
+      "time": "Nov 15, 1:25 AM CST",
       "code": "CMH",
-      "url": "https://x.com/NWSILN/status/2121667781284311464",
+      "url": "https://x.com/NWSILN/status/2121867283232375089",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
+    {
+      "text": "High temperatures this afternoon ranged from below normal in parts of the area to slightly above normal elsewhere…",
+      "account": "@NWSPhoenix",
+      "time": "Nov 14, 6:48 PM CST",
+      "code": "PHX",
+      "url": "https://x.com/NWSPhoenix/status/2121767245844021734",
       "opsTag": [
         "Cooling load"
       ]
