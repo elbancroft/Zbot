@@ -1,7 +1,18 @@
 {
-  "asOf": "Nov 15, 10:05 AM CST",
+  "asOf": "Nov 15, 12:11 PM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "Highs range in the upper 30s over higher terrain to low 50s today with gusty winds up to 20-25 MPH. Outside of a few…",
+      "account": "@NWS_BaltWash",
+      "time": "Nov 15, 11:18 AM CST",
+      "code": "IAD",
+      "url": "https://x.com/NWS_BaltWash/status/2122016310364418302",
+      "opsTag": [
+        "Rooftop/crane work",
+        "Cooling load"
+      ]
+    },
     {
       "text": "The low temperature this morning at the area airport was 58°, which is 4° above normal for this time of…",
       "account": "@NWSPhoenix",
@@ -99,27 +110,6 @@
       "url": "https://x.com/NWSILN/status/2121867283232375089",
       "opsTag": [
         "Cooling load"
-      ]
-    },
-    {
-      "text": "For tonight, expect decreasing winds with lows mainly in the 30s, locally falling into the mid/upper 20s across parts of the area…",
-      "account": "@NWS_BaltWash",
-      "time": "Nov 14, 8:03 PM CST",
-      "code": "IAD",
-      "url": "https://x.com/NWS_BaltWash/status/2121786251930206666",
-      "opsTag": [
-        "Rooftop/crane work",
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "Periodic lake enhanced rain showers continue today across parts of the area. Some rain may mix with…",
-      "account": "@NWSCLE",
-      "time": "Nov 14, 2:14 PM CST",
-      "code": "NEO",
-      "url": "https://x.com/NWSCLE/status/2121698368636223921",
-      "opsTag": [
-        "Access/logistics"
       ]
     }
   ]
