@@ -1,7 +1,27 @@
 {
-  "asOf": "Nov 14, 9:07 PM CST",
+  "asOf": "Nov 15, 2:03 AM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "[1:25 AM /15/2026] Dry conditions will continue through at least the middle of the upcoming week as temperatures…",
+      "account": "@NWSChicago",
+      "time": "Nov 15, 1:28 AM CST",
+      "code": "ORD",
+      "url": "https://x.com/NWSChicago/status/2121867819558080886",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
+    {
+      "text": "Mostly cloudy conditions will continue today, but clouds will decrease late tonight into Monday. Thereafter, skies…",
+      "account": "@NWSILN",
+      "time": "Nov 15, 1:25 AM CST",
+      "code": "CMH",
+      "url": "https://x.com/NWSILN/status/2121867283232375089",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
     {
       "text": "For tonight, expect decreasing winds with lows mainly in the 30s, locally falling into the mid/upper 20s across parts of the area…",
       "account": "@NWS_BaltWash",
@@ -98,16 +118,6 @@
       "time": "Nov 14, 12:13 PM CST",
       "code": "CMH",
       "url": "https://x.com/NWSILN/status/2121667781284311464",
-      "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "Happy Saturday! Low temperatures this morning were mainly in the 50s, but some locations only fell into the low 60s.…",
-      "account": "@NWSPhoenix",
-      "time": "Nov 14, 10:17 AM CST",
-      "code": "PHX",
-      "url": "https://x.com/NWSPhoenix/status/2121638662907597236",
       "opsTag": [
         "Cooling load"
       ]
