@@ -1,7 +1,17 @@
 {
-  "asOf": "Nov 15, 9:04 AM CST",
+  "asOf": "Nov 15, 10:05 AM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "The low temperature this morning at the area airport was 58°, which is 4° above normal for this time of…",
+      "account": "@NWSPhoenix",
+      "time": "Nov 15, 9:58 AM CST",
+      "code": "PHX",
+      "url": "https://x.com/NWSPhoenix/status/2121996233720181180",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
     {
       "text": "📢 Following this widespread freezing conditions over the weekend, our office has concluded the Frost and Freeze…",
       "account": "@NWSAtlanta",
@@ -99,16 +109,6 @@
       "url": "https://x.com/NWS_BaltWash/status/2121786251930206666",
       "opsTag": [
         "Rooftop/crane work",
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "High temperatures this afternoon ranged from below normal in parts of the area to slightly above normal elsewhere…",
-      "account": "@NWSPhoenix",
-      "time": "Nov 14, 6:48 PM CST",
-      "code": "PHX",
-      "url": "https://x.com/NWSPhoenix/status/2121767245844021734",
-      "opsTag": [
         "Cooling load"
       ]
     },
