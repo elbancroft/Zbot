@@ -1,7 +1,17 @@
 {
-  "asOf": "Nov 15, 2:02 PM CST",
+  "asOf": "Nov 15, 3:05 PM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "☀️🌡️ A quiet weather week is expected as temperatures gradually warm into the 50s and even lower 60s in some spots…",
+      "account": "@NWSCLE",
+      "time": "Nov 15, 2:11 PM CST",
+      "code": "NEO",
+      "url": "https://x.com/NWSCLE/status/2122059916202365287",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
     {
       "text": "A cool and damp night is in store tonight, with lows in the lower to mid 40s and occasional light rain or sprinkles.…",
       "account": "@NWSFortWorth",
