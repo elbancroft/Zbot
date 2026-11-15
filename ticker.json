@@ -1,7 +1,16 @@
 {
-  "asOf": "Nov 15, 3:10 AM CST",
+  "asOf": "Nov 15, 5:11 AM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "The start of the week will be cooler than average, but temperatures will gradually warm up through the week to at or…",
+      "account": "@NWSAtlanta",
+      "time": "Nov 15, 4:20 AM CST",
+      "url": "https://x.com/NWSAtlanta/status/2121911261839425802",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
     {
       "text": "Brisk winds and below normal temperatures will continue through today with waves of clouds. Warmer and dry conditions…",
       "account": "@NWS_BaltWash",
@@ -59,15 +68,6 @@
       "time": "Nov 14, 6:48 PM CST",
       "code": "PHX",
       "url": "https://x.com/NWSPhoenix/status/2121767245844021734",
-      "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "Are you prepared for the cold? As temperatures drop, remember to protect: 🫂- Limit time outside & check in on…",
-      "account": "@NWSAtlanta",
-      "time": "Nov 14, 5:30 PM CST",
-      "url": "https://x.com/NWSAtlanta/status/2121747506258465031",
       "opsTag": [
         "Cooling load"
       ]
