@@ -1,7 +1,17 @@
 {
-  "asOf": "Nov 14, 6:08 PM CST",
+  "asOf": "Nov 14, 7:02 PM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "High temperatures this afternoon ranged from below normal in parts of the area to slightly above normal elsewhere…",
+      "account": "@NWSPhoenix",
+      "time": "Nov 14, 6:48 PM CST",
+      "code": "PHX",
+      "url": "https://x.com/NWSPhoenix/status/2121767245844021734",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
     {
       "text": "Are you prepared for the cold? As temperatures drop, remember to protect: 🫂- Limit time outside & check in on…",
       "account": "@NWSAtlanta",
@@ -87,16 +97,6 @@
       "time": "Nov 14, 10:17 AM CST",
       "code": "PHX",
       "url": "https://x.com/NWSPhoenix/status/2121638662907597236",
-      "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "A cold front will sweep through the area Tuesday bringing the next chance of rain and cooler temperatures. Some…",
-      "account": "@NWSPhoenix",
-      "time": "Nov 14, 7:05 AM CST",
-      "code": "PHX",
-      "url": "https://x.com/NWSPhoenix/status/2121590248635269295",
       "opsTag": [
         "Cooling load"
       ]
