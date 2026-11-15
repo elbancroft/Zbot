@@ -1,7 +1,29 @@
 {
-  "asOf": "Nov 15, 12:11 PM CST",
+  "asOf": "Nov 15, 2:02 PM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "A cool and damp night is in store tonight, with lows in the lower to mid 40s and occasional light rain or sprinkles.…",
+      "account": "@NWSFortWorth",
+      "time": "Nov 15, 1:28 PM CST",
+      "code": "DFW",
+      "url": "https://x.com/NWSFortWorth/status/2122049063788953738",
+      "opsTag": [
+        "Cooling load",
+        "Lightning"
+      ]
+    },
+    {
+      "text": "Aside from some patchy fog tonight in parts of the area, dry conditions are expected…",
+      "account": "@NWSChicago",
+      "time": "Nov 15, 1:12 PM CST",
+      "code": "ORD",
+      "url": "https://x.com/NWSChicago/status/2122045085533573451",
+      "opsTag": [
+        "Cooling load",
+        "Access/logistics"
+      ]
+    },
     {
       "text": "Highs range in the upper 30s over higher terrain to low 50s today with gusty winds up to 20-25 MPH. Outside of a few…",
       "account": "@NWS_BaltWash",
@@ -50,16 +72,6 @@
       "url": "https://x.com/NWSFortWorth/status/2121939982868742643",
       "opsTag": [
         "Water"
-      ]
-    },
-    {
-      "text": "Temperatures will warm up through the work week after today's rain moves out. We'll have a couple dry days before low…",
-      "account": "@NWSFortWorth",
-      "time": "Nov 15, 6:14 AM CST",
-      "code": "DFW",
-      "url": "https://x.com/NWSFortWorth/status/2121939977135173676",
-      "opsTag": [
-        "Cooling load"
       ]
     },
     {
