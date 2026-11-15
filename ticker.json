@@ -1,5 +1,5 @@
 {
-  "asOf": "Nov 14, 8:06 PM CST",
+  "asOf": "Nov 14, 9:07 PM CST",
   "label": "Unverified news",
   "items": [
     {
@@ -110,17 +110,6 @@
       "url": "https://x.com/NWSPhoenix/status/2121638662907597236",
       "opsTag": [
         "Cooling load"
-      ]
-    },
-    {
-      "text": "Lake effect precipitation continues this weekend. A rain/snow mix this morning will change to mainly rain, with…",
-      "account": "@NWSCLE",
-      "time": "Nov 14, 5:21 AM CST",
-      "code": "NEO",
-      "url": "https://x.com/NWSCLE/status/2121564297025183975",
-      "opsTag": [
-        "Cooling load",
-        "Access/logistics"
       ]
     }
   ]
