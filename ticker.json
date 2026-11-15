@@ -1,23 +1,33 @@
 {
-  "asOf": "Nov 15, 6:05 AM CST",
+  "asOf": "Nov 15, 7:10 AM CST",
   "label": "Unverified news",
   "items": [
     {
-      "text": "Moderate rain will gradually shift east through the day, with highs in the upper 40s to upper 50s. A few rumbles of…",
-      "account": "@NWSFortWorth",
-      "time": "Nov 15, 6:00 AM CST",
-      "code": "DFW",
-      "url": "https://x.com/NWSFortWorth/status/2121936342896484391",
+      "text": "Under a mix of clouds and sun, afternoon highs will comfortably reach very near daily normals today. Readings will be…",
+      "account": "@NWSPhoenix",
+      "time": "Nov 15, 6:49 AM CST",
+      "code": "PHX",
+      "url": "https://x.com/NWSPhoenix/status/2121948750461419651",
       "opsTag": [
         "Cooling load"
       ]
     },
     {
-      "text": "Rain will expand overnight tonight and gradually shift east through the day Sunday, with highs in the upper 40s to…",
+      "text": "Above-normal rainfall is favored through late November due to additional rain chances on Thursday and next weekend.…",
       "account": "@NWSFortWorth",
-      "time": "Nov 14, 2:28 PM CST",
+      "time": "Nov 15, 6:14 AM CST",
       "code": "DFW",
-      "url": "https://x.com/NWSFortWorth/status/2121701858439750129",
+      "url": "https://x.com/NWSFortWorth/status/2121939982868742643",
+      "opsTag": [
+        "Water"
+      ]
+    },
+    {
+      "text": "Temperatures will warm up through the work week after today's rain moves out. We'll have a couple dry days before low…",
+      "account": "@NWSFortWorth",
+      "time": "Nov 15, 6:14 AM CST",
+      "code": "DFW",
+      "url": "https://x.com/NWSFortWorth/status/2121939977135173676",
       "opsTag": [
         "Cooling load"
       ]
@@ -52,31 +62,11 @@
       ]
     },
     {
-      "text": "Mostly sunny skies with cold overnights will continue, although daytime high temperatures will warm into the upper 60s…",
-      "account": "@NWSAtlanta",
-      "time": "Nov 14, 7:04 PM CST",
-      "url": "https://x.com/NWSAtlanta/status/2121771384112124097",
-      "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
       "text": "Brisk winds and below normal temperatures will continue through today with waves of clouds. Warmer and dry conditions…",
       "account": "@NWS_BaltWash",
       "time": "Nov 15, 2:04 AM CST",
       "code": "IAD",
       "url": "https://x.com/NWS_BaltWash/status/2121876929993220335",
-      "opsTag": [
-        "Rooftop/crane work",
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "For tonight, expect decreasing winds with lows mainly in the 30s, locally falling into the mid/upper 20s across parts of the area…",
-      "account": "@NWS_BaltWash",
-      "time": "Nov 14, 8:03 PM CST",
-      "code": "IAD",
-      "url": "https://x.com/NWS_BaltWash/status/2121786251930206666",
       "opsTag": [
         "Rooftop/crane work",
         "Cooling load"
@@ -93,21 +83,31 @@
       ]
     },
     {
-      "text": "Dry conditions will prevail through at least the middle of the week with gradually warming temperatures.",
-      "account": "@NWSChicago",
-      "time": "Nov 14, 1:05 PM CST",
-      "code": "ORD",
-      "url": "https://x.com/NWSChicago/status/2121680902061216164",
-      "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
       "text": "Mostly cloudy conditions will continue today, but clouds will decrease late tonight into Monday. Thereafter, skies…",
       "account": "@NWSILN",
       "time": "Nov 15, 1:25 AM CST",
       "code": "CMH",
       "url": "https://x.com/NWSILN/status/2121867283232375089",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
+    {
+      "text": "For tonight, expect decreasing winds with lows mainly in the 30s, locally falling into the mid/upper 20s across parts of the area…",
+      "account": "@NWS_BaltWash",
+      "time": "Nov 14, 8:03 PM CST",
+      "code": "IAD",
+      "url": "https://x.com/NWS_BaltWash/status/2121786251930206666",
+      "opsTag": [
+        "Rooftop/crane work",
+        "Cooling load"
+      ]
+    },
+    {
+      "text": "Mostly sunny skies with cold overnights will continue, although daytime high temperatures will warm into the upper 60s…",
+      "account": "@NWSAtlanta",
+      "time": "Nov 14, 7:04 PM CST",
+      "url": "https://x.com/NWSAtlanta/status/2121771384112124097",
       "opsTag": [
         "Cooling load"
       ]
