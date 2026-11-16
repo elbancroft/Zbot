@@ -1,7 +1,36 @@
 {
-  "asOf": "Nov 15, 3:05 PM CST",
+  "asOf": "Nov 15, 6:09 PM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "The start of the week will be cooler than average, but temperatures will gradually warm up through the week to at or…",
+      "account": "@NWSAtlanta",
+      "time": "Nov 15, 5:49 PM CST",
+      "url": "https://x.com/NWSAtlanta/status/2122114805028774048",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
+    {
+      "text": "Next weekend will feature above-normal temperatures along with a chance of showers. It doesn't look like a complete…",
+      "account": "@NWSFortWorth",
+      "time": "Nov 15, 3:55 PM CST",
+      "code": "DFW",
+      "url": "https://x.com/NWSFortWorth/status/2122086006555816011",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
+    {
+      "text": "Other than a slight chance of showers on Thursday, this week looks dry and pleasant with high temperatures climbing…",
+      "account": "@NWSFortWorth",
+      "time": "Nov 15, 3:06 PM CST",
+      "code": "DFW",
+      "url": "https://x.com/NWSFortWorth/status/2122073759322370311",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
     {
       "text": "☀️🌡️ A quiet weather week is expected as temperatures gradually warm into the 50s and even lower 60s in some spots…",
       "account": "@NWSCLE",
@@ -10,17 +39,6 @@
       "url": "https://x.com/NWSCLE/status/2122059916202365287",
       "opsTag": [
         "Cooling load"
-      ]
-    },
-    {
-      "text": "A cool and damp night is in store tonight, with lows in the lower to mid 40s and occasional light rain or sprinkles.…",
-      "account": "@NWSFortWorth",
-      "time": "Nov 15, 1:28 PM CST",
-      "code": "DFW",
-      "url": "https://x.com/NWSFortWorth/status/2122049063788953738",
-      "opsTag": [
-        "Cooling load",
-        "Lightning"
       ]
     },
     {
@@ -75,30 +93,11 @@
       ]
     },
     {
-      "text": "Above-normal rainfall is favored through late November due to additional rain chances on Thursday and next weekend.…",
-      "account": "@NWSFortWorth",
-      "time": "Nov 15, 6:14 AM CST",
-      "code": "DFW",
-      "url": "https://x.com/NWSFortWorth/status/2121939982868742643",
-      "opsTag": [
-        "Water"
-      ]
-    },
-    {
       "text": "After a chilly stretch of weather, warmer temperatures may be on the way! Above normal temperatures are favored across the area November 20-24.",
       "account": "@NWSCLE",
       "time": "Nov 15, 5:44 AM CST",
       "code": "NEO",
       "url": "https://x.com/NWSCLE/status/2121932398560412145",
-      "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "The start of the week will be cooler than average, but temperatures will gradually warm up through the week to at or…",
-      "account": "@NWSAtlanta",
-      "time": "Nov 15, 4:20 AM CST",
-      "url": "https://x.com/NWSAtlanta/status/2121911261839425802",
       "opsTag": [
         "Cooling load"
       ]
