@@ -1,7 +1,48 @@
 {
-  "asOf": "Nov 16, 12:09 AM CST",
+  "asOf": "Nov 16, 3:04 AM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "Clouds and sun today with temperatures near or slightly below normal.",
+      "account": "@NWS_BaltWash",
+      "time": "Nov 16, 2:23 AM CST",
+      "code": "IAD",
+      "url": "https://x.com/NWS_BaltWash/status/2122244170563690981",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
+    {
+      "text": "[2:10 AM /16/2026] Temperatures will continue to gradually warm through the 50s and eventually into the 60s by…",
+      "account": "@NWSChicago",
+      "time": "Nov 16, 2:11 AM CST",
+      "code": "ORD",
+      "url": "https://x.com/NWSChicago/status/2122241250841530428",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
+    {
+      "text": "[2 AM 11/16] Pockets of locally dense freezing fog w/ visibilities under ½ mile are developing, mainly across parts of…",
+      "account": "@NWSChicago",
+      "time": "Nov 16, 1:59 AM CST",
+      "code": "ORD",
+      "url": "https://x.com/NWSChicago/status/2122238021483253928",
+      "opsTag": [
+        "Cooling load",
+        "Access/logistics"
+      ]
+    },
+    {
+      "text": "Stubborn clouds across part of the area are forecast to decrease through the day. Temperatures will be near normal…",
+      "account": "@NWSILN",
+      "time": "Nov 16, 1:28 AM CST",
+      "code": "CMH",
+      "url": "https://x.com/NWSILN/status/2122230369596432820",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
     {
       "text": "A cool and damp night is in store tonight, with lows in the lower to mid 40s and occasional light rain or sprinkles.…",
       "account": "@NWSFortWorth",
@@ -50,17 +91,6 @@
       "url": "https://x.com/NWSCLE/status/2122059916202365287",
       "opsTag": [
         "Cooling load"
-      ]
-    },
-    {
-      "text": "Aside from some patchy fog tonight in parts of the area, dry conditions are expected…",
-      "account": "@NWSChicago",
-      "time": "Nov 15, 1:12 PM CST",
-      "code": "ORD",
-      "url": "https://x.com/NWSChicago/status/2122045085533573451",
-      "opsTag": [
-        "Cooling load",
-        "Access/logistics"
       ]
     },
     {
