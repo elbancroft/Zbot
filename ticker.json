@@ -1,7 +1,28 @@
 {
-  "asOf": "Nov 15, 6:09 PM CST",
+  "asOf": "Nov 15, 9:09 PM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "A cool and damp night is in store tonight, with lows in the lower to mid 40s and occasional light rain or sprinkles.…",
+      "account": "@NWSFortWorth",
+      "time": "Nov 15, 6:47 PM CST",
+      "code": "DFW",
+      "url": "https://x.com/NWSFortWorth/status/2122129472191144365",
+      "opsTag": [
+        "Cooling load",
+        "Lightning"
+      ]
+    },
+    {
+      "text": "It was a picturesque fall day across the area with highs in the upper 70s to lower 80s.",
+      "account": "@NWSPhoenix",
+      "time": "Nov 15, 6:47 PM CST",
+      "code": "PHX",
+      "url": "https://x.com/NWSPhoenix/status/2122129371066474630",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
     {
       "text": "The start of the week will be cooler than average, but temperatures will gradually warm up through the week to at or…",
       "account": "@NWSAtlanta",
@@ -17,16 +38,6 @@
       "time": "Nov 15, 3:55 PM CST",
       "code": "DFW",
       "url": "https://x.com/NWSFortWorth/status/2122086006555816011",
-      "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "Other than a slight chance of showers on Thursday, this week looks dry and pleasant with high temperatures climbing…",
-      "account": "@NWSFortWorth",
-      "time": "Nov 15, 3:06 PM CST",
-      "code": "DFW",
-      "url": "https://x.com/NWSFortWorth/status/2122073759322370311",
       "opsTag": [
         "Cooling load"
       ]
@@ -83,52 +94,11 @@
       ]
     },
     {
-      "text": "Under a mix of clouds and sun, afternoon highs will comfortably reach very near daily normals today. Readings will be…",
-      "account": "@NWSPhoenix",
-      "time": "Nov 15, 6:49 AM CST",
-      "code": "PHX",
-      "url": "https://x.com/NWSPhoenix/status/2121948750461419651",
-      "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
       "text": "After a chilly stretch of weather, warmer temperatures may be on the way! Above normal temperatures are favored across the area November 20-24.",
       "account": "@NWSCLE",
       "time": "Nov 15, 5:44 AM CST",
       "code": "NEO",
       "url": "https://x.com/NWSCLE/status/2121932398560412145",
-      "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "Brisk winds and below normal temperatures will continue through today with waves of clouds. Warmer and dry conditions…",
-      "account": "@NWS_BaltWash",
-      "time": "Nov 15, 2:04 AM CST",
-      "code": "IAD",
-      "url": "https://x.com/NWS_BaltWash/status/2121876929993220335",
-      "opsTag": [
-        "Rooftop/crane work",
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "[1:25 AM /15/2026] Dry conditions will continue through at least the middle of the upcoming week as temperatures…",
-      "account": "@NWSChicago",
-      "time": "Nov 15, 1:28 AM CST",
-      "code": "ORD",
-      "url": "https://x.com/NWSChicago/status/2121867819558080886",
-      "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "Mostly cloudy conditions will continue today, but clouds will decrease late tonight into Monday. Thereafter, skies…",
-      "account": "@NWSILN",
-      "time": "Nov 15, 1:25 AM CST",
-      "code": "CMH",
-      "url": "https://x.com/NWSILN/status/2121867283232375089",
       "opsTag": [
         "Cooling load"
       ]
