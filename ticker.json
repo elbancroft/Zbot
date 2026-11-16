@@ -1,7 +1,47 @@
 {
-  "asOf": "Nov 16, 9:02 AM CST",
+  "asOf": "Nov 16, 3:09 PM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "Temperatures will slowly warm through the week with highs in the 60s expected for the weekend. Dry weather will be…",
+      "account": "@NWSCLE",
+      "time": "Nov 16, 2:06 PM CST",
+      "code": "NEO",
+      "url": "https://x.com/NWSCLE/status/2122421160256147709",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
+    {
+      "text": "Temperatures will continue to gradually warm through the 50s and into the 60s by the end of the week. The next chance…",
+      "account": "@NWSChicago",
+      "time": "Nov 16, 1:44 PM CST",
+      "code": "ORD",
+      "url": "https://x.com/NWSChicago/status/2122415500965658951",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
+    {
+      "text": "Cool temperatures are expected tonight, with overnight lows dipping into the upper 30s to lower 40s under clear skies.…",
+      "account": "@NWSFortWorth",
+      "time": "Nov 16, 1:22 PM CST",
+      "code": "DFW",
+      "url": "https://x.com/NWSFortWorth/status/2122409877192483068",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
+    {
+      "text": "Morning lows were generally in the 50s to lower 60s across the area, under partly cloudy skies. Anticipate…",
+      "account": "@NWSPhoenix",
+      "time": "Nov 16, 9:36 AM CST",
+      "code": "PHX",
+      "url": "https://x.com/NWSPhoenix/status/2122353226120827176",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
     {
       "text": "‘Much of downtown’ experiencing water outage in the area city",
       "account": "@wsbtv",
@@ -17,86 +57,6 @@
       "time": "Nov 16, 6:56 AM CST",
       "code": "DFW",
       "url": "https://x.com/NWSFortWorth/status/2122312911691329760",
-      "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "Sprinkles and patchy fog in parts of the area will taper off this morning, followed by a decrease in cloud cover from…",
-      "account": "@NWSFortWorth",
-      "time": "Nov 16, 6:21 AM CST",
-      "code": "DFW",
-      "url": "https://x.com/NWSFortWorth/status/2122304032681115734",
-      "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "Dry weather is expected for the workweek. Lingering clouds will gradually clear from west to east throughout the day…",
-      "account": "@NWSCLE",
-      "time": "Nov 16, 4:20 AM CST",
-      "code": "NEO",
-      "url": "https://x.com/NWSCLE/status/2122273655488913616",
-      "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "Clouds and sun today with temperatures near or slightly below normal.",
-      "account": "@NWS_BaltWash",
-      "time": "Nov 16, 2:23 AM CST",
-      "code": "IAD",
-      "url": "https://x.com/NWS_BaltWash/status/2122244170563690981",
-      "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "[2:10 AM /16/2026] Temperatures will continue to gradually warm through the 50s and eventually into the 60s by…",
-      "account": "@NWSChicago",
-      "time": "Nov 16, 2:11 AM CST",
-      "code": "ORD",
-      "url": "https://x.com/NWSChicago/status/2122241250841530428",
-      "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "[2 AM 11/16] Pockets of locally dense freezing fog w/ visibilities under ½ mile are developing, mainly across parts of…",
-      "account": "@NWSChicago",
-      "time": "Nov 16, 1:59 AM CST",
-      "code": "ORD",
-      "url": "https://x.com/NWSChicago/status/2122238021483253928",
-      "opsTag": [
-        "Cooling load",
-        "Access/logistics"
-      ]
-    },
-    {
-      "text": "Stubborn clouds across part of the area are forecast to decrease through the day. Temperatures will be near normal…",
-      "account": "@NWSILN",
-      "time": "Nov 16, 1:28 AM CST",
-      "code": "CMH",
-      "url": "https://x.com/NWSILN/status/2122230369596432820",
-      "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "It was a picturesque fall day across the area with highs in the upper 70s to lower 80s.",
-      "account": "@NWSPhoenix",
-      "time": "Nov 15, 6:47 PM CST",
-      "code": "PHX",
-      "url": "https://x.com/NWSPhoenix/status/2122129371066474630",
-      "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "The start of the week will be cooler than average, but temperatures will gradually warm up through the week to at or…",
-      "account": "@NWSAtlanta",
-      "time": "Nov 15, 5:49 PM CST",
-      "url": "https://x.com/NWSAtlanta/status/2122114805028774048",
       "opsTag": [
         "Cooling load"
       ]
