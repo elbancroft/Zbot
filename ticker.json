@@ -1,7 +1,17 @@
 {
-  "asOf": "Nov 16, 3:04 AM CST",
+  "asOf": "Nov 16, 6:04 AM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "Dry weather is expected for the workweek. Lingering clouds will gradually clear from west to east throughout the day…",
+      "account": "@NWSCLE",
+      "time": "Nov 16, 4:20 AM CST",
+      "code": "NEO",
+      "url": "https://x.com/NWSCLE/status/2122273655488913616",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
     {
       "text": "Clouds and sun today with temperatures near or slightly below normal.",
       "account": "@NWS_BaltWash",
@@ -101,25 +111,6 @@
       "url": "https://x.com/NWS_BaltWash/status/2122016310364418302",
       "opsTag": [
         "Rooftop/crane work",
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "The low temperature this morning at the area airport was 58°, which is 4° above normal for this time of…",
-      "account": "@NWSPhoenix",
-      "time": "Nov 15, 9:58 AM CST",
-      "code": "PHX",
-      "url": "https://x.com/NWSPhoenix/status/2121996233720181180",
-      "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "📢 Following this widespread freezing conditions over the weekend, our office has concluded the Frost and Freeze…",
-      "account": "@NWSAtlanta",
-      "time": "Nov 15, 8:28 AM CST",
-      "url": "https://x.com/NWSAtlanta/status/2121973620956176673",
-      "opsTag": [
         "Cooling load"
       ]
     }
