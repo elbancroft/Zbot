@@ -1,7 +1,36 @@
 {
-  "asOf": "Nov 16, 6:04 AM CST",
+  "asOf": "Nov 16, 9:02 AM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "‘Much of downtown’ experiencing water outage in the area city",
+      "account": "@wsbtv",
+      "time": "Nov 16, 7:52 AM CST",
+      "url": "https://x.com/wsbtv/status/2122327049155031453",
+      "opsTag": [
+        "Water"
+      ]
+    },
+    {
+      "text": "Temperatures will be on an upward trend this week, bringing the return of pleasant weather conditions. By Friday, high…",
+      "account": "@NWSFortWorth",
+      "time": "Nov 16, 6:56 AM CST",
+      "code": "DFW",
+      "url": "https://x.com/NWSFortWorth/status/2122312911691329760",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
+    {
+      "text": "Sprinkles and patchy fog in parts of the area will taper off this morning, followed by a decrease in cloud cover from…",
+      "account": "@NWSFortWorth",
+      "time": "Nov 16, 6:21 AM CST",
+      "code": "DFW",
+      "url": "https://x.com/NWSFortWorth/status/2122304032681115734",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
     {
       "text": "Dry weather is expected for the workweek. Lingering clouds will gradually clear from west to east throughout the day…",
       "account": "@NWSCLE",
@@ -54,17 +83,6 @@
       ]
     },
     {
-      "text": "A cool and damp night is in store tonight, with lows in the lower to mid 40s and occasional light rain or sprinkles.…",
-      "account": "@NWSFortWorth",
-      "time": "Nov 15, 6:47 PM CST",
-      "code": "DFW",
-      "url": "https://x.com/NWSFortWorth/status/2122129472191144365",
-      "opsTag": [
-        "Cooling load",
-        "Lightning"
-      ]
-    },
-    {
       "text": "It was a picturesque fall day across the area with highs in the upper 70s to lower 80s.",
       "account": "@NWSPhoenix",
       "time": "Nov 15, 6:47 PM CST",
@@ -80,37 +98,6 @@
       "time": "Nov 15, 5:49 PM CST",
       "url": "https://x.com/NWSAtlanta/status/2122114805028774048",
       "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "Next weekend will feature above-normal temperatures along with a chance of showers. It doesn't look like a complete…",
-      "account": "@NWSFortWorth",
-      "time": "Nov 15, 3:55 PM CST",
-      "code": "DFW",
-      "url": "https://x.com/NWSFortWorth/status/2122086006555816011",
-      "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "☀️🌡️ A quiet weather week is expected as temperatures gradually warm into the 50s and even lower 60s in some spots…",
-      "account": "@NWSCLE",
-      "time": "Nov 15, 2:11 PM CST",
-      "code": "NEO",
-      "url": "https://x.com/NWSCLE/status/2122059916202365287",
-      "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "Highs range in the upper 30s over higher terrain to low 50s today with gusty winds up to 20-25 MPH. Outside of a few…",
-      "account": "@NWS_BaltWash",
-      "time": "Nov 15, 11:18 AM CST",
-      "code": "IAD",
-      "url": "https://x.com/NWS_BaltWash/status/2122016310364418302",
-      "opsTag": [
-        "Rooftop/crane work",
         "Cooling load"
       ]
     }
