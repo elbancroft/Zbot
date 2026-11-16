@@ -1,5 +1,5 @@
 {
-  "asOf": "Nov 15, 9:09 PM CST",
+  "asOf": "Nov 16, 12:09 AM CST",
   "label": "Unverified news",
   "items": [
     {
@@ -89,16 +89,6 @@
       "account": "@NWSAtlanta",
       "time": "Nov 15, 8:28 AM CST",
       "url": "https://x.com/NWSAtlanta/status/2121973620956176673",
-      "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "After a chilly stretch of weather, warmer temperatures may be on the way! Above normal temperatures are favored across the area November 20-24.",
-      "account": "@NWSCLE",
-      "time": "Nov 15, 5:44 AM CST",
-      "code": "NEO",
-      "url": "https://x.com/NWSCLE/status/2121932398560412145",
       "opsTag": [
         "Cooling load"
       ]
