@@ -1,7 +1,43 @@
 {
-  "asOf": "Nov 17, 12:03 PM CST",
+  "asOf": "Nov 17, 3:02 PM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "Mountain snow will taper off this afternoon in the area, continuing through early Wed across the northern mountains…",
+      "account": "@NWSSaltLakeCity",
+      "time": "Nov 17, 2:18 PM CST",
+      "url": "https://x.com/NWSSaltLakeCity/status/2122786390828040377"
+    },
+    {
+      "text": "Soak up the sun in November with barely a cloudy in the sky! This week will feature sunny to partly cloudy skies…",
+      "account": "@NWSCLE",
+      "time": "Nov 17, 2:04 PM CST",
+      "code": "NEO",
+      "url": "https://x.com/NWSCLE/status/2122782848939593757",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
+    {
+      "text": "Warmer than average temperatures for mid-November will persist through Saturday, with a cold front expected to move…",
+      "account": "@NWSChicago",
+      "time": "Nov 17, 2:03 PM CST",
+      "code": "ORD",
+      "url": "https://x.com/NWSChicago/status/2122782579472343250",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
+    {
+      "text": "Look for a warming trend to continue this week with highs in the 60s & 70s and lows in the 40s & 50s. A cold…",
+      "account": "@NWSFortWorth",
+      "time": "Nov 17, 1:48 PM CST",
+      "code": "DFW",
+      "url": "https://x.com/NWSFortWorth/status/2122778805609582829",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
     {
       "text": "10:10 AM MST Weather Radar: An intense line of showers is currently moving through the area. Wind gusts with the line…",
       "account": "@NWSPhoenix",
@@ -75,42 +111,6 @@
       "opsTag": [
         "Cooling load"
       ]
-    },
-    {
-      "text": "The warming trend continues. Dry conditions will persist through the end of the week with temperatures rising to 10 to…",
-      "account": "@NWSILN",
-      "time": "Nov 17, 1:45 AM CST",
-      "code": "CMH",
-      "url": "https://x.com/NWSILN/status/2122597039238156627",
-      "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "Overnight lows will be in the upper 20s and 30s tonight with mostly clear skies as high pressure builds overhead.…",
-      "account": "@NWS_BaltWash",
-      "time": "Nov 16, 7:05 PM CST",
-      "code": "IAD",
-      "url": "https://x.com/NWS_BaltWash/status/2122496363816686063",
-      "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "A weak cold front will bring a slight chance of rain Saturday and Sunday, but the weekend weather will be okay…",
-      "account": "@NWSFortWorth",
-      "time": "Nov 16, 4:08 PM CST",
-      "code": "DFW",
-      "url": "https://x.com/NWSFortWorth/status/2122451671020089583",
-      "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "The Monday night-Wednesday morning storm system will not only bring significant snow for many mountain locations, but…",
-      "account": "@NWSSaltLakeCity",
-      "time": "Nov 16, 3:26 PM CST",
-      "url": "https://x.com/NWSSaltLakeCity/status/2122441172274512184"
     }
   ]
 }
