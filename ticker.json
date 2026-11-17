@@ -1,7 +1,34 @@
 {
-  "asOf": "Nov 17, 6:04 AM CST",
+  "asOf": "Nov 17, 9:07 AM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "TODAY'S FORECAST: Rain and snow over the area will track east across the region through the afternoon.…",
+      "account": "@NWSSaltLakeCity",
+      "time": "Nov 17, 9:03 AM CST",
+      "url": "https://x.com/NWSSaltLakeCity/status/2122707134135611843"
+    },
+    {
+      "text": "7:15 AM MST Radar: A large batch of showers are starting to move out of the area, but there will continue to…",
+      "account": "@NWSPhoenix",
+      "time": "Nov 17, 8:19 AM CST",
+      "code": "PHX",
+      "url": "https://x.com/NWSPhoenix/status/2122696163895738486",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
+    {
+      "text": "Above normal temperatures and dry weather returns this week with plenty of sun and highs warming into the 70s!…",
+      "account": "@NWSFortWorth",
+      "time": "Nov 17, 6:16 AM CST",
+      "code": "DFW",
+      "url": "https://x.com/NWSFortWorth/status/2122665106559451504",
+      "opsTag": [
+        "Grid strain",
+        "Cooling load"
+      ]
+    },
     {
       "text": "[650 am 11/17/26] Some overland fog has developed across parts of the area. This is in addition…",
       "account": "@NWSILN",
@@ -71,16 +98,6 @@
       ]
     },
     {
-      "text": "A cold front will pass through the area tomorrow, bringing showers and a few thunderstorms. Rainfall totals will be on…",
-      "account": "@NWSPhoenix",
-      "time": "Nov 16, 4:30 PM CST",
-      "code": "PHX",
-      "url": "https://x.com/NWSPhoenix/status/2122457370500759854",
-      "opsTag": [
-        "Lightning"
-      ]
-    },
-    {
       "text": "A weak cold front will bring a slight chance of rain Saturday and Sunday, but the weekend weather will be okay…",
       "account": "@NWSFortWorth",
       "time": "Nov 16, 4:08 PM CST",
@@ -91,31 +108,10 @@
       ]
     },
     {
-      "text": "High pressure overhead and the return of south winds will bring a steady increase in our temperatures this week, with…",
-      "account": "@NWSFortWorth",
-      "time": "Nov 16, 3:27 PM CST",
-      "code": "DFW",
-      "url": "https://x.com/NWSFortWorth/status/2122441475740836098",
-      "opsTag": [
-        "Rooftop/crane work",
-        "Cooling load"
-      ]
-    },
-    {
       "text": "The Monday night-Wednesday morning storm system will not only bring significant snow for many mountain locations, but…",
       "account": "@NWSSaltLakeCity",
       "time": "Nov 16, 3:26 PM CST",
       "url": "https://x.com/NWSSaltLakeCity/status/2122441172274512184"
-    },
-    {
-      "text": "Temperatures will slowly warm through the week with highs in the 60s expected for the weekend. Dry weather will be…",
-      "account": "@NWSCLE",
-      "time": "Nov 16, 2:06 PM CST",
-      "code": "NEO",
-      "url": "https://x.com/NWSCLE/status/2122421160256147709",
-      "opsTag": [
-        "Cooling load"
-      ]
     }
   ]
 }
