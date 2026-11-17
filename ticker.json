@@ -1,7 +1,44 @@
 {
-  "asOf": "Nov 16, 3:09 PM CST",
+  "asOf": "Nov 16, 6:08 PM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "A cold front will pass through the area tomorrow, bringing showers and a few thunderstorms. Rainfall totals will be on…",
+      "account": "@NWSPhoenix",
+      "time": "Nov 16, 4:30 PM CST",
+      "code": "PHX",
+      "url": "https://x.com/NWSPhoenix/status/2122457370500759854",
+      "opsTag": [
+        "Lightning"
+      ]
+    },
+    {
+      "text": "A weak cold front will bring a slight chance of rain Saturday and Sunday, but the weekend weather will be okay…",
+      "account": "@NWSFortWorth",
+      "time": "Nov 16, 4:08 PM CST",
+      "code": "DFW",
+      "url": "https://x.com/NWSFortWorth/status/2122451671020089583",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
+    {
+      "text": "High pressure overhead and the return of south winds will bring a steady increase in our temperatures this week, with…",
+      "account": "@NWSFortWorth",
+      "time": "Nov 16, 3:27 PM CST",
+      "code": "DFW",
+      "url": "https://x.com/NWSFortWorth/status/2122441475740836098",
+      "opsTag": [
+        "Rooftop/crane work",
+        "Cooling load"
+      ]
+    },
+    {
+      "text": "The Monday night-Wednesday morning storm system will not only bring significant snow for many mountain locations, but…",
+      "account": "@NWSSaltLakeCity",
+      "time": "Nov 16, 3:26 PM CST",
+      "url": "https://x.com/NWSSaltLakeCity/status/2122441172274512184"
+    },
     {
       "text": "Temperatures will slowly warm through the week with highs in the 60s expected for the weekend. Dry weather will be…",
       "account": "@NWSCLE",
@@ -23,16 +60,6 @@
       ]
     },
     {
-      "text": "Cool temperatures are expected tonight, with overnight lows dipping into the upper 30s to lower 40s under clear skies.…",
-      "account": "@NWSFortWorth",
-      "time": "Nov 16, 1:22 PM CST",
-      "code": "DFW",
-      "url": "https://x.com/NWSFortWorth/status/2122409877192483068",
-      "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
       "text": "Morning lows were generally in the 50s to lower 60s across the area, under partly cloudy skies. Anticipate…",
       "account": "@NWSPhoenix",
       "time": "Nov 16, 9:36 AM CST",
@@ -49,16 +76,6 @@
       "url": "https://x.com/wsbtv/status/2122327049155031453",
       "opsTag": [
         "Water"
-      ]
-    },
-    {
-      "text": "Temperatures will be on an upward trend this week, bringing the return of pleasant weather conditions. By Friday, high…",
-      "account": "@NWSFortWorth",
-      "time": "Nov 16, 6:56 AM CST",
-      "code": "DFW",
-      "url": "https://x.com/NWSFortWorth/status/2122312911691329760",
-      "opsTag": [
-        "Cooling load"
       ]
     }
   ]
