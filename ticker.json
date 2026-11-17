@@ -1,7 +1,17 @@
 {
-  "asOf": "Nov 17, 9:07 AM CST",
+  "asOf": "Nov 17, 12:03 PM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "10:10 AM MST Weather Radar: An intense line of showers is currently moving through the area. Wind gusts with the line…",
+      "account": "@NWSPhoenix",
+      "time": "Nov 17, 11:15 AM CST",
+      "code": "PHX",
+      "url": "https://x.com/NWSPhoenix/status/2122740378592051588",
+      "opsTag": [
+        "Rooftop/crane work"
+      ]
+    },
     {
       "text": "TODAY'S FORECAST: Rain and snow over the area will track east across the region through the afternoon.…",
       "account": "@NWSSaltLakeCity",
@@ -73,17 +83,6 @@
       "code": "CMH",
       "url": "https://x.com/NWSILN/status/2122597039238156627",
       "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "As a cold front sweeps through the region tomorrow, winds will increase and become gusty. Winds could gust upwards of…",
-      "account": "@NWSPhoenix",
-      "time": "Nov 16, 8:18 PM CST",
-      "code": "PHX",
-      "url": "https://x.com/NWSPhoenix/status/2122514790174118198",
-      "opsTag": [
-        "Rooftop/crane work",
         "Cooling load"
       ]
     },
