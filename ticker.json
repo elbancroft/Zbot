@@ -1,7 +1,37 @@
 {
-  "asOf": "Nov 16, 9:07 PM CST",
+  "asOf": "Nov 17, 3:10 AM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "Above normal temperatures for mid November are expected through Saturday with a cold front expected to move across the…",
+      "account": "@NWSChicago",
+      "time": "Nov 17, 3:07 AM CST",
+      "code": "ORD",
+      "url": "https://x.com/NWSChicago/status/2122617537816866890",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
+    {
+      "text": "Sunny skies over the next several days with well above normal temperatures.",
+      "account": "@NWS_BaltWash",
+      "time": "Nov 17, 2:34 AM CST",
+      "code": "IAD",
+      "url": "https://x.com/NWS_BaltWash/status/2122609389546721444",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
+    {
+      "text": "The warming trend continues. Dry conditions will persist through the end of the week with temperatures rising to 10 to…",
+      "account": "@NWSILN",
+      "time": "Nov 17, 1:45 AM CST",
+      "code": "CMH",
+      "url": "https://x.com/NWSILN/status/2122597039238156627",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
     {
       "text": "As a cold front sweeps through the region tomorrow, winds will increase and become gusty. Winds could gust upwards of…",
       "account": "@NWSPhoenix",
