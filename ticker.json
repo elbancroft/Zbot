@@ -1,7 +1,24 @@
 {
-  "asOf": "Nov 17, 3:10 AM CST",
+  "asOf": "Nov 17, 6:04 AM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "[650 am 11/17/26] Some overland fog has developed across parts of the area. This is in addition…",
+      "account": "@NWSILN",
+      "time": "Nov 17, 5:50 AM CST",
+      "code": "CMH",
+      "url": "https://x.com/NWSILN/status/2122658595900895483"
+    },
+    {
+      "text": "Patchy fog and possibly isolated instances of freezing fog will lift by mid-morning. From there, mostly sunny skies…",
+      "account": "@NWSCLE",
+      "time": "Nov 17, 4:13 AM CST",
+      "code": "NEO",
+      "url": "https://x.com/NWSCLE/status/2122634274381648005",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
     {
       "text": "Above normal temperatures for mid November are expected through Saturday with a cold front expected to move across the…",
       "account": "@NWSChicago",
@@ -98,25 +115,6 @@
       "url": "https://x.com/NWSCLE/status/2122421160256147709",
       "opsTag": [
         "Cooling load"
-      ]
-    },
-    {
-      "text": "Temperatures will continue to gradually warm through the 50s and into the 60s by the end of the week. The next chance…",
-      "account": "@NWSChicago",
-      "time": "Nov 16, 1:44 PM CST",
-      "code": "ORD",
-      "url": "https://x.com/NWSChicago/status/2122415500965658951",
-      "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "‘Much of downtown’ experiencing water outage in the area city",
-      "account": "@wsbtv",
-      "time": "Nov 16, 7:52 AM CST",
-      "url": "https://x.com/wsbtv/status/2122327049155031453",
-      "opsTag": [
-        "Water"
       ]
     }
   ]
