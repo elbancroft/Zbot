@@ -1,7 +1,28 @@
 {
-  "asOf": "Nov 16, 6:08 PM CST",
+  "asOf": "Nov 16, 9:07 PM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "As a cold front sweeps through the region tomorrow, winds will increase and become gusty. Winds could gust upwards of…",
+      "account": "@NWSPhoenix",
+      "time": "Nov 16, 8:18 PM CST",
+      "code": "PHX",
+      "url": "https://x.com/NWSPhoenix/status/2122514790174118198",
+      "opsTag": [
+        "Rooftop/crane work",
+        "Cooling load"
+      ]
+    },
+    {
+      "text": "Overnight lows will be in the upper 20s and 30s tonight with mostly clear skies as high pressure builds overhead.…",
+      "account": "@NWS_BaltWash",
+      "time": "Nov 16, 7:05 PM CST",
+      "code": "IAD",
+      "url": "https://x.com/NWS_BaltWash/status/2122496363816686063",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
     {
       "text": "A cold front will pass through the area tomorrow, bringing showers and a few thunderstorms. Rainfall totals will be on…",
       "account": "@NWSPhoenix",
@@ -55,16 +76,6 @@
       "time": "Nov 16, 1:44 PM CST",
       "code": "ORD",
       "url": "https://x.com/NWSChicago/status/2122415500965658951",
-      "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "Morning lows were generally in the 50s to lower 60s across the area, under partly cloudy skies. Anticipate…",
-      "account": "@NWSPhoenix",
-      "time": "Nov 16, 9:36 AM CST",
-      "code": "PHX",
-      "url": "https://x.com/NWSPhoenix/status/2122353226120827176",
       "opsTag": [
         "Cooling load"
       ]
