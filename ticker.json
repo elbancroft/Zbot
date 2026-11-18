@@ -1,7 +1,37 @@
 {
-  "asOf": "Nov 17, 6:09 PM CST",
+  "asOf": "Nov 17, 9:10 PM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "Under clear skies and dry conditions, temperatures will cool into the 40s and 50s tonight across the area…",
+      "account": "@NWSPhoenix",
+      "time": "Nov 17, 8:54 PM CST",
+      "code": "PHX",
+      "url": "https://x.com/NWSPhoenix/status/2122886108140929105",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
+    {
+      "text": "It was a rainy fall day across the area, with high temperatures a few degrees below normal for this time of…",
+      "account": "@NWSPhoenix",
+      "time": "Nov 17, 7:07 PM CST",
+      "code": "PHX",
+      "url": "https://x.com/NWSPhoenix/status/2122859143728173410",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
+    {
+      "text": "Lows in the upper 20s and 30s again tonight as clear skies and light winds persist. Temperatures increase over the…",
+      "account": "@NWS_BaltWash",
+      "time": "Nov 17, 6:11 PM CST",
+      "code": "IAD",
+      "url": "https://x.com/NWS_BaltWash/status/2122845134882480559",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
     {
       "text": "Rain and snow will continue across the area into tonight, with snow levels falling as low as 4,000…",
       "account": "@NWSSaltLakeCity",
@@ -45,26 +75,6 @@
       ]
     },
     {
-      "text": "10:10 AM MST Weather Radar: An intense line of showers is currently moving through the area. Wind gusts with the line…",
-      "account": "@NWSPhoenix",
-      "time": "Nov 17, 11:15 AM CST",
-      "code": "PHX",
-      "url": "https://x.com/NWSPhoenix/status/2122740378592051588",
-      "opsTag": [
-        "Rooftop/crane work"
-      ]
-    },
-    {
-      "text": "7:15 AM MST Radar: A large batch of showers are starting to move out of the area, but there will continue to…",
-      "account": "@NWSPhoenix",
-      "time": "Nov 17, 8:19 AM CST",
-      "code": "PHX",
-      "url": "https://x.com/NWSPhoenix/status/2122696163895738486",
-      "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
       "text": "Above normal temperatures and dry weather returns this week with plenty of sun and highs warming into the 70s!…",
       "account": "@NWSFortWorth",
       "time": "Nov 17, 6:16 AM CST",
@@ -98,16 +108,6 @@
       "time": "Nov 17, 3:07 AM CST",
       "code": "ORD",
       "url": "https://x.com/NWSChicago/status/2122617537816866890",
-      "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "Sunny skies over the next several days with well above normal temperatures.",
-      "account": "@NWS_BaltWash",
-      "time": "Nov 17, 2:34 AM CST",
-      "code": "IAD",
-      "url": "https://x.com/NWS_BaltWash/status/2122609389546721444",
       "opsTag": [
         "Cooling load"
       ]
