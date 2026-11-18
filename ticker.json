@@ -1,85 +1,75 @@
 {
-  "asOf": "Nov 18, 6:02 AM CST",
+  "asOf": "Nov 18, 9:09 AM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "After a frosty start with another sunny day ahead. Temps will be a touch warmer east of the mtns. with highs in the…",
+      "account": "@NWS_BaltWash",
+      "time": "Nov 18, 7:44 AM CST",
+      "code": "IAD",
+      "url": "https://x.com/NWS_BaltWash/status/2123049713737912825"
+    },
+    {
+      "text": "Temperatures during the rest of the workweek and into the weekend will run below normal for this time of year, with…",
+      "account": "@NWSPhoenix",
+      "time": "Nov 18, 6:15 AM CST",
+      "code": "PHX",
+      "url": "https://x.com/NWSPhoenix/status/2123027189142622540"
+    },
+    {
+      "text": "With the current storm track well to our northwest, generally clear skies and warming temps are expected this week…",
+      "account": "@NWSFortWorth",
+      "time": "Nov 18, 6:02 AM CST",
+      "code": "DFW",
+      "url": "https://x.com/NWSFortWorth/status/2123024102780735612"
+    },
+    {
+      "text": "Typical fall temperatures and periods of rain may return to the region next week. For those that enjoy fall weather…",
+      "account": "@NWSFortWorth",
+      "time": "Nov 18, 6:02 AM CST",
+      "code": "DFW",
+      "url": "https://x.com/NWSFortWorth/status/2123024091980374159"
+    },
     {
       "text": "Temperatures will slowly warm into the weekend across the area. Clouds potential showers will prevent…",
       "account": "@NWSAtlanta",
       "time": "Nov 18, 4:52 AM CST",
-      "url": "https://x.com/NWSAtlanta/status/2123006320995393993",
-      "opsTag": [
-        "Cooling load"
-      ]
+      "url": "https://x.com/NWSAtlanta/status/2123006320995393993"
     },
     {
       "text": "Warmer temperatures and plenty of sunshine are expected today. Highs will be in the 50s with overnight lows largely in…",
       "account": "@NWSCLE",
       "time": "Nov 18, 4:40 AM CST",
       "code": "NEO",
-      "url": "https://x.com/NWSCLE/status/2123003372005396675",
-      "opsTag": [
-        "Cooling load"
-      ]
+      "url": "https://x.com/NWSCLE/status/2123003372005396675"
     },
     {
       "text": "Above normal temperatures for mid November will continue into this weekend when a cold front will move across the…",
       "account": "@NWSChicago",
       "time": "Nov 18, 3:18 AM CST",
       "code": "ORD",
-      "url": "https://x.com/NWSChicago/status/2122982733550866715",
-      "opsTag": [
-        "Cooling load"
-      ]
+      "url": "https://x.com/NWSChicago/status/2122982733550866715"
     },
     {
       "text": "Sunny skies over the next several days with increasingly above normal temperatures.",
       "account": "@NWS_BaltWash",
       "time": "Nov 18, 1:55 AM CST",
       "code": "IAD",
-      "url": "https://x.com/NWS_BaltWash/status/2122961907875258390",
-      "opsTag": [
-        "Cooling load"
-      ]
+      "url": "https://x.com/NWS_BaltWash/status/2122961907875258390"
     },
     {
       "text": "Mainly clear skies will continue through the rest of the week. Each day will be a little warmer than the previous one.…",
       "account": "@NWSILN",
       "time": "Nov 18, 1:41 AM CST",
       "code": "CMH",
-      "url": "https://x.com/NWSILN/status/2122958450019697041",
-      "opsTag": [
-        "Cooling load"
-      ]
+      "url": "https://x.com/NWSILN/status/2122958450019697041"
     },
     {
       "text": "Under clear skies and dry conditions, temperatures will cool into the 40s and 50s tonight across the area…",
       "account": "@NWSPhoenix",
       "time": "Nov 17, 8:54 PM CST",
       "code": "PHX",
-      "url": "https://x.com/NWSPhoenix/status/2122886108140929105",
-      "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "It was a rainy fall day across the area, with high temperatures a few degrees below normal for this time of…",
-      "account": "@NWSPhoenix",
-      "time": "Nov 17, 7:07 PM CST",
-      "code": "PHX",
-      "url": "https://x.com/NWSPhoenix/status/2122859143728173410",
-      "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "Lows in the upper 20s and 30s again tonight as clear skies and light winds persist. Temperatures increase over the…",
-      "account": "@NWS_BaltWash",
-      "time": "Nov 17, 6:11 PM CST",
-      "code": "IAD",
-      "url": "https://x.com/NWS_BaltWash/status/2122845134882480559",
-      "opsTag": [
-        "Cooling load"
-      ]
+      "url": "https://x.com/NWSPhoenix/status/2122886108140929105"
     },
     {
       "text": "Rain and snow will continue across the area into tonight, with snow levels falling as low as 4,000…",
@@ -92,26 +82,6 @@
       "account": "@NWSSaltLakeCity",
       "time": "Nov 17, 2:18 PM CST",
       "url": "https://x.com/NWSSaltLakeCity/status/2122786390828040377"
-    },
-    {
-      "text": "Soak up the sun in November with barely a cloudy in the sky! This week will feature sunny to partly cloudy skies…",
-      "account": "@NWSCLE",
-      "time": "Nov 17, 2:04 PM CST",
-      "code": "NEO",
-      "url": "https://x.com/NWSCLE/status/2122782848939593757",
-      "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "Warmer than average temperatures for mid-November will persist through Saturday, with a cold front expected to move…",
-      "account": "@NWSChicago",
-      "time": "Nov 17, 2:03 PM CST",
-      "code": "ORD",
-      "url": "https://x.com/NWSChicago/status/2122782579472343250",
-      "opsTag": [
-        "Cooling load"
-      ]
     }
   ]
 }
