@@ -1,7 +1,27 @@
 {
-  "asOf": "Nov 17, 9:10 PM CST",
+  "asOf": "Nov 18, 3:04 AM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "Sunny skies over the next several days with increasingly above normal temperatures.",
+      "account": "@NWS_BaltWash",
+      "time": "Nov 18, 1:55 AM CST",
+      "code": "IAD",
+      "url": "https://x.com/NWS_BaltWash/status/2122961907875258390",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
+    {
+      "text": "Mainly clear skies will continue through the rest of the week. Each day will be a little warmer than the previous one.…",
+      "account": "@NWSILN",
+      "time": "Nov 18, 1:41 AM CST",
+      "code": "CMH",
+      "url": "https://x.com/NWSILN/status/2122958450019697041",
+      "opsTag": [
+        "Cooling load"
+      ]
+    },
     {
       "text": "Under clear skies and dry conditions, temperatures will cool into the 40s and 50s tonight across the area…",
       "account": "@NWSPhoenix",
@@ -91,26 +111,6 @@
       "time": "Nov 17, 5:50 AM CST",
       "code": "CMH",
       "url": "https://x.com/NWSILN/status/2122658595900895483"
-    },
-    {
-      "text": "Patchy fog and possibly isolated instances of freezing fog will lift by mid-morning. From there, mostly sunny skies…",
-      "account": "@NWSCLE",
-      "time": "Nov 17, 4:13 AM CST",
-      "code": "NEO",
-      "url": "https://x.com/NWSCLE/status/2122634274381648005",
-      "opsTag": [
-        "Cooling load"
-      ]
-    },
-    {
-      "text": "Above normal temperatures for mid November are expected through Saturday with a cold front expected to move across the…",
-      "account": "@NWSChicago",
-      "time": "Nov 17, 3:07 AM CST",
-      "code": "ORD",
-      "url": "https://x.com/NWSChicago/status/2122617537816866890",
-      "opsTag": [
-        "Cooling load"
-      ]
     }
   ]
 }
