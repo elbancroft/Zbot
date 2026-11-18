@@ -1,7 +1,26 @@
 {
-  "asOf": "Nov 18, 9:09 AM CST",
+  "asOf": "Nov 18, 12:07 PM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "Water main break causes outage in several neighborhoods in the area",
+      "account": "@wsbtv",
+      "time": "Nov 18, 11:49 AM CST",
+      "url": "https://x.com/wsbtv/status/2123111333906313584"
+    },
+    {
+      "text": "Visible satellite this morning shows snow covering all of the area's mountains, with valley snow across the area. This marks the season's first valley snow.",
+      "account": "@NWSSaltLakeCity",
+      "time": "Nov 18, 10:33 AM CST",
+      "url": "https://x.com/NWSSaltLakeCity/status/2123092305393369235"
+    },
+    {
+      "text": "Highs stay in the 70s through Friday before a sunny weekend, while a passing storm brings light snow showers and 35 to 45 mph wind gusts to higher terrain nearby.",
+      "account": "@FOX10Phoenix",
+      "time": "Nov 18, 10:00 AM CST",
+      "code": "PHX",
+      "url": "https://x.com/FOX10Phoenix/status/2123083902734483820"
+    },
     {
       "text": "After a frosty start with another sunny day ahead. Temps will be a touch warmer east of the mtns. with highs in the…",
       "account": "@NWS_BaltWash",
@@ -63,25 +82,6 @@
       "time": "Nov 18, 1:41 AM CST",
       "code": "CMH",
       "url": "https://x.com/NWSILN/status/2122958450019697041"
-    },
-    {
-      "text": "Under clear skies and dry conditions, temperatures will cool into the 40s and 50s tonight across the area…",
-      "account": "@NWSPhoenix",
-      "time": "Nov 17, 8:54 PM CST",
-      "code": "PHX",
-      "url": "https://x.com/NWSPhoenix/status/2122886108140929105"
-    },
-    {
-      "text": "Rain and snow will continue across the area into tonight, with snow levels falling as low as 4,000…",
-      "account": "@NWSSaltLakeCity",
-      "time": "Nov 17, 3:14 PM CST",
-      "url": "https://x.com/NWSSaltLakeCity/status/2122800564291424403"
-    },
-    {
-      "text": "Mountain snow will taper off this afternoon in the area, continuing through early Wed across the northern mountains…",
-      "account": "@NWSSaltLakeCity",
-      "time": "Nov 17, 2:18 PM CST",
-      "url": "https://x.com/NWSSaltLakeCity/status/2122786390828040377"
     }
   ]
 }
