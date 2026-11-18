@@ -1,7 +1,13 @@
 {
-  "asOf": "Nov 17, 3:02 PM CST",
+  "asOf": "Nov 17, 6:09 PM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "Rain and snow will continue across the area into tonight, with snow levels falling as low as 4,000…",
+      "account": "@NWSSaltLakeCity",
+      "time": "Nov 17, 3:14 PM CST",
+      "url": "https://x.com/NWSSaltLakeCity/status/2122800564291424403"
+    },
     {
       "text": "Mountain snow will taper off this afternoon in the area, continuing through early Wed across the northern mountains…",
       "account": "@NWSSaltLakeCity",
@@ -47,12 +53,6 @@
       "opsTag": [
         "Rooftop/crane work"
       ]
-    },
-    {
-      "text": "TODAY'S FORECAST: Rain and snow over the area will track east across the region through the afternoon.…",
-      "account": "@NWSSaltLakeCity",
-      "time": "Nov 17, 9:03 AM CST",
-      "url": "https://x.com/NWSSaltLakeCity/status/2122707134135611843"
     },
     {
       "text": "7:15 AM MST Radar: A large batch of showers are starting to move out of the area, but there will continue to…",
