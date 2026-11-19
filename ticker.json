@@ -1,7 +1,14 @@
 {
-  "asOf": "Nov 19, 3:08 AM CST",
+  "asOf": "Nov 19, 6:02 AM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "Dry weather and above normal temperatures are expected through Saturday. Highs will be in the upper 50s and lower 60s…",
+      "account": "@NWSCLE",
+      "time": "Nov 19, 5:41 AM CST",
+      "code": "NEO",
+      "url": "https://x.com/NWSCLE/status/2123381264384242071"
+    },
     {
       "text": "High temperatures will be 15 to 20 degrees above normal for mid November through Saturday. A cold front will move…",
       "account": "@NWSChicago",
@@ -17,7 +24,7 @@
       "url": "https://x.com/NWS_BaltWash/status/2123323268060889141"
     },
     {
-      "text": "[1:28 AM] Fog will be possible overnight into this morning. High pressure continues, providing dry…",
+      "text": "Fog will be possible overnight into this morning. High pressure continues, providing dry…",
       "account": "@NWSILN",
       "time": "Nov 19, 12:32 AM CST",
       "code": "CMH",
@@ -29,6 +36,20 @@
       "time": "Nov 18, 11:17 PM CST",
       "code": "DFW",
       "url": "https://x.com/wfaa/status/2123284396648055128"
+    },
+    {
+      "text": "Although high surf conditions have eased, a moderate to high threat of sneaker waves will persist through Sunday…",
+      "account": "@NWSPortland",
+      "time": "Nov 18, 7:56 PM CST",
+      "code": "PDX",
+      "url": "https://x.com/NWSPortland/status/2123233807637639558"
+    },
+    {
+      "text": "It was a beautiful sunny day with highs in the low 70s across the area.",
+      "account": "@NWSPhoenix",
+      "time": "Nov 18, 7:03 PM CST",
+      "code": "PHX",
+      "url": "https://x.com/NWSPhoenix/status/2123220476415922344"
     }
   ]
 }
