@@ -1,54 +1,34 @@
 {
-  "asOf": "Nov 18, 9:04 PM CST",
+  "asOf": "Nov 19, 3:08 AM CST",
   "label": "Unverified news",
   "items": [
     {
-      "text": "Although high surf conditions have eased, a moderate to high threat of sneaker waves will persist through Sunday…",
-      "account": "@NWSPortland",
-      "time": "Nov 18, 7:56 PM CST",
-      "code": "PDX",
-      "url": "https://x.com/NWSPortland/status/2123233807637639558"
+      "text": "High temperatures will be 15 to 20 degrees above normal for mid November through Saturday. A cold front will move…",
+      "account": "@NWSChicago",
+      "time": "Nov 19, 3:05 AM CST",
+      "code": "ORD",
+      "url": "https://x.com/NWSChicago/status/2123341930700415106"
     },
     {
-      "text": "It was a beautiful sunny day with highs in the low 70s across the lower deserts.",
-      "account": "@NWSPhoenix",
-      "time": "Nov 18, 7:03 PM CST",
-      "code": "PHX",
-      "url": "https://x.com/NWSPhoenix/status/2123220476415922344"
+      "text": "Warm and dry conditions continue again today through Saturday. Monitoring the potential for rain Sunday.",
+      "account": "@NWS_BaltWash",
+      "time": "Nov 19, 1:51 AM CST",
+      "code": "IAD",
+      "url": "https://x.com/NWS_BaltWash/status/2123323268060889141"
     },
     {
-      "text": "Winter Safety Awareness Week: The changes in temperature through the profile of the atmosphere dictate the type…",
-      "account": "@NWSCLE",
-      "time": "Nov 18, 4:00 PM CST",
-      "code": "NEO",
-      "url": "https://x.com/NWSCLE/status/2123174413076144318"
-    },
-    {
-      "text": "After a brief break in the action today, the active pattern returns tomorrow, with more chances for mountain…",
-      "account": "@NWSSaltLakeCity",
-      "time": "Nov 18, 3:41 PM CST",
-      "url": "https://x.com/NWSSaltLakeCity/status/2123169708195090496"
-    },
-    {
-      "text": "Probabilities of above normal temperatures across the region through the end of November and into December along with…",
-      "account": "@NWSCLE",
-      "time": "Nov 18, 2:32 PM CST",
-      "code": "NEO",
-      "url": "https://x.com/NWSCLE/status/2123152302307475706"
-    },
-    {
-      "text": "Winter Weather Awareness Week: The changes in temperature through the profile of the atmosphere dictate the type of…",
+      "text": "[1:28 AM] Fog will be possible overnight into this morning. High pressure continues, providing dry…",
       "account": "@NWSILN",
-      "time": "Nov 18, 2:28 PM CST",
+      "time": "Nov 19, 12:32 AM CST",
       "code": "CMH",
-      "url": "https://x.com/NWSILN/status/2123151368366289380"
+      "url": "https://x.com/NWSILN/status/2123303369796100129"
     },
     {
-      "text": "Warming trend will continue the rest of this week with highs mainly in the 70s & lows in the upper 40s & 50s.…",
-      "account": "@NWSFortWorth",
-      "time": "Nov 18, 1:51 PM CST",
+      "text": "A gas leak at a university building prompted the evacuation of a hall Wednesday morning.",
+      "account": "@wfaa",
+      "time": "Nov 18, 11:17 PM CST",
       "code": "DFW",
-      "url": "https://x.com/NWSFortWorth/status/2123142167623286884"
+      "url": "https://x.com/wfaa/status/2123284396648055128"
     }
   ]
 }
