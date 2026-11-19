@@ -1,7 +1,28 @@
 {
-  "asOf": "Nov 19, 6:02 AM CST",
+  "asOf": "Nov 19, 9:04 AM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "Another sunny snapshot today with light winds and above normal temperatures expected. Highs push into the mid 60s and…",
+      "account": "@NWS_BaltWash",
+      "time": "Nov 19, 7:40 AM CST",
+      "code": "IAD",
+      "url": "https://x.com/NWS_BaltWash/status/2123411196221214784"
+    },
+    {
+      "text": "Warmth and humidity will return the next couple days with highs in the 70s and patchy morning fog! However, a cold…",
+      "account": "@NWSFortWorth",
+      "time": "Nov 19, 6:35 AM CST",
+      "code": "DFW",
+      "url": "https://x.com/NWSFortWorth/status/2123394700312707434"
+    },
+    {
+      "text": "Breezy to windy conditions can be expected for portions of the area this afternoon and evening. Gusts upwards…",
+      "account": "@NWSPhoenix",
+      "time": "Nov 19, 6:15 AM CST",
+      "code": "PHX",
+      "url": "https://x.com/NWSPhoenix/status/2123389575976644918"
+    },
     {
       "text": "Dry weather and above normal temperatures are expected through Saturday. Highs will be in the upper 50s and lower 60s…",
       "account": "@NWSCLE",
