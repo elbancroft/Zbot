@@ -1,7 +1,13 @@
 {
-  "asOf": "Nov 18, 3:05 PM CST",
+  "asOf": "Nov 18, 6:02 PM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "After a brief break in the action today, the active pattern returns tomorrow, with more chances for mountain…",
+      "account": "@NWSSaltLakeCity",
+      "time": "Nov 18, 3:41 PM CST",
+      "url": "https://x.com/NWSSaltLakeCity/status/2123169708195090496"
+    },
     {
       "text": "Probabilities of above normal temperatures across the region through the end of November and into December along with…",
       "account": "@NWSCLE",
@@ -75,13 +81,6 @@
       "time": "Nov 18, 4:40 AM CST",
       "code": "NEO",
       "url": "https://x.com/NWSCLE/status/2123003372005396675"
-    },
-    {
-      "text": "Above normal temperatures for mid November will continue into this weekend when a cold front will move across the…",
-      "account": "@NWSChicago",
-      "time": "Nov 18, 3:18 AM CST",
-      "code": "ORD",
-      "url": "https://x.com/NWSChicago/status/2122982733550866715"
     }
   ]
 }
