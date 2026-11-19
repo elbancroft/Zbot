@@ -1,13 +1,13 @@
 {
-  "asOf": "Nov 19, 9:04 AM CST",
+  "asOf": "Nov 19, 12:02 PM CST",
   "label": "Unverified news",
   "items": [
     {
-      "text": "Another sunny snapshot today with light winds and above normal temperatures expected. Highs push into the mid 60s and…",
-      "account": "@NWS_BaltWash",
-      "time": "Nov 19, 7:40 AM CST",
-      "code": "IAD",
-      "url": "https://x.com/NWS_BaltWash/status/2123411196221214784"
+      "text": "Scattered rain and light snow move across the area through Friday, bringing gusty winds and a temperature…",
+      "account": "@FOX10Phoenix",
+      "time": "Nov 19, 11:00 AM CST",
+      "code": "PHX",
+      "url": "https://x.com/FOX10Phoenix/status/2123461404346696094"
     },
     {
       "text": "Warmth and humidity will return the next couple days with highs in the 70s and patchy morning fog! However, a cold…",
@@ -17,60 +17,11 @@
       "url": "https://x.com/NWSFortWorth/status/2123394700312707434"
     },
     {
-      "text": "Breezy to windy conditions can be expected for portions of the area this afternoon and evening. Gusts upwards…",
-      "account": "@NWSPhoenix",
-      "time": "Nov 19, 6:15 AM CST",
-      "code": "PHX",
-      "url": "https://x.com/NWSPhoenix/status/2123389575976644918"
-    },
-    {
-      "text": "Dry weather and above normal temperatures are expected through Saturday. Highs will be in the upper 50s and lower 60s…",
-      "account": "@NWSCLE",
-      "time": "Nov 19, 5:41 AM CST",
-      "code": "NEO",
-      "url": "https://x.com/NWSCLE/status/2123381264384242071"
-    },
-    {
       "text": "High temperatures will be 15 to 20 degrees above normal for mid November through Saturday. A cold front will move…",
       "account": "@NWSChicago",
       "time": "Nov 19, 3:05 AM CST",
       "code": "ORD",
       "url": "https://x.com/NWSChicago/status/2123341930700415106"
-    },
-    {
-      "text": "Warm and dry conditions continue again today through Saturday. Monitoring the potential for rain Sunday.",
-      "account": "@NWS_BaltWash",
-      "time": "Nov 19, 1:51 AM CST",
-      "code": "IAD",
-      "url": "https://x.com/NWS_BaltWash/status/2123323268060889141"
-    },
-    {
-      "text": "Fog will be possible overnight into this morning. High pressure continues, providing dry…",
-      "account": "@NWSILN",
-      "time": "Nov 19, 12:32 AM CST",
-      "code": "CMH",
-      "url": "https://x.com/NWSILN/status/2123303369796100129"
-    },
-    {
-      "text": "A gas leak at a university building prompted the evacuation of a hall Wednesday morning.",
-      "account": "@wfaa",
-      "time": "Nov 18, 11:17 PM CST",
-      "code": "DFW",
-      "url": "https://x.com/wfaa/status/2123284396648055128"
-    },
-    {
-      "text": "Although high surf conditions have eased, a moderate to high threat of sneaker waves will persist through Sunday…",
-      "account": "@NWSPortland",
-      "time": "Nov 18, 7:56 PM CST",
-      "code": "PDX",
-      "url": "https://x.com/NWSPortland/status/2123233807637639558"
-    },
-    {
-      "text": "It was a beautiful sunny day with highs in the low 70s across the area.",
-      "account": "@NWSPhoenix",
-      "time": "Nov 18, 7:03 PM CST",
-      "code": "PHX",
-      "url": "https://x.com/NWSPhoenix/status/2123220476415922344"
     }
   ]
 }
