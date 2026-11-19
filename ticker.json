@@ -1,7 +1,21 @@
 {
-  "asOf": "Nov 19, 12:02 PM CST",
+  "asOf": "Nov 19, 3:07 PM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "Mild temperatures will continue through the weekend! A cold front will arrive Sunday night bringing a chance of…",
+      "account": "@NWSCLE",
+      "time": "Nov 19, 2:01 PM CST",
+      "code": "NEO",
+      "url": "https://x.com/NWSCLE/status/2123506942588911853"
+    },
+    {
+      "text": "Unseasonably warm weather persists into the weekend, though a cold front will move across the area Sunday. Expect a…",
+      "account": "@NWSChicago",
+      "time": "Nov 19, 2:00 PM CST",
+      "code": "ORD",
+      "url": "https://x.com/NWSChicago/status/2123506661146890569"
+    },
     {
       "text": "Scattered rain and light snow move across the area through Friday, bringing gusty winds and a temperature…",
       "account": "@FOX10Phoenix",
@@ -10,18 +24,18 @@
       "url": "https://x.com/FOX10Phoenix/status/2123461404346696094"
     },
     {
+      "text": "Another sunny snapshot today with light winds and above normal temperatures expected. Highs push into the mid 60s and…",
+      "account": "@NWS_BaltWash",
+      "time": "Nov 19, 7:40 AM CST",
+      "code": "IAD",
+      "url": "https://x.com/NWS_BaltWash/status/2123411196221214784"
+    },
+    {
       "text": "Warmth and humidity will return the next couple days with highs in the 70s and patchy morning fog! However, a cold…",
       "account": "@NWSFortWorth",
       "time": "Nov 19, 6:35 AM CST",
       "code": "DFW",
       "url": "https://x.com/NWSFortWorth/status/2123394700312707434"
-    },
-    {
-      "text": "High temperatures will be 15 to 20 degrees above normal for mid November through Saturday. A cold front will move…",
-      "account": "@NWSChicago",
-      "time": "Nov 19, 3:05 AM CST",
-      "code": "ORD",
-      "url": "https://x.com/NWSChicago/status/2123341930700415106"
     }
   ]
 }
