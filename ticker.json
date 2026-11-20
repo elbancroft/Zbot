@@ -1,7 +1,35 @@
 {
-  "asOf": "Nov 20, 3:03 AM CST",
+  "asOf": "Nov 20, 9:04 AM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "Much cooler conditions are expected next week following this weekend's cold front and a reinforcing front on Tuesday.…",
+      "account": "@NWSFortWorth",
+      "time": "Nov 20, 8:30 AM CST",
+      "code": "DFW",
+      "url": "https://x.com/NWSFortWorth/status/2123785940611039348"
+    },
+    {
+      "text": "An upper level disturbance will bring a slight chance of rain followed by a cold front this weekend. The best rain…",
+      "account": "@NWSFortWorth",
+      "time": "Nov 20, 7:30 AM CST",
+      "code": "DFW",
+      "url": "https://x.com/NWSFortWorth/status/2123770843142480289"
+    },
+    {
+      "text": "Above average temperatures will continue through the weekend. Late Sunday into Monday, a cold front will pass through…",
+      "account": "@NWSCLE",
+      "time": "Nov 20, 5:25 AM CST",
+      "code": "NEO",
+      "url": "https://x.com/NWSCLE/status/2123739460042932376"
+    },
+    {
+      "text": "High pressure will maintain dry & mild conditions through Sat. However, an area of low pressure off the…",
+      "account": "@NWS_BaltWash",
+      "time": "Nov 20, 4:13 AM CST",
+      "code": "IAD",
+      "url": "https://x.com/NWS_BaltWash/status/2123721383146389692"
+    },
     {
       "text": "So long, warm weather! Our stretch of well-above average temperatures is coming to an end as a cold front races…",
       "account": "@NWSChicago",
@@ -24,25 +52,11 @@
       "url": "https://x.com/NWSILN/status/2123657298585534715"
     },
     {
-      "text": "It'll be a chilly night across the area. Most of the area will see lows in the 40s and 50s, with…",
+      "text": "It'll be a chilly night across the area. Most will see lows in the 40s and 50s…",
       "account": "@NWSPhoenix",
       "time": "Nov 19, 10:48 PM CST",
       "code": "PHX",
       "url": "https://x.com/NWSPhoenix/status/2123639628750278998"
-    },
-    {
-      "text": "Warmer weather will continue through the first half of the weekend, but a cold front will bring cooler temperatures…",
-      "account": "@NWSFortWorth",
-      "time": "Nov 19, 4:00 PM CST",
-      "code": "DFW",
-      "url": "https://x.com/NWSFortWorth/status/2123536806104977884"
-    },
-    {
-      "text": "Mild temperatures will continue through the weekend! A cold front will arrive Sunday night bringing a chance of…",
-      "account": "@NWSCLE",
-      "time": "Nov 19, 2:01 PM CST",
-      "code": "NEO",
-      "url": "https://x.com/NWSCLE/status/2123506942588911853"
     }
   ]
 }
