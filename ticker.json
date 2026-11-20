@@ -1,13 +1,26 @@
 {
-  "asOf": "Nov 20, 12:04 PM CST",
+  "asOf": "Nov 20, 3:01 PM CST",
   "label": "Unverified news",
   "items": [
     {
-      "text": "This morning's temperatures were quite brisk, with most cities in the low 50's with a few areas even dipping into the…",
-      "account": "@NWSPhoenix",
-      "time": "Nov 20, 9:52 AM CST",
-      "code": "PHX",
-      "url": "https://x.com/NWSPhoenix/status/2123806748871975113"
+      "text": "Saturday will be warm with highs 10-15 degrees above normal. A cold front brings a slight chance of rain Saturday…",
+      "account": "@NWSFortWorth",
+      "time": "Nov 20, 2:39 PM CST",
+      "code": "DFW",
+      "url": "https://x.com/NWSFortWorth/status/2123879005724020831"
+    },
+    {
+      "text": "Enjoy the dry weather before the next cold front moves in later tonight. Saturday is expected to be cool…",
+      "account": "@NWSPortland",
+      "time": "Nov 20, 2:12 PM CST",
+      "code": "PDX",
+      "url": "https://x.com/NWSPortland/status/2123872032936841273"
+    },
+    {
+      "text": "Rain and snow will continue across the area today with snow levels initially near 5,000 feet. Overall coverage…",
+      "account": "@NWSSaltLakeCity",
+      "time": "Nov 20, 9:43 AM CST",
+      "url": "https://x.com/NWSSaltLakeCity/status/2123804439588786263"
     },
     {
       "text": "Much cooler conditions are expected next week following this weekend's cold front and a reinforcing front on Tuesday.…",
@@ -17,20 +30,6 @@
       "url": "https://x.com/NWSFortWorth/status/2123785940611039348"
     },
     {
-      "text": "An upper level disturbance will bring a slight chance of rain followed by a cold front this weekend. The best rain…",
-      "account": "@NWSFortWorth",
-      "time": "Nov 20, 7:30 AM CST",
-      "code": "DFW",
-      "url": "https://x.com/NWSFortWorth/status/2123770843142480289"
-    },
-    {
-      "text": "Above average temperatures will continue through the weekend. Late Sunday into Monday, a cold front will pass through…",
-      "account": "@NWSCLE",
-      "time": "Nov 20, 5:25 AM CST",
-      "code": "NEO",
-      "url": "https://x.com/NWSCLE/status/2123739460042932376"
-    },
-    {
       "text": "High pressure will maintain dry & mild conditions through Sat. However, an area of low pressure off the…",
       "account": "@NWS_BaltWash",
       "time": "Nov 20, 4:13 AM CST",
@@ -38,11 +37,10 @@
       "url": "https://x.com/NWS_BaltWash/status/2123721383146389692"
     },
     {
-      "text": "So long, warm weather! Our stretch of well-above average temperatures is coming to an end as a cold front races…",
-      "account": "@NWSChicago",
-      "time": "Nov 20, 2:29 AM CST",
-      "code": "ORD",
-      "url": "https://x.com/NWSChicago/status/2123695275185197262"
+      "text": "Afternoon highs will remain warm through the weekend. A cold front will then bring noticeably cooler daytime…",
+      "account": "@NWSAtlanta",
+      "time": "Nov 20, 3:53 AM CST",
+      "url": "https://x.com/NWSAtlanta/status/2123716343019241726"
     }
   ]
 }
