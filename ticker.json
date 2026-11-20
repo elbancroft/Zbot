@@ -1,7 +1,14 @@
 {
-  "asOf": "Nov 19, 3:07 PM CST",
+  "asOf": "Nov 19, 6:06 PM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "Warmer weather will continue through the first half of the weekend, but a cold front will bring cooler temperatures…",
+      "account": "@NWSFortWorth",
+      "time": "Nov 19, 4:00 PM CST",
+      "code": "DFW",
+      "url": "https://x.com/NWSFortWorth/status/2123536806104977884"
+    },
     {
       "text": "Mild temperatures will continue through the weekend! A cold front will arrive Sunday night bringing a chance of…",
       "account": "@NWSCLE",
@@ -17,7 +24,7 @@
       "url": "https://x.com/NWSChicago/status/2123506661146890569"
     },
     {
-      "text": "Scattered rain and light snow move across the area through Friday, bringing gusty winds and a temperature…",
+      "text": "Scattered rain and light snow move across the northern part of the region through Friday, bringing gusty winds and a temperature…",
       "account": "@FOX10Phoenix",
       "time": "Nov 19, 11:00 AM CST",
       "code": "PHX",
@@ -29,13 +36,6 @@
       "time": "Nov 19, 7:40 AM CST",
       "code": "IAD",
       "url": "https://x.com/NWS_BaltWash/status/2123411196221214784"
-    },
-    {
-      "text": "Warmth and humidity will return the next couple days with highs in the 70s and patchy morning fog! However, a cold…",
-      "account": "@NWSFortWorth",
-      "time": "Nov 19, 6:35 AM CST",
-      "code": "DFW",
-      "url": "https://x.com/NWSFortWorth/status/2123394700312707434"
     }
   ]
 }
