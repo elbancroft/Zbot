@@ -1,7 +1,14 @@
 {
-  "asOf": "Nov 19, 6:06 PM CST",
+  "asOf": "Nov 19, 9:10 PM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "High temperatures were in the mid 70s today across the area, close to normal for the date at…",
+      "account": "@NWSPhoenix",
+      "time": "Nov 19, 6:56 PM CST",
+      "code": "PHX",
+      "url": "https://x.com/NWSPhoenix/status/2123581110953365643"
+    },
     {
       "text": "Warmer weather will continue through the first half of the weekend, but a cold front will bring cooler temperatures…",
       "account": "@NWSFortWorth",
@@ -22,13 +29,6 @@
       "time": "Nov 19, 2:00 PM CST",
       "code": "ORD",
       "url": "https://x.com/NWSChicago/status/2123506661146890569"
-    },
-    {
-      "text": "Scattered rain and light snow move across the northern part of the region through Friday, bringing gusty winds and a temperature…",
-      "account": "@FOX10Phoenix",
-      "time": "Nov 19, 11:00 AM CST",
-      "code": "PHX",
-      "url": "https://x.com/FOX10Phoenix/status/2123461404346696094"
     },
     {
       "text": "Another sunny snapshot today with light winds and above normal temperatures expected. Highs push into the mid 60s and…",
