@@ -1,13 +1,20 @@
 {
-  "asOf": "Nov 19, 9:10 PM CST",
+  "asOf": "Nov 20, 12:06 AM CST",
   "label": "Unverified news",
   "items": [
     {
-      "text": "High temperatures were in the mid 70s today across the area, close to normal for the date at…",
+      "text": "[12:57 AM] High pressure and warm and dry conditions continue. Chances for rain will return late Sunday with a cold…",
+      "account": "@NWSILN",
+      "time": "Nov 19, 11:58 PM CST",
+      "code": "CMH",
+      "url": "https://x.com/NWSILN/status/2123657298585534715"
+    },
+    {
+      "text": "It'll be a chilly night across the area. Most of the area will see lows in the 40s and 50s, with…",
       "account": "@NWSPhoenix",
-      "time": "Nov 19, 6:56 PM CST",
+      "time": "Nov 19, 10:48 PM CST",
       "code": "PHX",
-      "url": "https://x.com/NWSPhoenix/status/2123581110953365643"
+      "url": "https://x.com/NWSPhoenix/status/2123639628750278998"
     },
     {
       "text": "Warmer weather will continue through the first half of the weekend, but a cold front will bring cooler temperatures…",
@@ -29,13 +36,6 @@
       "time": "Nov 19, 2:00 PM CST",
       "code": "ORD",
       "url": "https://x.com/NWSChicago/status/2123506661146890569"
-    },
-    {
-      "text": "Another sunny snapshot today with light winds and above normal temperatures expected. Highs push into the mid 60s and…",
-      "account": "@NWS_BaltWash",
-      "time": "Nov 19, 7:40 AM CST",
-      "code": "IAD",
-      "url": "https://x.com/NWS_BaltWash/status/2123411196221214784"
     }
   ]
 }
