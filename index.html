@@ -529,8 +529,8 @@
         description: "Private Page, updated in place each morning. Sign-in required.",
         href: "https://cursor.com/canvas/store-2c77da9d-4b8d-4695-afef-1dfe55b4b73a/be319ea4-86d1-4bbe-b16a-4e827addb6b1",
         source: "",
-        // lastChecked kind: Page's own "Last updated" line (Page saved 7:03:43 AM CST).
-        lastChecked: "Saturday, November 21, 2026, 7:03 AM CST"
+        // lastChecked kind: Page's own "Last updated" line (Page saved 7:25:23 AM CST).
+        lastChecked: "Saturday, November 21, 2026, 7:23 AM CST"
       },
       {
         id: "north-middletown-latest",
@@ -553,8 +553,8 @@
         source: "",
         // lastChecked is the console Page's last-updated CST time. Update it
         // when the console is refreshed. The ticker publisher must not edit this.
-        // lastChecked kind: Page save time 3:09:30 AM CST.
-        lastChecked: "Saturday, November 21, 2026, 3:09 AM CST"
+        // lastChecked kind: Page save time 9:07:37 AM CST.
+        lastChecked: "Saturday, November 21, 2026, 9:07 AM CST"
       },
       {
         id: "gotya-aging-volume",
@@ -564,8 +564,8 @@
         description: "Published ticket dashboard. Volume charts plus open-ticket aging: green ≤ 2 hours, yellow over 2 through 8 hours, red over 8 hours. Clock starts at Requested CST. This is a republished snapshot of the official workbook, not a live feed.",
         href: "https://cursor.com/canvas/store-2c77da9d-4b8d-4695-afef-1dfe55b4b73a/7d16eab5-f464-4a21-9535-981e9ba84070",
         source: "",
-        // lastChecked kind: Page save time 7:21:54 AM CST (Page has no own Last updated line).
-        lastChecked: "Saturday, November 21, 2026, 7:21 AM CST"
+        // lastChecked kind: Page save time 9:17:55 AM CST (Page has no own Last updated line).
+        lastChecked: "Saturday, November 21, 2026, 9:17 AM CST"
       },
       {
         id: "gotya-workbook",
@@ -575,8 +575,8 @@
         description: "Official ticket workbook, the source of truth for the aging and volume Page. OneDrive copy in GrokBot/Tracking, updated in place by Researcher. Refreshed hourly, 6 AM–12 AM CST.",
         href: "https://onedrive.live.com/personal/5b8af18da2691640/_layouts/15/doc.aspx?resid=179d0aab-5dbf-4dda-8ed4-8ffef5d5fc9f&cid=5b8af18da2691640",
         source: "",
-        // lastChecked kind: OneDrive file modified 7:22:38 AM CST (copy refresh; not a GOT-YA data-as-of time).
-        lastChecked: "Saturday, November 21, 2026, 7:22 AM CST"
+        // lastChecked kind: OneDrive file modified 9:18:17 AM CST (copy refresh; not a GOT-YA data-as-of time).
+        lastChecked: "Saturday, November 21, 2026, 9:18 AM CST"
       },
       {
         id: "runbook-live",
@@ -685,25 +685,25 @@
     // workbook file stamp. Do not leave those cards on LAST_CHECKED.
     // Keep the numeric copy; do not replace the numbers with a link.
     // Do not edit ticker.json or the ticker strip.
-    const SNAPSHOT_AS_OF = "2026-11-21 07:16:32 CST";
+    const SNAPSHOT_AS_OF = "2026-11-21 08:43:18 CST";
 
     function render() {
       const linked = LINKS.filter(function (item) { return item.href; }).length;
       const pending = LINKS.length - linked;
       const statsHTML =
-        '<div class="stat"><b>164</b><span>Total work volume</span></div>' +
-        '<div class="stat"><b>18</b><span>Open (not closed)</span></div>' +
-        '<div class="stat"><b>1</b><span>Ready for review</span></div>' +
-        '<div class="stat"><b>12</b><span>In progress</span></div>' +
+        '<div class="stat"><b>172</b><span>Total work volume</span></div>' +
+        '<div class="stat"><b>16</b><span>Open (not closed)</span></div>' +
+        '<div class="stat"><b>0</b><span>Ready for review</span></div>' +
+        '<div class="stat"><b>11</b><span>In progress</span></div>' +
         '<div class="stat"><b>3</b><span>Accepted</span></div>' +
         '<div class="stat"><b>1</b><span>Assigned</span></div>' +
-        '<div class="stat"><b>144</b><span>Closed</span></div>' +
-        '<div class="stat"><b>2</b><span>Standing</span></div>';
+        '<div class="stat"><b>153</b><span>Closed</span></div>' +
+        '<div class="stat"><b>3</b><span>Standing</span></div>';
       const agingHTML =
-        '<div class="stat" style="border-color:var(--age-green)"><b style="color:var(--age-green)">0</b><span>Green (≤ 2h)</span></div>' +
+        '<div class="stat" style="border-color:var(--age-green)"><b style="color:var(--age-green)">3</b><span>Green (≤ 2h)</span></div>' +
         '<div class="stat" style="border-color:var(--age-yellow)"><b style="color:var(--age-yellow)">0</b><span>Yellow (over 2h–8h)</span></div>' +
-        '<div class="stat" style="border-color:var(--age-red)"><b style="color:var(--age-red)">5</b><span>Red (over 8h)</span></div>' +
-        '<div class="stat" style="border-color:#9ca3af"><b style="color:#9ca3af">13</b><span>Age not computable</span></div>';
+        '<div class="stat" style="border-color:var(--age-red)"><b style="color:var(--age-red)">2</b><span>Red (over 8h)</span></div>' +
+        '<div class="stat" style="border-color:#9ca3af"><b style="color:#9ca3af">11</b><span>Age not computable</span></div>';
 
       document.getElementById("app").innerHTML = GROUPS.map(function (group) {
         const items = LINKS.filter(function (item) { return item.group === group.id; });
