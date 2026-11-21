@@ -1,7 +1,21 @@
 {
-  "asOf": "Nov 21, 12:11 AM CST",
+  "asOf": "Nov 21, 3:08 AM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "Today will be the last day of near-record warmth before a cold front crashes through our area on Sunday. A reality…",
+      "account": "@NWSChicago",
+      "time": "Nov 21, 2:57 AM CST",
+      "code": "ORD",
+      "url": "https://x.com/NWSChicago/status/2124064660454298104"
+    },
+    {
+      "text": "Seasonably warm afternoon temperatures expected until a cold front brings the next chance of rain late Sunday. Below…",
+      "account": "@NWSILN",
+      "time": "Nov 21, 1:47 AM CST",
+      "code": "CMH",
+      "url": "https://x.com/NWSILN/status/2124047087486603411"
+    },
     {
       "text": "High level clouds will cross the area tonight, and temperatures won't be quite as cold as the past few nights.",
       "account": "@NWS_BaltWash",
@@ -10,25 +24,18 @@
       "url": "https://x.com/NWS_BaltWash/status/2123964444526985635"
     },
     {
-      "text": "High temperatures were in the upper 60s to low 70s this afternoon, a few degrees below normal for today's date.",
+      "text": "High temperatures were in the upper 60s to low 70s this afternoon, a few degrees below normal for today's date.…",
       "account": "@NWSPhoenix",
       "time": "Nov 20, 6:31 PM CST",
       "code": "PHX",
       "url": "https://x.com/NWSPhoenix/status/2123937256062734787"
     },
     {
-      "text": "Dry with temperatures in the 60s across most locations for Saturday!",
+      "text": "7:00pm: Dry with temperatures in the 60s across most locations for Saturday!",
       "account": "@NWSILN",
       "time": "Nov 20, 6:02 PM CST",
       "code": "CMH",
       "url": "https://x.com/NWSILN/status/2123930088479609051"
-    },
-    {
-      "text": "A high temperature of 68 degrees today tied the previous record set in 1930.",
-      "account": "@NWSChicago",
-      "time": "Nov 20, 4:42 PM CST",
-      "code": "ORD",
-      "url": "https://x.com/NWSChicago/status/2123909843329393017"
     },
     {
       "text": "Saturday will be warm with highs 10-15 degrees above normal. A cold front brings a slight chance of rain Saturday…",
