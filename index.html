@@ -553,8 +553,8 @@
         source: "",
         // lastChecked is the console Page's last-updated CST time. Update it
         // when the console is refreshed. The ticker publisher must not edit this.
-        // lastChecked kind: Page save time 6:06:50 AM CST.
-        lastChecked: "Sunday, November 22, 2026, 6:06 AM CST"
+        // lastChecked kind: Page save time 9:05:27 AM CST.
+        lastChecked: "Sunday, November 22, 2026, 9:05 AM CST"
       },
       {
         id: "gotya-aging-volume",
@@ -564,8 +564,8 @@
         description: "Published ticket dashboard. Volume charts plus open-ticket aging: green ≤ 2 hours, yellow over 2 through 8 hours, red over 8 hours. Clock starts at Requested CST. This is a republished snapshot of the official workbook, not a live feed.",
         href: "https://cursor.com/canvas/store-2c77da9d-4b8d-4695-afef-1dfe55b4b73a/7d16eab5-f464-4a21-9535-981e9ba84070",
         source: "",
-        // lastChecked kind: Page save time 7:16:00 AM CST (Page has no own Last updated line).
-        lastChecked: "Sunday, November 22, 2026, 7:16 AM CST"
+        // lastChecked kind: Page save time 9:16:39 AM CST (Page has no own Last updated line).
+        lastChecked: "Sunday, November 22, 2026, 9:16 AM CST"
       },
       {
         id: "gotya-workbook",
@@ -685,25 +685,25 @@
     // workbook file stamp. Do not leave those cards on LAST_CHECKED.
     // Keep the numeric copy; do not replace the numbers with a link.
     // Do not edit ticker.json or the ticker strip.
-    const SNAPSHOT_AS_OF = "2026-11-22 07:04:41 CST";
+    const SNAPSHOT_AS_OF = "2026-11-22 08:55:52 CST";
 
     function render() {
       const linked = LINKS.filter(function (item) { return item.href; }).length;
       const pending = LINKS.length - linked;
       const statsHTML =
-        '<div class="stat"><b>179</b><span>Total work volume</span></div>' +
-        '<div class="stat"><b>20</b><span>Open (not closed)</span></div>' +
+        '<div class="stat"><b>184</b><span>Total work volume</span></div>' +
+        '<div class="stat"><b>24</b><span>Open (not closed)</span></div>' +
         '<div class="stat"><b>1</b><span>Ready for review</span></div>' +
-        '<div class="stat"><b>14</b><span>In progress</span></div>' +
+        '<div class="stat"><b>18</b><span>In progress</span></div>' +
         '<div class="stat"><b>3</b><span>Accepted</span></div>' +
         '<div class="stat"><b>1</b><span>Assigned</span></div>' +
-        '<div class="stat"><b>156</b><span>Closed</span></div>' +
+        '<div class="stat"><b>157</b><span>Closed</span></div>' +
         '<div class="stat"><b>3</b><span>Standing</span></div>';
       const agingHTML =
         '<div class="stat" style="border-color:var(--age-green)"><b style="color:var(--age-green)">0</b><span>Green (≤ 2h)</span></div>' +
         '<div class="stat" style="border-color:var(--age-yellow)"><b style="color:var(--age-yellow)">0</b><span>Yellow (over 2h–8h)</span></div>' +
         '<div class="stat" style="border-color:var(--age-red)"><b style="color:var(--age-red)">4</b><span>Red (over 8h)</span></div>' +
-        '<div class="stat" style="border-color:#9ca3af"><b style="color:#9ca3af">16</b><span>Age not computable</span></div>';
+        '<div class="stat" style="border-color:#9ca3af"><b style="color:#9ca3af">20</b><span>Age not computable</span></div>';
 
       document.getElementById("app").innerHTML = GROUPS.map(function (group) {
         const items = LINKS.filter(function (item) { return item.group === group.id; });
