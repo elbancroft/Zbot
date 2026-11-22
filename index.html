@@ -540,8 +540,8 @@
         description: "Private Page, updated in place each evening. Sign-in required.",
         href: "https://cursor.com/canvas/store-2c77da9d-4b8d-4695-afef-1dfe55b4b73a/c1ed5b1c-a562-413c-b4f4-7f433a83ed74",
         source: "",
-        // lastChecked kind: Page's own "Last updated" line (Page saved 7:45:14 PM CST).
-        lastChecked: "Friday, November 20, 2026, 7:45 PM CST"
+        // lastChecked kind: Page's own "Last updated" line (Page saved 4:33:10 PM CST).
+        lastChecked: "Sunday, November 22, 2026, 4:32 PM CST"
       },
       {
         id: "xdr-console",
@@ -564,8 +564,8 @@
         description: "Published ticket dashboard. Volume charts plus open-ticket aging: green ≤ 2 hours, yellow over 2 through 8 hours, red over 8 hours. Clock starts at Requested CST. This is a republished snapshot of the official workbook, not a live feed.",
         href: "https://cursor.com/canvas/store-2c77da9d-4b8d-4695-afef-1dfe55b4b73a/7d16eab5-f464-4a21-9535-981e9ba84070",
         source: "",
-        // lastChecked kind: Page save time 1:20:48 PM CST (Page has no own Last updated line).
-        lastChecked: "Sunday, November 22, 2026, 1:20 PM CST"
+        // lastChecked kind: Page save time 5:23:09 PM CST (Page has no own Last updated line).
+        lastChecked: "Sunday, November 22, 2026, 5:23 PM CST"
       },
       {
         id: "gotya-workbook",
@@ -575,8 +575,8 @@
         description: "Official ticket workbook, the source of truth for the aging and volume Page. OneDrive copy in GrokBot/Tracking, updated in place by Researcher. Refreshed hourly, 6 AM–12 AM CST.",
         href: "https://onedrive.live.com/personal/5b8af18da2691640/_layouts/15/doc.aspx?resid=179d0aab-5dbf-4dda-8ed4-8ffef5d5fc9f&cid=5b8af18da2691640",
         source: "",
-        // lastChecked kind: OneDrive file modified 5:51:52 AM CST (copy refresh; not a GOT-YA data-as-of time).
-        lastChecked: "Sunday, November 22, 2026, 5:51 AM CST"
+        // lastChecked kind: OneDrive file modified 4:19:21 PM CST (copy refresh; not a GOT-YA data-as-of time).
+        lastChecked: "Sunday, November 22, 2026, 4:19 PM CST"
       },
       {
         id: "runbook-live",
@@ -586,8 +586,8 @@
         description: "Live governing runbook on the standing item ID. File name Operations Runbook.docx; content hash matches the published v0.12 copy. Activated Nov 11, 5:05:47 PM CST.",
         href: "https://onedrive.live.com/personal/5b8af18da2691640/_layouts/15/doc.aspx?resid=28599c4e-50c1-431f-9417-be4dd3e9c4dc&cid=5b8af18da2691640",
         source: "",
-        // lastChecked kind: OneDrive file modified 9:13:54 PM CST.
-        lastChecked: "Wednesday, November 18, 2026, 9:13 PM CST"
+        // lastChecked kind: OneDrive file modified 4:37:48 PM CST.
+        lastChecked: "Sunday, November 22, 2026, 4:37 PM CST"
       },
       {
         id: "runbook-log",
@@ -597,8 +597,8 @@
         description: "Change log that sits with the governing runbook in 00_Runbook.",
         href: "https://onedrive.live.com/personal/5b8af18da2691640/_layouts/15/doc.aspx?resid=9d61f8e2-7502-4141-b5e4-74ed697a7798&cid=5b8af18da2691640",
         source: "",
-        // lastChecked kind: OneDrive file modified 9:20:05 PM CST.
-        lastChecked: "Wednesday, November 18, 2026, 9:20 PM CST"
+        // lastChecked kind: OneDrive file modified 4:42:32 PM CST.
+        lastChecked: "Sunday, November 22, 2026, 4:42 PM CST"
       },
       {
         id: "grokbot-index",
@@ -608,8 +608,8 @@
         description: "Index file at the top of the GrokBot folder; lists folder IDs and points to the runbook.",
         href: "https://onedrive.live.com?cid=5B8AF18DA2691640&id=5B8AF18DA2691640!s3886dfe3e91c4a87ba671ece09034a0d",
         source: "",
-        // lastChecked kind: OneDrive file modified 9:14:24 PM CST.
-        lastChecked: "Wednesday, November 18, 2026, 9:14 PM CST"
+        // lastChecked kind: OneDrive file modified 4:50:22 PM CST.
+        lastChecked: "Sunday, November 22, 2026, 4:50 PM CST"
       }
     ];
 
@@ -685,25 +685,25 @@
     // workbook file stamp. Do not leave those cards on LAST_CHECKED.
     // Keep the numeric copy; do not replace the numbers with a link.
     // Do not edit ticker.json or the ticker strip.
-    const SNAPSHOT_AS_OF = "2026-11-22 11:15:31 CST";
+    const SNAPSHOT_AS_OF = "2026-11-22 16:52:01 CST";
 
     function render() {
       const linked = LINKS.filter(function (item) { return item.href; }).length;
       const pending = LINKS.length - linked;
       const statsHTML =
-        '<div class="stat"><b>186</b><span>Total work volume</span></div>' +
+        '<div class="stat"><b>191</b><span>Total work volume</span></div>' +
         '<div class="stat"><b>26</b><span>Open (not closed)</span></div>' +
         '<div class="stat"><b>4</b><span>Ready for review</span></div>' +
         '<div class="stat"><b>17</b><span>In progress</span></div>' +
         '<div class="stat"><b>3</b><span>Accepted</span></div>' +
         '<div class="stat"><b>1</b><span>Assigned</span></div>' +
-        '<div class="stat"><b>157</b><span>Closed</span></div>' +
-        '<div class="stat"><b>3</b><span>Standing</span></div>';
+        '<div class="stat"><b>164</b><span>Closed</span></div>' +
+        '<div class="stat"><b>1</b><span>Standing</span></div>';
       const agingHTML =
-        '<div class="stat" style="border-color:var(--age-green)"><b style="color:var(--age-green)">1</b><span>Green (≤ 2h)</span></div>' +
-        '<div class="stat" style="border-color:var(--age-yellow)"><b style="color:var(--age-yellow)">0</b><span>Yellow (over 2h–8h)</span></div>' +
-        '<div class="stat" style="border-color:var(--age-red)"><b style="color:var(--age-red)">4</b><span>Red (over 8h)</span></div>' +
-        '<div class="stat" style="border-color:#9ca3af"><b style="color:#9ca3af">21</b><span>Age not computable</span></div>';
+        '<div class="stat" style="border-color:var(--age-green)"><b style="color:var(--age-green)">2</b><span>Green (≤ 2h)</span></div>' +
+        '<div class="stat" style="border-color:var(--age-yellow)"><b style="color:var(--age-yellow)">1</b><span>Yellow (over 2h–8h)</span></div>' +
+        '<div class="stat" style="border-color:var(--age-red)"><b style="color:var(--age-red)">3</b><span>Red (over 8h)</span></div>' +
+        '<div class="stat" style="border-color:#9ca3af"><b style="color:#9ca3af">20</b><span>Age not computable</span></div>';
 
       document.getElementById("app").innerHTML = GROUPS.map(function (group) {
         const items = LINKS.filter(function (item) { return item.group === group.id; });
