@@ -1,7 +1,34 @@
 {
-  "asOf": "Nov 22, 9:04 AM CST",
+  "asOf": "Nov 22, 3:08 PM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "A mild afternoon gives way to rain this evening and tonight as a cold front moves through. Much cooler and quieter…",
+      "account": "@NWSCLE",
+      "time": "Nov 22, 1:57 PM CST",
+      "code": "NEO",
+      "url": "https://x.com/NWSCLE/status/2124593200429965519"
+    },
+    {
+      "text": "🌤️ Dry and warm weather moves in for early week following the gloomy Sunday that today has been. ☔️ Confidence…",
+      "account": "@NWSAtlanta",
+      "time": "Nov 22, 1:52 PM CST",
+      "url": "https://x.com/NWSAtlanta/status/2124591961579376929"
+    },
+    {
+      "text": "Predominantly dry, cloudy conditions this afternoon and evening, although a period of light rain remains possible. Low…",
+      "account": "@NWS_BaltWash",
+      "time": "Nov 22, 1:47 PM CST",
+      "code": "IAD",
+      "url": "https://x.com/NWS_BaltWash/status/2124590556668194832"
+    },
+    {
+      "text": "Most heavily populated areas fell into the 40s this morning while several rural communities fell into the 30s and some…",
+      "account": "@NWSPhoenix",
+      "time": "Nov 22, 10:11 AM CST",
+      "code": "PHX",
+      "url": "https://x.com/NWSPhoenix/status/2124536287688376444"
+    },
     {
       "text": "Cool temperatures and mostly dry conditions are expected this upcoming week. Highs will generally be in the 50s, with…",
       "account": "@NWSFortWorth",
@@ -36,27 +63,6 @@
       "time": "Nov 22, 3:34 AM CST",
       "code": "IAD",
       "url": "https://x.com/NWS_BaltWash/status/2124436326451949686"
-    },
-    {
-      "text": "Planning to travel through the region this week? Keep an eye on the weather forecast as there…",
-      "account": "@NWSChicago",
-      "time": "Nov 22, 2:57 AM CST",
-      "code": "ORD",
-      "url": "https://x.com/NWSChicago/status/2124427053663477844"
-    },
-    {
-      "text": "A cold front will bring light rain to the area Sunday night. Sunday will be very warm again with afternoon…",
-      "account": "@NWSILN",
-      "time": "Nov 22, 1:10 AM CST",
-      "code": "CMH",
-      "url": "https://x.com/NWSILN/status/2124400039896199675"
-    },
-    {
-      "text": "Light winds and dry skies will dominate the area heading into Thanksgiving week, with highs in the low 70s…",
-      "account": "@FOX10Phoenix",
-      "time": "Nov 22, 12:30 AM CST",
-      "code": "PHX",
-      "url": "https://x.com/FOX10Phoenix/status/2124389960354500639"
     }
   ]
 }
