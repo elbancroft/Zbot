@@ -1,7 +1,28 @@
 {
-  "asOf": "Nov 22, 6:06 AM CST",
+  "asOf": "Nov 22, 9:04 AM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "Cool temperatures and mostly dry conditions are expected this upcoming week. Highs will generally be in the 50s, with…",
+      "account": "@NWSFortWorth",
+      "time": "Nov 22, 7:30 AM CST",
+      "code": "DFW",
+      "url": "https://x.com/NWSFortWorth/status/2124495617934446950"
+    },
+    {
+      "text": "Temperatures will stay a few degrees below normal early this week before slowly warming through the rest of the week.…",
+      "account": "@NWSPhoenix",
+      "time": "Nov 22, 7:20 AM CST",
+      "code": "PHX",
+      "url": "https://x.com/NWSPhoenix/status/2124493097665003988"
+    },
+    {
+      "text": "Today's cold front will bring a wide range of temperatures, with daytime highs spanning from the mid-50s in the…",
+      "account": "@NWSFortWorth",
+      "time": "Nov 22, 6:30 AM CST",
+      "code": "DFW",
+      "url": "https://x.com/NWSFortWorth/status/2124480514677674372"
+    },
     {
       "text": "A cold front will pass through the region this evening bringing a quick round of showers with rainfall totals less…",
       "account": "@NWSCLE",
@@ -10,60 +31,32 @@
       "url": "https://x.com/NWSCLE/status/2124453883313373272"
     },
     {
-      "text": "A frontal zone will bring some light rain to the area this afternoon & evening. Expect…",
+      "text": "A frontal zone moving up the coast will bring some light rain to the area this afternoon & evening. Expect…",
       "account": "@NWS_BaltWash",
       "time": "Nov 22, 3:34 AM CST",
       "code": "IAD",
       "url": "https://x.com/NWS_BaltWash/status/2124436326451949686"
     },
     {
-      "text": "A cold front will sweep across the area today accompanied by rain showers and much cooler temperatures. We’re starting…",
+      "text": "Planning to travel through the region this week? Keep an eye on the weather forecast as there…",
       "account": "@NWSChicago",
       "time": "Nov 22, 2:57 AM CST",
       "code": "ORD",
-      "url": "https://x.com/NWSChicago/status/2124427045492998524"
+      "url": "https://x.com/NWSChicago/status/2124427053663477844"
     },
     {
-      "text": "[2:08 AM] A cold front will bring light rain to the area Sunday night. Sunday will be very warm again with afternoon…",
+      "text": "A cold front will bring light rain to the area Sunday night. Sunday will be very warm again with afternoon…",
       "account": "@NWSILN",
       "time": "Nov 22, 1:10 AM CST",
       "code": "CMH",
       "url": "https://x.com/NWSILN/status/2124400039896199675"
     },
     {
-      "text": "Light winds and dry skies will dominate heading into Thanksgiving week, with highs in the low 70s…",
+      "text": "Light winds and dry skies will dominate the area heading into Thanksgiving week, with highs in the low 70s…",
       "account": "@FOX10Phoenix",
       "time": "Nov 22, 12:30 AM CST",
       "code": "PHX",
       "url": "https://x.com/FOX10Phoenix/status/2124389960354500639"
-    },
-    {
-      "text": "Increasing astronomical tides this week lead to high chances for at least minor coastal flooding Sunday - Friday. More…",
-      "account": "@NWSPortland",
-      "time": "Nov 21, 9:41 PM CST",
-      "code": "PDX",
-      "url": "https://x.com/NWSPortland/status/2124347419026428040"
-    },
-    {
-      "text": "High temperatures this afternoon were around 5°F below the daily normals under mostly sunny skies. Looks for readings…",
-      "account": "@NWSPhoenix",
-      "time": "Nov 21, 6:09 PM CST",
-      "code": "PHX",
-      "url": "https://x.com/NWSPhoenix/status/2124294276070699485"
-    },
-    {
-      "text": "Cool temperatures and mostly dry conditions are expected this upcoming week. Highs will generally be in the 50s, with…",
-      "account": "@NWSFortWorth",
-      "time": "Nov 21, 1:54 PM CST",
-      "code": "DFW",
-      "url": "https://x.com/NWSFortWorth/status/2124229913838326042"
-    },
-    {
-      "text": "A cold front will traverse the area from northwest to southeast tonight through Sunday. Isolated rain showers will be…",
-      "account": "@NWSFortWorth",
-      "time": "Nov 21, 1:43 PM CST",
-      "code": "DFW",
-      "url": "https://x.com/NWSFortWorth/status/2124227207224537355"
     }
   ]
 }
