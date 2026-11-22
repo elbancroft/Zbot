@@ -1,62 +1,27 @@
 {
-  "asOf": "Nov 21, 9:07 AM CST",
+  "asOf": "Nov 22, 12:05 AM CST",
   "label": "Unverified news",
   "items": [
     {
-      "text": "Much cooler conditions are expected next week following this weekend's cold front and a reinforcing front on Tuesday.…",
-      "account": "@NWSFortWorth",
-      "time": "Nov 21, 8:00 AM CST",
-      "code": "DFW",
-      "url": "https://x.com/NWSFortWorth/status/2124140781367607808"
+      "text": "Increasing astronomical tides this week lead to high chances for at least minor coastal flooding Sunday - Friday.",
+      "account": "@NWSPortland",
+      "time": "Nov 21, 9:41 PM CST",
+      "code": "PDX",
+      "url": "https://x.com/NWSPortland/status/2124347419026428040"
     },
     {
-      "text": "Quiet weather conditions will continue to prevail into next week under mostly clear skies. Expect cooler than average…",
-      "account": "@NWSPhoenix",
-      "time": "Nov 21, 7:20 AM CST",
-      "code": "PHX",
-      "url": "https://x.com/NWSPhoenix/status/2124130709535359343"
-    },
-    {
-      "text": "There is a slight chance of showers tonight and early Sunday, followed by breezy and cooler weather for the rest of…",
-      "account": "@NWSFortWorth",
-      "time": "Nov 21, 7:00 AM CST",
-      "code": "DFW",
-      "url": "https://x.com/NWSFortWorth/status/2124125677196558640"
-    },
-    {
-      "text": "Pleasant weather will continue today with high temperatures in the low to mid 60s. There will be plenty of sunshine…",
-      "account": "@NWSCLE",
-      "time": "Nov 21, 4:48 AM CST",
-      "code": "NEO",
-      "url": "https://x.com/NWSCLE/status/2124092667462029544"
-    },
-    {
-      "text": "It will be a mild and dry start to the weekend with highs reaching the low/mid 60s. This…",
-      "account": "@NWS_BaltWash",
-      "time": "Nov 21, 3:43 AM CST",
-      "code": "IAD",
-      "url": "https://x.com/NWS_BaltWash/status/2124076169876431050"
-    },
-    {
-      "text": "Today will be the last day of near-record warmth before a cold front crashes through our area on Sunday. A reality…",
+      "text": "An unseasonably mild stretch comes to an end after today with a cold front bringing showers tomorrow and much cooler…",
       "account": "@NWSChicago",
-      "time": "Nov 21, 2:57 AM CST",
+      "time": "Nov 21, 2:25 PM CST",
       "code": "ORD",
-      "url": "https://x.com/NWSChicago/status/2124064660454298104"
+      "url": "https://x.com/NWSChicago/status/2124237884861419645"
     },
     {
-      "text": "Seasonably warm afternoon temperatures expected until a cold front brings the next chance of rain late Sunday. Below…",
-      "account": "@NWSILN",
-      "time": "Nov 21, 1:47 AM CST",
-      "code": "CMH",
-      "url": "https://x.com/NWSILN/status/2124047087486603411"
-    },
-    {
-      "text": "High level clouds will cross the area tonight, and temperatures won't be quite as cold as the past few nights.",
-      "account": "@NWS_BaltWash",
-      "time": "Nov 20, 8:19 PM CST",
-      "code": "IAD",
-      "url": "https://x.com/NWS_BaltWash/status/2123964444526985635"
+      "text": "A cold front will traverse the area from northwest to southeast tonight through Sunday. Isolated rain showers will be…",
+      "account": "@NWSFortWorth",
+      "time": "Nov 21, 1:43 PM CST",
+      "code": "DFW",
+      "url": "https://x.com/NWSFortWorth/status/2124227207224537355"
     }
   ]
 }
