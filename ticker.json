@@ -1,13 +1,34 @@
 {
-  "asOf": "Nov 23, 6:03 AM CST",
+  "asOf": "Nov 23, 9:08 AM CST",
   "label": "Unverified news",
   "items": [
     {
-      "text": "A cool, dry, yet overall pleasant Monday is expected today with highs in the 50s followed by lows mainly in the 30s.…",
+      "text": "A warming trend will begin this weekend as southerly winds return, bringing above-normal temperatures by Saturday.…",
       "account": "@NWSFortWorth",
-      "time": "Nov 23, 5:30 AM CST",
+      "time": "Nov 23, 8:30 AM CST",
       "code": "DFW",
-      "url": "https://x.com/NWSFortWorth/status/2124827805233848570"
+      "url": "https://x.com/NWSFortWorth/status/2124873102756553005"
+    },
+    {
+      "text": "Residents of a neighborhood were forced to evacuate due to a major natural gas…",
+      "account": "@wkyc",
+      "time": "Nov 23, 8:24 AM CST",
+      "code": "NEO",
+      "url": "https://x.com/wkyc/status/2124871773099376915"
+    },
+    {
+      "text": "High pressure will bring cool and dry weather to the region on Thanksgiving Day, with sunny skies and highs in the mid…",
+      "account": "@NWSFortWorth",
+      "time": "Nov 23, 7:30 AM CST",
+      "code": "DFW",
+      "url": "https://x.com/NWSFortWorth/status/2124858002012291248"
+    },
+    {
+      "text": "Tranquil weather conditions will prevail all week, including the upcoming holiday weekend. Expect temperatures to…",
+      "account": "@NWSPhoenix",
+      "time": "Nov 23, 7:18 AM CST",
+      "code": "PHX",
+      "url": "https://x.com/NWSPhoenix/status/2124854981949870210"
     },
     {
       "text": "After a foggy start in some spots, expect one last mild day as highs rise into the mid 60s to low 70s this afternoon.…",
@@ -17,21 +38,14 @@
       "url": "https://x.com/NWS_BaltWash/status/2124794484651417657"
     },
     {
-      "text": "A large storm system will impact the area this week, bringing waves of rain showers to our area. Depending on…",
+      "text": "A large storm system will bring waves of rain showers to the area. Depending on…",
       "account": "@NWSChicago",
       "time": "Nov 23, 1:56 AM CST",
       "code": "ORD",
       "url": "https://x.com/NWSChicago/status/2124774100669231554"
     },
     {
-      "text": "The much anticipated pattern change has arrived, and cooler conditions will prevail through the week. The Wednesday…",
-      "account": "@NWSChicago",
-      "time": "Nov 23, 1:56 AM CST",
-      "code": "ORD",
-      "url": "https://x.com/NWSChicago/status/2124774090317738451"
-    },
-    {
-      "text": "[2:04 AM] Showers will end early this morning as a cold front sweeps east of the area. This will usher in a much…",
+      "text": "Showers will end early this morning as a cold front sweeps east of the area. This will usher in a much…",
       "account": "@NWSILN",
       "time": "Nov 23, 1:05 AM CST",
       "code": "CMH",
@@ -43,27 +57,6 @@
       "time": "Nov 22, 10:26 PM CST",
       "code": "PDX",
       "url": "https://x.com/NWSPortland/status/2124721174672277643"
-    },
-    {
-      "text": "Tomorrow should be mild before temps cool down ahead of Thanksgiving. Storm Team4’s Gary McGrady breaks it down.",
-      "account": "@nbcwashington",
-      "time": "Nov 22, 7:25 PM CST",
-      "code": "IAD",
-      "url": "https://x.com/nbcwashington/status/2124675576334024941"
-    },
-    {
-      "text": "High temperatures this afternoon were near to a few degrees below the daily normals. Look for nearly identical…",
-      "account": "@NWSPhoenix",
-      "time": "Nov 22, 6:09 PM CST",
-      "code": "PHX",
-      "url": "https://x.com/NWSPhoenix/status/2124656556298125771"
-    },
-    {
-      "text": "Quiet weather will prevail Thanksgiving through the weekend. Thanksgiving morning will be chilly, with widespread…",
-      "account": "@NWSFortWorth",
-      "time": "Nov 22, 5:19 PM CST",
-      "code": "DFW",
-      "url": "https://x.com/NWSFortWorth/status/2124644052448477480"
     }
   ]
 }
