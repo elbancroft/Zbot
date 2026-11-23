@@ -1,5 +1,5 @@
 {
-  "asOf": "Nov 23, 9:08 AM CST",
+  "asOf": "Nov 23, 9:39 AM CST",
   "label": "Unverified news",
   "items": [
     {
@@ -17,6 +17,13 @@
       "url": "https://x.com/wkyc/status/2124871773099376915"
     },
     {
+      "text": "Will holiday travelers be impacted by any rain or snow this week? @MorganKolkmeyer has details in the morning…",
+      "account": "@WGNNews",
+      "time": "Nov 23, 8:03 AM CST",
+      "code": "ORD",
+      "url": "https://x.com/WGNNews/status/2124866400644710516"
+    },
+    {
       "text": "High pressure will bring cool and dry weather to the region on Thanksgiving Day, with sunny skies and highs in the mid…",
       "account": "@NWSFortWorth",
       "time": "Nov 23, 7:30 AM CST",
@@ -31,38 +38,46 @@
       "url": "https://x.com/NWSPhoenix/status/2124854981949870210"
     },
     {
-      "text": "After a foggy start in some spots, expect one last mild day as highs rise into the mid 60s to low 70s this afternoon.…",
-      "account": "@NWS_BaltWash",
-      "time": "Nov 23, 3:17 AM CST",
-      "code": "IAD",
-      "url": "https://x.com/NWS_BaltWash/status/2124794484651417657"
-    },
-    {
-      "text": "A large storm system will impact the eastern US this week, bringing waves of rain showers to our area. Depending on…",
-      "account": "@NWSChicago",
-      "time": "Nov 23, 1:56 AM CST",
-      "code": "ORD",
-      "url": "https://x.com/NWSChicago/status/2124774100669231554"
-    },
-    {
-      "text": "[2:04 AM] Showers will end early this morning as a cold front sweeps east of the area. This will usher in a much…",
+      "text": "[4:55 PM] Rain will begin to overspread the region this evening ahead of a cold front. The dry air will limit overall…",
       "account": "@NWSILN",
-      "time": "Nov 23, 1:05 AM CST",
+      "time": "Nov 22, 3:55 PM CST",
       "code": "CMH",
-      "url": "https://x.com/NWSILN/status/2124761317479432366"
+      "url": "https://x.com/NWSILN/status/2124622876708073482"
     },
     {
-      "text": "Coastal flooding is expected Monday - Friday this week with more significant flooding possible Tuesday - Thursday.…",
-      "account": "@NWSPortland",
-      "time": "Nov 22, 10:26 PM CST",
-      "code": "PDX",
-      "url": "https://x.com/NWSPortland/status/2124721174672277643"
+      "text": "[3:22pm /22] Much more seasonable weather is in store heading into #Thanksgiving. A large weather system will…",
+      "account": "@NWSChicago",
+      "time": "Nov 22, 3:22 PM CST",
+      "code": "ORD",
+      "url": "https://x.com/NWSChicago/status/2124614589895803267"
     },
     {
-      "text": "Patchy dense fog is possible across the area through the early morning hours. Visibilities can drop suddenly so make…",
+      "text": "A mild afternoon gives way to rain this evening and tonight as a cold front moves through. Much cooler and quieter…",
+      "account": "@NWSCLE",
+      "time": "Nov 22, 1:57 PM CST",
+      "code": "NEO",
+      "url": "https://x.com/NWSCLE/status/2124593200429965519"
+    },
+    {
+      "text": "🌤️ Dry and warm weather moves in for early week following the gloomy Sunday that today has been. ☔️ Confidence…",
       "account": "@NWSAtlanta",
-      "time": "Nov 22, 10:08 PM CST",
-      "url": "https://x.com/NWSAtlanta/status/2124716638721511733"
+      "time": "Nov 22, 1:52 PM CST",
+      "code": "ATL",
+      "url": "https://x.com/NWSAtlanta/status/2124591961579376929"
+    },
+    {
+      "text": "Predominantly dry, cloudy conditions this afternoon and evening, although a period of light rain remains possible. Low…",
+      "account": "@NWS_BaltWash",
+      "time": "Nov 22, 1:47 PM CST",
+      "code": "IAD",
+      "url": "https://x.com/NWS_BaltWash/status/2124590556668194832"
+    },
+    {
+      "text": "Most heavily populated areas fell into the 40s this morning while several rural communities fell into the 30s and some…",
+      "account": "@NWSPhoenix",
+      "time": "Nov 22, 10:11 AM CST",
+      "code": "PHX",
+      "url": "https://x.com/NWSPhoenix/status/2124536287688376444"
     }
   ]
 }
