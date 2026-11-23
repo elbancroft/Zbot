@@ -1,20 +1,34 @@
 {
-  "asOf": "Nov 23, 12:07 AM CST",
+  "asOf": "Nov 23, 3:05 AM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "A large storm system will impact the region this week, bringing waves of rain showers to our area. Depending on…",
+      "account": "@NWSChicago",
+      "time": "Nov 23, 1:56 AM CST",
+      "code": "ORD",
+      "url": "https://x.com/NWSChicago/status/2124774100669231554"
+    },
+    {
+      "text": "The much anticipated pattern change has arrived, and cooler conditions will prevail through the week. The Wednesday…",
+      "account": "@NWSChicago",
+      "time": "Nov 23, 1:56 AM CST",
+      "code": "ORD",
+      "url": "https://x.com/NWSChicago/status/2124774090317738451"
+    },
+    {
+      "text": "[2:04 AM] Showers will end early this morning as a cold front sweeps east of the area. This will usher in a much…",
+      "account": "@NWSILN",
+      "time": "Nov 23, 1:05 AM CST",
+      "code": "CMH",
+      "url": "https://x.com/NWSILN/status/2124761317479432366"
+    },
     {
       "text": "Coastal flooding is expected Monday - Friday this week with more significant flooding possible Tuesday - Thursday.…",
       "account": "@NWSPortland",
       "time": "Nov 22, 10:26 PM CST",
       "code": "PDX",
       "url": "https://x.com/NWSPortland/status/2124721174672277643"
-    },
-    {
-      "text": "Tomorrow should be mild before temps cool down ahead of Thanksgiving. Storm Team4’s Gary McGrady breaks it down.",
-      "account": "@nbcwashington",
-      "time": "Nov 22, 7:25 PM CST",
-      "code": "IAD",
-      "url": "https://x.com/nbcwashington/status/2124675576334024941"
     },
     {
       "text": "Partial clearing will take place from west to east overnight. Low temperatures will range from the mid 40s in the…",
@@ -43,27 +57,6 @@
       "time": "Nov 22, 4:56 PM CST",
       "code": "DFW",
       "url": "https://x.com/NWSFortWorth/status/2124638108448657826"
-    },
-    {
-      "text": "[4:55 PM] Rain will begin to overspread the region this evening ahead of a cold front. The dry air will limit overall…",
-      "account": "@NWSILN",
-      "time": "Nov 22, 3:55 PM CST",
-      "code": "CMH",
-      "url": "https://x.com/NWSILN/status/2124622876708073482"
-    },
-    {
-      "text": "[3:22pm /22] Much more seasonable weather is in store heading into #Thanksgiving. A large weather system will…",
-      "account": "@NWSChicago",
-      "time": "Nov 22, 3:22 PM CST",
-      "code": "ORD",
-      "url": "https://x.com/NWSChicago/status/2124614589895803267"
-    },
-    {
-      "text": "A mild afternoon gives way to rain this evening and tonight as a cold front moves through. Much cooler and quieter…",
-      "account": "@NWSCLE",
-      "time": "Nov 22, 1:57 PM CST",
-      "code": "NEO",
-      "url": "https://x.com/NWSCLE/status/2124593200429965519"
     }
   ]
 }
