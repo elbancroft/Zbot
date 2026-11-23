@@ -1,7 +1,42 @@
 {
-  "asOf": "Nov 22, 3:08 PM CST",
+  "asOf": "Nov 22, 6:11 PM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "High temperatures this afternoon were near to a few degrees below the daily normals. Look for nearly identical…",
+      "account": "@NWSPhoenix",
+      "time": "Nov 22, 6:09 PM CST",
+      "code": "PHX",
+      "url": "https://x.com/NWSPhoenix/status/2124656556298125771"
+    },
+    {
+      "text": "Quiet weather will prevail Thanksgiving through the weekend. Thanksgiving morning will be chilly, with widespread…",
+      "account": "@NWSFortWorth",
+      "time": "Nov 22, 5:19 PM CST",
+      "code": "DFW",
+      "url": "https://x.com/NWSFortWorth/status/2124644052448477480"
+    },
+    {
+      "text": "An upper-level system will bring isolated rain showers to the region on Tuesday. The potential exists for a few snow…",
+      "account": "@NWSFortWorth",
+      "time": "Nov 22, 4:56 PM CST",
+      "code": "DFW",
+      "url": "https://x.com/NWSFortWorth/status/2124638108448657826"
+    },
+    {
+      "text": "[4:55 PM] Rain will begin to overspread the region this evening ahead of a cold front. The dry air will limit overall…",
+      "account": "@NWSILN",
+      "time": "Nov 22, 3:55 PM CST",
+      "code": "CMH",
+      "url": "https://x.com/NWSILN/status/2124622876708073482"
+    },
+    {
+      "text": "[3:22pm /22] Much more seasonable weather is in store heading into #Thanksgiving. A large weather system will…",
+      "account": "@NWSChicago",
+      "time": "Nov 22, 3:22 PM CST",
+      "code": "ORD",
+      "url": "https://x.com/NWSChicago/status/2124614589895803267"
+    },
     {
       "text": "A mild afternoon gives way to rain this evening and tonight as a cold front moves through. Much cooler and quieter…",
       "account": "@NWSCLE",
@@ -28,41 +63,6 @@
       "time": "Nov 22, 10:11 AM CST",
       "code": "PHX",
       "url": "https://x.com/NWSPhoenix/status/2124536287688376444"
-    },
-    {
-      "text": "Cool temperatures and mostly dry conditions are expected this upcoming week. Highs will generally be in the 50s, with…",
-      "account": "@NWSFortWorth",
-      "time": "Nov 22, 7:30 AM CST",
-      "code": "DFW",
-      "url": "https://x.com/NWSFortWorth/status/2124495617934446950"
-    },
-    {
-      "text": "Temperatures will stay a few degrees below normal early this week before slowly warming through the rest of the week.…",
-      "account": "@NWSPhoenix",
-      "time": "Nov 22, 7:20 AM CST",
-      "code": "PHX",
-      "url": "https://x.com/NWSPhoenix/status/2124493097665003988"
-    },
-    {
-      "text": "Today's cold front will bring a wide range of temperatures, with daytime highs spanning from the mid-50s in the…",
-      "account": "@NWSFortWorth",
-      "time": "Nov 22, 6:30 AM CST",
-      "code": "DFW",
-      "url": "https://x.com/NWSFortWorth/status/2124480514677674372"
-    },
-    {
-      "text": "A cold front will pass through the region this evening bringing a quick round of showers with rainfall totals less…",
-      "account": "@NWSCLE",
-      "time": "Nov 22, 4:44 AM CST",
-      "code": "NEO",
-      "url": "https://x.com/NWSCLE/status/2124453883313373272"
-    },
-    {
-      "text": "A frontal zone moving up the coast will bring some light rain to the area this afternoon & evening. Expect…",
-      "account": "@NWS_BaltWash",
-      "time": "Nov 22, 3:34 AM CST",
-      "code": "IAD",
-      "url": "https://x.com/NWS_BaltWash/status/2124436326451949686"
     }
   ]
 }
