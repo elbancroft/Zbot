@@ -1,27 +1,65 @@
 {
-  "asOf": "Nov 23, 12:05 PM CST",
+  "asOf": "Nov 23, 3:06 PM CST",
   "label": "Unverified news",
   "items": [
     {
-      "text": "GAS LEAK | Residents of a neighborhood were forced to evacuate due to a major natural gas leak.",
-      "account": "@wkyc",
-      "time": "Nov 23, 8:24 AM CST",
+      "text": "Cold weather will persist with isolated to scattered rain forecast to move into the area late tonight through Tuesday…",
+      "account": "@NWSFortWorth",
+      "time": "Nov 23, 2:10 PM CST",
+      "code": "DFW",
+      "url": "https://x.com/NWSFortWorth/status/2124958811135848499"
+    },
+    {
+      "text": "A large storm system will impact a broad part of the country this week, bringing waves of rain showers to the area.…",
+      "account": "@NWSChicago",
+      "time": "Nov 23, 2:04 PM CST",
+      "code": "ORD",
+      "url": "https://x.com/NWSChicago/status/2124957393075249444"
+    },
+    {
+      "text": "[2:00 PM /23/2026] A period of wet weather appears likely in the region Wednesday night into and through…",
+      "account": "@NWSChicago",
+      "time": "Nov 23, 2:04 PM CST",
+      "code": "ORD",
+      "url": "https://x.com/NWSChicago/status/2124957381826158755"
+    },
+    {
+      "text": "Lake effect rain/snow showers are possible tonight with dry weather returning by Tuesday morning. Rain chances will…",
+      "account": "@NWSCLE",
+      "time": "Nov 23, 12:59 PM CST",
       "code": "NEO",
-      "url": "https://x.com/wkyc/status/2124871773099376915"
+      "url": "https://x.com/NWSCLE/status/2124940864266944614"
     },
     {
-      "text": "Coastal flooding is expected Monday - Friday this week with more significant flooding possible Tuesday - Thursday.",
-      "account": "@NWSPortland",
-      "time": "Nov 22, 10:26 PM CST",
-      "code": "PDX",
-      "url": "https://x.com/NWSPortland/status/2124721174672277643"
+      "text": "A Freeze Warning has been issued for the area for Tuesday night into Wednesday morning.…",
+      "account": "@NWSFortWorth",
+      "time": "Nov 23, 12:22 PM CST",
+      "code": "DFW",
+      "url": "https://x.com/NWSFortWorth/status/2124931691198161050",
+      "opsTag": [
+        "Freeze Warning"
+      ]
     },
     {
-      "text": "Patchy dense fog is possible across the area through the early morning hours. Visibilities can drop suddenly.",
-      "account": "@NWSAtlanta",
-      "time": "Nov 22, 10:08 PM CST",
-      "code": "ATL",
-      "url": "https://x.com/NWSAtlanta/status/2124716638721511733"
+      "text": "A large area of low pressure will impact the region this week with rain and gusty winds.",
+      "account": "@wkyc",
+      "time": "Nov 23, 11:21 AM CST",
+      "code": "NEO",
+      "url": "https://x.com/wkyc/status/2124916147933806897"
+    },
+    {
+      "text": "Low temperatures were within 1 to 4 degrees of normal this morning. This afternoon, expect high temperatures around 70…",
+      "account": "@NWSPhoenix",
+      "time": "Nov 23, 10:28 AM CST",
+      "code": "PHX",
+      "url": "https://x.com/NWSPhoenix/status/2124902829265486119"
+    },
+    {
+      "text": "Tranquil weather conditions will prevail all week, including the upcoming holiday weekend. Expect temperatures to…",
+      "account": "@NWSPhoenix",
+      "time": "Nov 23, 7:18 AM CST",
+      "code": "PHX",
+      "url": "https://x.com/NWSPhoenix/status/2124854981949870210"
     }
   ]
 }
