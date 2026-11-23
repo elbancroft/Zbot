@@ -10,7 +10,7 @@
       "url": "https://x.com/NWSFortWorth/status/2124873102756553005"
     },
     {
-      "text": "Residents of a neighborhood were forced to evacuate due to a major natural gas…",
+      "text": "GAS LEAK | Residents of Sagamore Hills' Geddes Bluff neighborhood were forced to evacuate due to a \"major natural gas…",
       "account": "@wkyc",
       "time": "Nov 23, 8:24 AM CST",
       "code": "NEO",
@@ -38,14 +38,14 @@
       "url": "https://x.com/NWS_BaltWash/status/2124794484651417657"
     },
     {
-      "text": "A large storm system will bring waves of rain showers to the area. Depending on…",
+      "text": "A large storm system will impact the eastern US this week, bringing waves of rain showers to our area. Depending on…",
       "account": "@NWSChicago",
       "time": "Nov 23, 1:56 AM CST",
       "code": "ORD",
       "url": "https://x.com/NWSChicago/status/2124774100669231554"
     },
     {
-      "text": "Showers will end early this morning as a cold front sweeps east of the area. This will usher in a much…",
+      "text": "[2:04 AM] Showers will end early this morning as a cold front sweeps east of the area. This will usher in a much…",
       "account": "@NWSILN",
       "time": "Nov 23, 1:05 AM CST",
       "code": "CMH",
@@ -57,6 +57,12 @@
       "time": "Nov 22, 10:26 PM CST",
       "code": "PDX",
       "url": "https://x.com/NWSPortland/status/2124721174672277643"
+    },
+    {
+      "text": "Patchy dense fog is possible across the area through the early morning hours. Visibilities can drop suddenly so make…",
+      "account": "@NWSAtlanta",
+      "time": "Nov 22, 10:08 PM CST",
+      "url": "https://x.com/NWSAtlanta/status/2124716638721511733"
     }
   ]
 }
