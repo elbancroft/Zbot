@@ -1,9 +1,23 @@
 {
-  "asOf": "Nov 23, 3:05 AM CST",
+  "asOf": "Nov 23, 6:03 AM CST",
   "label": "Unverified news",
   "items": [
     {
-      "text": "A large storm system will impact the region this week, bringing waves of rain showers to our area. Depending on…",
+      "text": "A cool, dry, yet overall pleasant Monday is expected today with highs in the 50s followed by lows mainly in the 30s.…",
+      "account": "@NWSFortWorth",
+      "time": "Nov 23, 5:30 AM CST",
+      "code": "DFW",
+      "url": "https://x.com/NWSFortWorth/status/2124827805233848570"
+    },
+    {
+      "text": "After a foggy start in some spots, expect one last mild day as highs rise into the mid 60s to low 70s this afternoon.…",
+      "account": "@NWS_BaltWash",
+      "time": "Nov 23, 3:17 AM CST",
+      "code": "IAD",
+      "url": "https://x.com/NWS_BaltWash/status/2124794484651417657"
+    },
+    {
+      "text": "A large storm system will impact the area this week, bringing waves of rain showers to our area. Depending on…",
       "account": "@NWSChicago",
       "time": "Nov 23, 1:56 AM CST",
       "code": "ORD",
@@ -31,11 +45,11 @@
       "url": "https://x.com/NWSPortland/status/2124721174672277643"
     },
     {
-      "text": "Partial clearing will take place from west to east overnight. Low temperatures will range from the mid 40s in the…",
-      "account": "@NWS_BaltWash",
-      "time": "Nov 22, 6:57 PM CST",
+      "text": "Tomorrow should be mild before temps cool down ahead of Thanksgiving. Storm Team4’s Gary McGrady breaks it down.",
+      "account": "@nbcwashington",
+      "time": "Nov 22, 7:25 PM CST",
       "code": "IAD",
-      "url": "https://x.com/NWS_BaltWash/status/2124668724292563029"
+      "url": "https://x.com/nbcwashington/status/2124675576334024941"
     },
     {
       "text": "High temperatures this afternoon were near to a few degrees below the daily normals. Look for nearly identical…",
@@ -50,13 +64,6 @@
       "time": "Nov 22, 5:19 PM CST",
       "code": "DFW",
       "url": "https://x.com/NWSFortWorth/status/2124644052448477480"
-    },
-    {
-      "text": "An upper-level system will bring isolated rain showers to the region on Tuesday. The potential exists for a few snow…",
-      "account": "@NWSFortWorth",
-      "time": "Nov 22, 4:56 PM CST",
-      "code": "DFW",
-      "url": "https://x.com/NWSFortWorth/status/2124638108448657826"
     }
   ]
 }
