@@ -1,7 +1,21 @@
 {
-  "asOf": "Nov 23, 6:05 PM CST",
+  "asOf": "Nov 23, 9:02 PM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "Showers ending around midnight in parts of the area, then clearing and turning colder overnight with low temperatures…",
+      "account": "@NWS_BaltWash",
+      "time": "Nov 23, 7:27 PM CST",
+      "code": "IAD",
+      "url": "https://x.com/NWS_BaltWash/status/2125038518909223237"
+    },
+    {
+      "text": "High temperatures this afternoon were several degrees below normal under mostly sunny skies. Look for warmer…",
+      "account": "@NWSPhoenix",
+      "time": "Nov 23, 6:13 PM CST",
+      "code": "PHX",
+      "url": "https://x.com/NWSPhoenix/status/2125019935156187620"
+    },
     {
       "text": "Freezing temperatures are forecast for portions of the area over the next few days. The images below…",
       "account": "@NWSFortWorth",
