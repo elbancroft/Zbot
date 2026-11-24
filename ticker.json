@@ -1,7 +1,42 @@
 {
-  "asOf": "Nov 24, 12:03 PM CST",
+  "asOf": "Nov 24, 3:04 PM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "Several weather systems are expected to bring rain along with gusty winds at times through this week.",
+      "account": "@NWSPortland",
+      "time": "Nov 24, 2:34 PM CST",
+      "code": "PDX",
+      "url": "https://x.com/NWSPortland/status/2125327273884516473"
+    },
+    {
+      "text": "Dry weather with temperatures in the 20s and lower 30s are expected tonight.",
+      "account": "@NWSCLE",
+      "time": "Nov 24, 1:44 PM CST",
+      "code": "NEO",
+      "url": "https://x.com/NWSCLE/status/2125314747675345146"
+    },
+    {
+      "text": "A storm with heavy rain and strong winds could cause power outages and flight delays.",
+      "account": "@nbcwashington",
+      "time": "Nov 24, 1:01 PM CST",
+      "code": "IAD",
+      "url": "https://x.com/nbcwashington/status/2125303720132956618"
+    },
+    {
+      "text": "Our first taste of winter has arrived with lows near or below freezing across the area the next few…",
+      "account": "@NWSFortWorth",
+      "time": "Nov 24, 12:50 PM CST",
+      "code": "DFW",
+      "url": "https://x.com/NWSFortWorth/status/2125300927443743065"
+    },
+    {
+      "text": "Dry and mild fall weather is expected this weekend after a chilly Thanksgiving Day.",
+      "account": "@NWSFortWorth",
+      "time": "Nov 24, 12:40 PM CST",
+      "code": "DFW",
+      "url": "https://x.com/NWSFortWorth/status/2125298537617363318"
+    },
     {
       "text": "Low temperatures this morning mostly ranged from the upper-30s to lower-50s.",
       "account": "@NWSPhoenix",
@@ -22,34 +57,6 @@
       "time": "Nov 24, 8:35 AM CST",
       "code": "CMH",
       "url": "https://x.com/NWSILN/status/2125236924415721655"
-    },
-    {
-      "text": "Scattered rain continues to spread from the west this morning.",
-      "account": "@NWSFortWorth",
-      "time": "Nov 24, 7:32 AM CST",
-      "code": "DFW",
-      "url": "https://x.com/NWSFortWorth/status/2125221110660649441"
-    },
-    {
-      "text": "Behind an earlier cold front, a north wind will make for a chillier day with highs in the upper 40s to low 50s.",
-      "account": "@NWS_BaltWash",
-      "time": "Nov 24, 3:48 AM CST",
-      "code": "IAD",
-      "url": "https://x.com/NWS_BaltWash/status/2125164644452978805"
-    },
-    {
-      "text": "A strong low pressure system will move northward for Thanksgiving Day. Expecting wind…",
-      "account": "@NWSCLE",
-      "time": "Nov 24, 3:16 AM CST",
-      "code": "NEO",
-      "url": "https://x.com/NWSCLE/status/2125156472304615425"
-    },
-    {
-      "text": "A cool airmass will remain in place across the region through the week.",
-      "account": "@NWSILN",
-      "time": "Nov 24, 2:11 AM CST",
-      "code": "CMH",
-      "url": "https://x.com/NWSILN/status/2125140211390661085"
     }
   ]
 }
