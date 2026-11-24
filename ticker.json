@@ -1,7 +1,14 @@
 {
-  "asOf": "Nov 23, 3:06 PM CST",
+  "asOf": "Nov 23, 6:05 PM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "Freezing temperatures are forecast for portions of the area over the next few days. The images below…",
+      "account": "@NWSFortWorth",
+      "time": "Nov 23, 5:52 PM CST",
+      "code": "DFW",
+      "url": "https://x.com/NWSFortWorth/status/2125014576932512184"
+    },
     {
       "text": "Cold weather will persist with isolated to scattered rain forecast to move into the area late tonight through Tuesday…",
       "account": "@NWSFortWorth",
@@ -29,37 +36,6 @@
       "time": "Nov 23, 12:59 PM CST",
       "code": "NEO",
       "url": "https://x.com/NWSCLE/status/2124940864266944614"
-    },
-    {
-      "text": "A Freeze Warning has been issued for the area for Tuesday night into Wednesday morning.…",
-      "account": "@NWSFortWorth",
-      "time": "Nov 23, 12:22 PM CST",
-      "code": "DFW",
-      "url": "https://x.com/NWSFortWorth/status/2124931691198161050",
-      "opsTag": [
-        "Freeze Warning"
-      ]
-    },
-    {
-      "text": "A large area of low pressure will impact the region this week with rain and gusty winds.",
-      "account": "@wkyc",
-      "time": "Nov 23, 11:21 AM CST",
-      "code": "NEO",
-      "url": "https://x.com/wkyc/status/2124916147933806897"
-    },
-    {
-      "text": "Low temperatures were within 1 to 4 degrees of normal this morning. This afternoon, expect high temperatures around 70…",
-      "account": "@NWSPhoenix",
-      "time": "Nov 23, 10:28 AM CST",
-      "code": "PHX",
-      "url": "https://x.com/NWSPhoenix/status/2124902829265486119"
-    },
-    {
-      "text": "Tranquil weather conditions will prevail all week, including the upcoming holiday weekend. Expect temperatures to…",
-      "account": "@NWSPhoenix",
-      "time": "Nov 23, 7:18 AM CST",
-      "code": "PHX",
-      "url": "https://x.com/NWSPhoenix/status/2124854981949870210"
     }
   ]
 }
