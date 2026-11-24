@@ -1,20 +1,34 @@
 {
-  "asOf": "Nov 24, 3:10 AM CST",
+  "asOf": "Nov 24, 6:07 AM CST",
   "label": "Unverified news",
   "items": [
     {
-      "text": "Active weather is expected through the holiday weekend, with widespread precipitation and potentially some snow in the…",
+      "text": "Light lake effect snow showers will shift into parts of the area near the lake this…",
       "account": "@NWSChicago",
-      "time": "Nov 24, 2:12 AM CST",
+      "time": "Nov 24, 5:28 AM CST",
       "code": "ORD",
-      "url": "https://x.com/NWSChicago/status/2125140385735348248"
+      "url": "https://x.com/NWSChicago/status/2125189778324811921"
     },
     {
-      "text": "A large storm system will bring primarily rain to the area late Wednesday into Friday, though slushy snow…",
-      "account": "@NWSChicago",
-      "time": "Nov 24, 2:12 AM CST",
-      "code": "ORD",
-      "url": "https://x.com/NWSChicago/status/2125140376457527353"
+      "text": "Clouds and some light rain today with highs in the 40s/low 50s. Clearing tonight with a widespread freeze in the western part of the area…",
+      "account": "@NWSFortWorth",
+      "time": "Nov 24, 5:16 AM CST",
+      "code": "DFW",
+      "url": "https://x.com/NWSFortWorth/status/2125186853468840204"
+    },
+    {
+      "text": "Behind an earlier cold front, a north wind will make for a chillier day with highs in the upper 40s to low 50s (30s to…",
+      "account": "@NWS_BaltWash",
+      "time": "Nov 24, 3:48 AM CST",
+      "code": "IAD",
+      "url": "https://x.com/NWS_BaltWash/status/2125164644452978805"
+    },
+    {
+      "text": "A strong low pressure system will move northward into the region for Thanksgiving Day. Expecting wind…",
+      "account": "@NWSCLE",
+      "time": "Nov 24, 3:16 AM CST",
+      "code": "NEO",
+      "url": "https://x.com/NWSCLE/status/2125156472304615425"
     },
     {
       "text": "[3:10 AM] A cool airmass will remain in place across the region through the week. A low pressure system will bring a…",
@@ -43,13 +57,6 @@
       "time": "Nov 23, 5:52 PM CST",
       "code": "DFW",
       "url": "https://x.com/NWSFortWorth/status/2125014576932512184"
-    },
-    {
-      "text": "Cold weather will persist with isolated to scattered rain forecast to move into the area late tonight through Tuesday…",
-      "account": "@NWSFortWorth",
-      "time": "Nov 23, 2:10 PM CST",
-      "code": "DFW",
-      "url": "https://x.com/NWSFortWorth/status/2124958811135848499"
     }
   ]
 }
