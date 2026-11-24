@@ -1,62 +1,55 @@
 {
-  "asOf": "Nov 24, 6:07 AM CST",
+  "asOf": "Nov 24, 12:03 PM CST",
   "label": "Unverified news",
   "items": [
     {
-      "text": "Light lake effect snow showers will shift into parts of the area near the lake this…",
-      "account": "@NWSChicago",
-      "time": "Nov 24, 5:28 AM CST",
-      "code": "ORD",
-      "url": "https://x.com/NWSChicago/status/2125189778324811921"
+      "text": "Low temperatures this morning mostly ranged from the upper-30s to lower-50s.",
+      "account": "@NWSPhoenix",
+      "time": "Nov 24, 9:34 AM CST",
+      "code": "PHX",
+      "url": "https://x.com/NWSPhoenix/status/2125251680673657229"
     },
     {
-      "text": "Clouds and some light rain today with highs in the 40s/low 50s. Clearing tonight with a widespread freeze in the western part of the area…",
+      "text": "Calm winds and dry weather will dominate the forecast this week.",
+      "account": "@FOX10Phoenix",
+      "time": "Nov 24, 9:30 AM CST",
+      "code": "PHX",
+      "url": "https://x.com/FOX10Phoenix/status/2125250641043820560"
+    },
+    {
+      "text": "Wet weather and breezy conditions to move in for Thanksgiving.",
+      "account": "@NWSILN",
+      "time": "Nov 24, 8:35 AM CST",
+      "code": "CMH",
+      "url": "https://x.com/NWSILN/status/2125236924415721655"
+    },
+    {
+      "text": "Scattered rain continues to spread from the west this morning.",
       "account": "@NWSFortWorth",
-      "time": "Nov 24, 5:16 AM CST",
+      "time": "Nov 24, 7:32 AM CST",
       "code": "DFW",
-      "url": "https://x.com/NWSFortWorth/status/2125186853468840204"
+      "url": "https://x.com/NWSFortWorth/status/2125221110660649441"
     },
     {
-      "text": "Behind an earlier cold front, a north wind will make for a chillier day with highs in the upper 40s to low 50s (30s to…",
+      "text": "Behind an earlier cold front, a north wind will make for a chillier day with highs in the upper 40s to low 50s.",
       "account": "@NWS_BaltWash",
       "time": "Nov 24, 3:48 AM CST",
       "code": "IAD",
       "url": "https://x.com/NWS_BaltWash/status/2125164644452978805"
     },
     {
-      "text": "A strong low pressure system will move northward into the region for Thanksgiving Day. Expecting wind…",
+      "text": "A strong low pressure system will move northward for Thanksgiving Day. Expecting wind…",
       "account": "@NWSCLE",
       "time": "Nov 24, 3:16 AM CST",
       "code": "NEO",
       "url": "https://x.com/NWSCLE/status/2125156472304615425"
     },
     {
-      "text": "[3:10 AM] A cool airmass will remain in place across the region through the week. A low pressure system will bring a…",
+      "text": "A cool airmass will remain in place across the region through the week.",
       "account": "@NWSILN",
       "time": "Nov 24, 2:11 AM CST",
       "code": "CMH",
       "url": "https://x.com/NWSILN/status/2125140211390661085"
-    },
-    {
-      "text": "Showers ending around midnight in the southern part of the area, then clearing and turning colder overnight with low temperatures…",
-      "account": "@NWS_BaltWash",
-      "time": "Nov 23, 7:27 PM CST",
-      "code": "IAD",
-      "url": "https://x.com/NWS_BaltWash/status/2125038518909223237"
-    },
-    {
-      "text": "High temperatures this afternoon were several degrees below normal under mostly sunny skies. Look for warmer…",
-      "account": "@NWSPhoenix",
-      "time": "Nov 23, 6:13 PM CST",
-      "code": "PHX",
-      "url": "https://x.com/NWSPhoenix/status/2125019935156187620"
-    },
-    {
-      "text": "Freezing temperatures are forecast for portions of the area over the next few days. The images below…",
-      "account": "@NWSFortWorth",
-      "time": "Nov 23, 5:52 PM CST",
-      "code": "DFW",
-      "url": "https://x.com/NWSFortWorth/status/2125014576932512184"
     }
   ]
 }
