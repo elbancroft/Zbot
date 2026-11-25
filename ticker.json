@@ -1,76 +1,27 @@
 {
-  "asOf": "Nov 24, 6:09 PM CST",
+  "asOf": "Nov 25, 3:06 AM CST",
   "label": "Unverified news",
   "items": [
     {
-      "text": "High pressure will dominate the region over the next couple of days, bringing dry weather and seasonal to…",
-      "account": "@NWSSaltLakeCity",
-      "time": "Nov 24, 3:59 PM CST",
-      "code": "SLC",
-      "url": "https://x.com/NWSSaltLakeCity/status/2125348522249593294"
-    },
-    {
-      "text": "A Ground Stop is in effect at the airport for what the FAA is calling an \"equipment outage.\"…",
-      "account": "@WGNNews",
-      "time": "Nov 24, 3:49 PM CST",
-      "code": "ORD",
-      "url": "https://x.com/WGNNews/status/2125345970888335705"
-    },
-    {
-      "text": "A fall storm system will bring inclement weather to the region over the Thanksgiving holiday. Expect periods of cold…",
+      "text": "A large storm system will bring widespread precipitation to the region tonight into Friday. While snow chances are…",
       "account": "@NWSChicago",
-      "time": "Nov 24, 3:21 PM CST",
-      "code": "ORD",
-      "url": "https://x.com/NWSChicago/status/2125339054405238980"
+      "time": "Nov 25, 2:17 AM CST",
+      "url": "https://x.com/NWSChicago/status/2125504215770427420"
     },
     {
-      "text": "Several weather systems are expected to bring rain along with gusty winds at times through this week.",
+      "text": "A wind advisory is in effect from 10pm tonight through 12am Thursday. Winds may gust 25 to 35 mph, and up to 40mph in…",
+      "account": "@NWSAtlanta",
+      "time": "Nov 24, 7:37 PM CST",
+      "url": "https://x.com/NWSAtlanta/status/2125403440356462867",
+      "opsTag": [
+        "Wind Advisory"
+      ]
+    },
+    {
+      "text": "Several weather systems are expected to bring rain along with gusty winds at times through this week. The strongest…",
       "account": "@NWSPortland",
       "time": "Nov 24, 2:34 PM CST",
-      "code": "PDX",
       "url": "https://x.com/NWSPortland/status/2125327273884516473"
-    },
-    {
-      "text": "Dry weather with temperatures in the 20s and lower 30s are expected tonight.",
-      "account": "@NWSCLE",
-      "time": "Nov 24, 1:44 PM CST",
-      "code": "NEO",
-      "url": "https://x.com/NWSCLE/status/2125314747675345146"
-    },
-    {
-      "text": "A storm with heavy rain and strong winds could cause power outages and flight delays.",
-      "account": "@nbcwashington",
-      "time": "Nov 24, 1:01 PM CST",
-      "code": "IAD",
-      "url": "https://x.com/nbcwashington/status/2125303720132956618"
-    },
-    {
-      "text": "Our first taste of winter has arrived with lows near or below freezing across the area the next few…",
-      "account": "@NWSFortWorth",
-      "time": "Nov 24, 12:50 PM CST",
-      "code": "DFW",
-      "url": "https://x.com/NWSFortWorth/status/2125300927443743065"
-    },
-    {
-      "text": "Dry and mild fall weather is expected this weekend after a chilly Thanksgiving Day.",
-      "account": "@NWSFortWorth",
-      "time": "Nov 24, 12:40 PM CST",
-      "code": "DFW",
-      "url": "https://x.com/NWSFortWorth/status/2125298537617363318"
-    },
-    {
-      "text": "Low temperatures this morning mostly ranged from the upper-30s to lower-50s.",
-      "account": "@NWSPhoenix",
-      "time": "Nov 24, 9:34 AM CST",
-      "code": "PHX",
-      "url": "https://x.com/NWSPhoenix/status/2125251680673657229"
-    },
-    {
-      "text": "Calm winds and dry weather will dominate the forecast this week.",
-      "account": "@FOX10Phoenix",
-      "time": "Nov 24, 9:30 AM CST",
-      "code": "PHX",
-      "url": "https://x.com/FOX10Phoenix/status/2125250641043820560"
     }
   ]
 }
