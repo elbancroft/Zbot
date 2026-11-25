@@ -1,27 +1,68 @@
 {
-  "asOf": "Nov 25, 3:06 AM CST",
+  "asOf": "Nov 25, 6:05 AM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "After a cold and cloudy day yesterday, today will feature mostly sunny skies and slightly warmer conditions. Highs…",
+      "account": "@NWSFortWorth",
+      "time": "Nov 25, 5:05 AM CST",
+      "code": "DFW",
+      "url": "https://x.com/NWSFortWorth/status/2125546347285885369"
+    },
+    {
+      "text": "With strong NE winds in the forecast on Thanksgiving Day, a mixture of High Wind Warnings & Wind Advisories have…",
+      "account": "@NWS_BaltWash",
+      "time": "Nov 25, 5:00 AM CST",
+      "code": "IAD",
+      "url": "https://x.com/NWS_BaltWash/status/2125545087145021866",
+      "opsTag": [
+        "High Wind Warning"
+      ]
+    },
+    {
+      "text": "High pressure will exit to the east today and dry weather with seasonable temperatures is expected. Strong low…",
+      "account": "@NWSCLE",
+      "time": "Nov 25, 4:28 AM CST",
+      "code": "NEO",
+      "url": "https://x.com/NWSCLE/status/2125537012815966530"
+    },
+    {
+      "text": "[3:59 AM] Dry and cool weather today will be followed by widespread rain Thanksgiving morning before tapering off…",
+      "account": "@NWSILN",
+      "time": "Nov 25, 3:00 AM CST",
+      "code": "CMH",
+      "url": "https://x.com/NWSILN/status/2125514976706375814"
+    },
     {
       "text": "A large storm system will bring widespread precipitation to the region tonight into Friday. While snow chances are…",
       "account": "@NWSChicago",
       "time": "Nov 25, 2:17 AM CST",
+      "code": "ORD",
       "url": "https://x.com/NWSChicago/status/2125504215770427420"
     },
     {
       "text": "A wind advisory is in effect from 10pm tonight through 12am Thursday. Winds may gust 25 to 35 mph, and up to 40mph in…",
       "account": "@NWSAtlanta",
       "time": "Nov 24, 7:37 PM CST",
+      "code": "ATL",
       "url": "https://x.com/NWSAtlanta/status/2125403440356462867",
       "opsTag": [
         "Wind Advisory"
       ]
     },
     {
-      "text": "Several weather systems are expected to bring rain along with gusty winds at times through this week. The strongest…",
-      "account": "@NWSPortland",
-      "time": "Nov 24, 2:34 PM CST",
-      "url": "https://x.com/NWSPortland/status/2125327273884516473"
+      "text": "Lows in the 20s and 30s tonight along with mostly clear skies. Tomorrow, winds & cloud cover begin to increase…",
+      "account": "@NWS_BaltWash",
+      "time": "Nov 24, 6:48 PM CST",
+      "code": "IAD",
+      "url": "https://x.com/NWS_BaltWash/status/2125391125842210908"
+    },
+    {
+      "text": "High temperatures this afternoon peaked at almost exactly their daily normal. Although there will be a marked increase…",
+      "account": "@NWSPhoenix",
+      "time": "Nov 24, 6:10 PM CST",
+      "code": "PHX",
+      "url": "https://x.com/NWSPhoenix/status/2125381628411453528"
     }
   ]
 }
