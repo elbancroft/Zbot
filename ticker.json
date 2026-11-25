@@ -1,7 +1,28 @@
 {
-  "asOf": "Nov 24, 3:04 PM CST",
+  "asOf": "Nov 24, 6:09 PM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "High pressure will dominate the region over the next couple of days, bringing dry weather and seasonal to…",
+      "account": "@NWSSaltLakeCity",
+      "time": "Nov 24, 3:59 PM CST",
+      "code": "SLC",
+      "url": "https://x.com/NWSSaltLakeCity/status/2125348522249593294"
+    },
+    {
+      "text": "A Ground Stop is in effect at the airport for what the FAA is calling an \"equipment outage.\"…",
+      "account": "@WGNNews",
+      "time": "Nov 24, 3:49 PM CST",
+      "code": "ORD",
+      "url": "https://x.com/WGNNews/status/2125345970888335705"
+    },
+    {
+      "text": "A fall storm system will bring inclement weather to the region over the Thanksgiving holiday. Expect periods of cold…",
+      "account": "@NWSChicago",
+      "time": "Nov 24, 3:21 PM CST",
+      "code": "ORD",
+      "url": "https://x.com/NWSChicago/status/2125339054405238980"
+    },
     {
       "text": "Several weather systems are expected to bring rain along with gusty winds at times through this week.",
       "account": "@NWSPortland",
@@ -50,13 +71,6 @@
       "time": "Nov 24, 9:30 AM CST",
       "code": "PHX",
       "url": "https://x.com/FOX10Phoenix/status/2125250641043820560"
-    },
-    {
-      "text": "Wet weather and breezy conditions to move in for Thanksgiving.",
-      "account": "@NWSILN",
-      "time": "Nov 24, 8:35 AM CST",
-      "code": "CMH",
-      "url": "https://x.com/NWSILN/status/2125236924415721655"
     }
   ]
 }
