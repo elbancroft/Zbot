@@ -1,9 +1,23 @@
 {
-  "asOf": "Nov 25, 9:07 AM CST",
+  "asOf": "Nov 25, 12:07 PM CST",
   "label": "Unverified news",
   "items": [
     {
-      "text": "Despite thicker high clouds moving over the region today, afternoon high temperatures should still be a few degrees…",
+      "text": "Another day of dry conditions expected, with temperatures near normal for the season…",
+      "account": "@NWSSaltLakeCity",
+      "time": "Nov 25, 10:41 AM CST",
+      "code": "SLC",
+      "url": "https://x.com/NWSSaltLakeCity/status/2125630941343146118"
+    },
+    {
+      "text": "Low temperatures this morning in the area ranged from the upper 40s to low 50s, just a couple degrees above…",
+      "account": "@NWSPhoenix",
+      "time": "Nov 25, 9:54 AM CST",
+      "code": "PHX",
+      "url": "https://x.com/NWSPhoenix/status/2125619180938358957"
+    },
+    {
+      "text": "Despite thicker high clouds moving over the area today, afternoon high temperatures should still be a few degrees…",
       "account": "@NWSPhoenix",
       "time": "Nov 25, 7:00 AM CST",
       "code": "PHX",
@@ -34,14 +48,14 @@
       "url": "https://x.com/NWSCLE/status/2125537012815966530"
     },
     {
-      "text": "[3:59 AM] Dry and cool weather today will be followed by widespread rain Thanksgiving morning before tapering off…",
+      "text": "Dry and cool weather today will be followed by widespread rain Thanksgiving morning before tapering off…",
       "account": "@NWSILN",
       "time": "Nov 25, 3:00 AM CST",
       "code": "CMH",
       "url": "https://x.com/NWSILN/status/2125514976706375814"
     },
     {
-      "text": "A large storm system will bring widespread precipitation to the region tonight into Friday. While snow chances are…",
+      "text": "A large storm system will bring widespread precipitation to the area tonight into Friday. While snow chances are…",
       "account": "@NWSChicago",
       "time": "Nov 25, 2:17 AM CST",
       "code": "ORD",
@@ -56,20 +70,6 @@
       "opsTag": [
         "Wind Advisory"
       ]
-    },
-    {
-      "text": "Lows in the 20s and 30s tonight along with mostly clear skies. Tomorrow, winds & cloud cover begin to increase…",
-      "account": "@NWS_BaltWash",
-      "time": "Nov 24, 6:48 PM CST",
-      "code": "IAD",
-      "url": "https://x.com/NWS_BaltWash/status/2125391125842210908"
-    },
-    {
-      "text": "High temperatures this afternoon peaked at almost exactly their daily normal. Although there will be a marked increase…",
-      "account": "@NWSPhoenix",
-      "time": "Nov 24, 6:10 PM CST",
-      "code": "PHX",
-      "url": "https://x.com/NWSPhoenix/status/2125381628411453528"
     }
   ]
 }
