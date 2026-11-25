@@ -1,7 +1,14 @@
 {
-  "asOf": "Nov 25, 6:05 AM CST",
+  "asOf": "Nov 25, 9:07 AM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "Despite thicker high clouds moving over the region today, afternoon high temperatures should still be a few degrees…",
+      "account": "@NWSPhoenix",
+      "time": "Nov 25, 7:00 AM CST",
+      "code": "PHX",
+      "url": "https://x.com/NWSPhoenix/status/2125575236321943720"
+    },
     {
       "text": "After a cold and cloudy day yesterday, today will feature mostly sunny skies and slightly warmer conditions. Highs…",
       "account": "@NWSFortWorth",
