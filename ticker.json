@@ -1,75 +1,27 @@
 {
-  "asOf": "Nov 25, 12:07 PM CST",
+  "asOf": "Nov 25, 3:04 PM CST",
   "label": "Unverified news",
   "items": [
     {
-      "text": "Another day of dry conditions expected, with temperatures near normal for the season…",
-      "account": "@NWSSaltLakeCity",
-      "time": "Nov 25, 10:41 AM CST",
-      "code": "SLC",
-      "url": "https://x.com/NWSSaltLakeCity/status/2125630941343146118"
-    },
-    {
-      "text": "Low temperatures this morning in the area ranged from the upper 40s to low 50s, just a couple degrees above…",
-      "account": "@NWSPhoenix",
-      "time": "Nov 25, 9:54 AM CST",
-      "code": "PHX",
-      "url": "https://x.com/NWSPhoenix/status/2125619180938358957"
-    },
-    {
-      "text": "Despite thicker high clouds moving over the area today, afternoon high temperatures should still be a few degrees…",
-      "account": "@NWSPhoenix",
-      "time": "Nov 25, 7:00 AM CST",
-      "code": "PHX",
-      "url": "https://x.com/NWSPhoenix/status/2125575236321943720"
-    },
-    {
-      "text": "After a cold and cloudy day yesterday, today will feature mostly sunny skies and slightly warmer conditions. Highs…",
-      "account": "@NWSFortWorth",
-      "time": "Nov 25, 5:05 AM CST",
-      "code": "DFW",
-      "url": "https://x.com/NWSFortWorth/status/2125546347285885369"
-    },
-    {
-      "text": "With strong NE winds in the forecast on Thanksgiving Day, a mixture of High Wind Warnings & Wind Advisories have…",
+      "text": "COASTAL HAZARDS: An incoming storm will raise flood risk along the tidal shoreline Thanksgiving Day. Minor…",
       "account": "@NWS_BaltWash",
-      "time": "Nov 25, 5:00 AM CST",
+      "time": "Nov 25, 2:02 PM CST",
       "code": "IAD",
-      "url": "https://x.com/NWS_BaltWash/status/2125545087145021866",
-      "opsTag": [
-        "High Wind Warning"
-      ]
+      "url": "https://x.com/NWS_BaltWash/status/2125681580966391826"
     },
     {
-      "text": "High pressure will exit to the east today and dry weather with seasonable temperatures is expected. Strong low…",
+      "text": "THANKSGIVING WEATHER OUTLOOK: A strong storm could make travel difficult tomorrow in the area, with heavy rain and wind…",
+      "account": "@NWS_BaltWash",
+      "time": "Nov 25, 1:36 PM CST",
+      "code": "IAD",
+      "url": "https://x.com/NWS_BaltWash/status/2125674991777615890"
+    },
+    {
+      "text": "Thanksgiving is looking wet and windy as a strong low pressure system moves through the area. Expected widespread…",
       "account": "@NWSCLE",
-      "time": "Nov 25, 4:28 AM CST",
+      "time": "Nov 25, 12:56 PM CST",
       "code": "NEO",
-      "url": "https://x.com/NWSCLE/status/2125537012815966530"
-    },
-    {
-      "text": "Dry and cool weather today will be followed by widespread rain Thanksgiving morning before tapering off…",
-      "account": "@NWSILN",
-      "time": "Nov 25, 3:00 AM CST",
-      "code": "CMH",
-      "url": "https://x.com/NWSILN/status/2125514976706375814"
-    },
-    {
-      "text": "A large storm system will bring widespread precipitation to the area tonight into Friday. While snow chances are…",
-      "account": "@NWSChicago",
-      "time": "Nov 25, 2:17 AM CST",
-      "code": "ORD",
-      "url": "https://x.com/NWSChicago/status/2125504215770427420"
-    },
-    {
-      "text": "A wind advisory is in effect from 10pm tonight through 12am Thursday. Winds may gust 25 to 35 mph, and up to 40mph in…",
-      "account": "@NWSAtlanta",
-      "time": "Nov 24, 7:37 PM CST",
-      "code": "ATL",
-      "url": "https://x.com/NWSAtlanta/status/2125403440356462867",
-      "opsTag": [
-        "Wind Advisory"
-      ]
+      "url": "https://x.com/NWSCLE/status/2125664963481968944"
     }
   ]
 }
