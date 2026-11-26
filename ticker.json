@@ -1,55 +1,41 @@
 {
-  "asOf": "Nov 26, 9:21 AM CST",
+  "asOf": "Nov 26, 12:10 PM CST",
   "label": "Unverified news",
   "items": [
     {
-      "text": "9:30am: The rain continues across the region. We are up over a half inch here in Wilmington with some of the heaviest…",
+      "text": "Rain will continue today with a few wet snowflakes possible overnight…",
+      "account": "@NWSILN",
+      "time": "Nov 26, 11:21 AM CST",
+      "code": "CMH",
+      "url": "https://x.com/NWSILN/status/2126003417336184859"
+    },
+    {
+      "text": "High winds of 60-70 mph were recorded early this morning in the area as a front moved through.…",
+      "account": "@NWSPortland",
+      "time": "Nov 26, 11:12 AM CST",
+      "code": "PDX",
+      "url": "https://x.com/NWSPortland/status/2126001036188070355"
+    },
+    {
+      "text": "The rain continues across the area. Over a half inch so far, with some of the heaviest…",
       "account": "@NWSILN",
       "time": "Nov 26, 8:36 AM CST",
       "code": "CMH",
       "url": "https://x.com/NWSILN/status/2125962005282791641"
     },
     {
-      "text": "Additional context for those wondering about snow potential in North GA tonight ❄️ #gawx",
+      "text": "Additional context for those wondering about snow potential tonight ❄️",
       "account": "@NWSAtlanta",
       "time": "Nov 26, 8:20 AM CST",
       "code": "ATL",
       "url": "https://x.com/NWSAtlanta/status/2125957909175492855"
     },
     {
-      "text": "8:30am: Happy Thanksgiving. Rainy conditions are expected through the day along with breezy conditions. Cool…",
-      "account": "@NWSILN",
-      "time": "Nov 26, 7:42 AM CST",
-      "code": "CMH",
-      "url": "https://x.com/NWSILN/status/2125948213253574665"
-    },
-    {
-      "text": "5:41 am Radar Update: Light to moderate rain continues to lift N to NW across the area. The intensity of the rain…",
+      "text": "Radar Update: Light to moderate rain continues to lift north to northwest across the area. The intensity of the rain…",
       "account": "@NWS_BaltWash",
       "time": "Nov 26, 4:48 AM CST",
       "code": "IAD",
       "url": "https://x.com/NWS_BaltWash/status/2125904538528010300"
-    },
-    {
-      "text": "NE winds on Lake Erie of 30-40 knots with gusts to 45 knots will build 7-12 foot waves in the nearshore waters of the…",
-      "account": "@NWSCLE",
-      "time": "Nov 26, 4:13 AM CST",
-      "code": "NEO",
-      "url": "https://x.com/NWSCLE/status/2125895832868118973"
-    },
-    {
-      "text": "Low pressure moving up the East Coast will bring a soaking rain & gusty winds today & tonight. NE winds of…",
-      "account": "@NWSCLE",
-      "time": "Nov 26, 3:59 AM CST",
-      "code": "NEO",
-      "url": "https://x.com/NWSCLE/status/2125892242728538498"
-    },
-    {
-      "text": "Rain is expected to spread as far NW as around the I-55 corridor this afternoon, and across much of the area tonight.…",
-      "account": "@NWSChicago",
-      "time": "Nov 26, 2:15 AM CST",
-      "code": "ORD",
-      "url": "https://x.com/NWSChicago/status/2125865963438424267"
     }
   ]
 }
