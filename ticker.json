@@ -1,7 +1,42 @@
 {
-  "asOf": "Nov 25, 3:04 PM CST",
+  "asOf": "Nov 25, 6:06 PM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "⚠️ The threat for coastal flooding continues along the coast through Friday due to increasing astronomical tides. 🌊 Be…",
+      "account": "@NWSPortland",
+      "time": "Nov 25, 4:14 PM CST",
+      "code": "PDX",
+      "url": "https://x.com/NWSPortland/status/2125714694560493946"
+    },
+    {
+      "text": "After a chilly Thanksgiving week, temps will be on the rise once again. 70s will be possible Saturday before a cold…",
+      "account": "@NWSFortWorth",
+      "time": "Nov 25, 3:57 PM CST",
+      "code": "DFW",
+      "url": "https://x.com/NWSFortWorth/status/2125710376352338300"
+    },
+    {
+      "text": "Other than a few flurries/sprinkles southwest of the metro this eve, primarily precip. free until rain lifts into much of…",
+      "account": "@NWSChicago",
+      "time": "Nov 25, 3:48 PM CST",
+      "code": "ORD",
+      "url": "https://x.com/NWSChicago/status/2125708309554741628"
+    },
+    {
+      "text": "🌧️ Widespread rain moves into the area tonight into Thanksgiving morning, heavy at times in the morning before easing…",
+      "account": "@NWSPortland",
+      "time": "Nov 25, 3:34 PM CST",
+      "code": "PDX",
+      "url": "https://x.com/NWSPortland/status/2125704653656785047"
+    },
+    {
+      "text": "Strong northeast winds are expected on the lake Thursday and Thursday night, and a Gale Warning is in effect. These…",
+      "account": "@NWSCLE",
+      "time": "Nov 25, 3:11 PM CST",
+      "code": "NEO",
+      "url": "https://x.com/NWSCLE/status/2125698943027687836"
+    },
     {
       "text": "COASTAL HAZARDS: An incoming storm will raise flood risk along the tidal shoreline Thanksgiving Day. Minor…",
       "account": "@NWS_BaltWash",
@@ -10,7 +45,7 @@
       "url": "https://x.com/NWS_BaltWash/status/2125681580966391826"
     },
     {
-      "text": "THANKSGIVING WEATHER OUTLOOK: A strong storm could make travel difficult tomorrow in the area, with heavy rain and wind…",
+      "text": "THANKSGIVING WEATHER OUTLOOK: A strong storm could make travel difficult tomorrow, with heavy rain and wind…",
       "account": "@NWS_BaltWash",
       "time": "Nov 25, 1:36 PM CST",
       "code": "IAD",
@@ -22,6 +57,20 @@
       "time": "Nov 25, 12:56 PM CST",
       "code": "NEO",
       "url": "https://x.com/NWSCLE/status/2125664963481968944"
+    },
+    {
+      "text": "We're serving cool and dreary weather this Thanksgiving for the area🌧️ For a detailed look at the…",
+      "account": "@NWSAtlanta",
+      "time": "Nov 25, 12:30 PM CST",
+      "code": "ATL",
+      "url": "https://x.com/NWSAtlanta/status/2125658502278606992"
+    },
+    {
+      "text": "What's on the table for Thanksgiving? Weatherwise, it'll be another day of dry conditions with temperatures near…",
+      "account": "@NWSSaltLakeCity",
+      "time": "Nov 25, 10:41 AM CST",
+      "code": "SLC",
+      "url": "https://x.com/NWSSaltLakeCity/status/2125630941343146118"
     }
   ]
 }
