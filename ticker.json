@@ -1,41 +1,27 @@
 {
-  "asOf": "Nov 26, 12:10 PM CST",
+  "asOf": "Nov 26, 3:07 PM CST",
   "label": "Unverified news",
   "items": [
     {
-      "text": "Rain will continue today with a few wet snowflakes possible overnight…",
+      "text": "The forecast remains dry but not at all quiet! Our next disturbance will bring wind gusts up to 40 mph this weekend…",
+      "account": "@NWSFortWorth",
+      "time": "Nov 26, 2:28 PM CST",
+      "code": "DFW",
+      "url": "https://x.com/NWSFortWorth/status/2126050432187273365"
+    },
+    {
+      "text": "Expect blustery conditions to continue through tonight with rain expanding across much of the area. Any lingering…",
+      "account": "@NWSChicago",
+      "time": "Nov 26, 1:47 PM CST",
+      "code": "ORD",
+      "url": "https://x.com/NWSChicago/status/2126040042770485353"
+    },
+    {
+      "text": "Not a lot of history for a white Thanksgiving. Rain will continue today with a few wet snowflakes possible overnight…",
       "account": "@NWSILN",
       "time": "Nov 26, 11:21 AM CST",
       "code": "CMH",
       "url": "https://x.com/NWSILN/status/2126003417336184859"
-    },
-    {
-      "text": "High winds of 60-70 mph were recorded early this morning in the area as a front moved through.…",
-      "account": "@NWSPortland",
-      "time": "Nov 26, 11:12 AM CST",
-      "code": "PDX",
-      "url": "https://x.com/NWSPortland/status/2126001036188070355"
-    },
-    {
-      "text": "The rain continues across the area. Over a half inch so far, with some of the heaviest…",
-      "account": "@NWSILN",
-      "time": "Nov 26, 8:36 AM CST",
-      "code": "CMH",
-      "url": "https://x.com/NWSILN/status/2125962005282791641"
-    },
-    {
-      "text": "Additional context for those wondering about snow potential tonight ❄️",
-      "account": "@NWSAtlanta",
-      "time": "Nov 26, 8:20 AM CST",
-      "code": "ATL",
-      "url": "https://x.com/NWSAtlanta/status/2125957909175492855"
-    },
-    {
-      "text": "Radar Update: Light to moderate rain continues to lift north to northwest across the area. The intensity of the rain…",
-      "account": "@NWS_BaltWash",
-      "time": "Nov 26, 4:48 AM CST",
-      "code": "IAD",
-      "url": "https://x.com/NWS_BaltWash/status/2125904538528010300"
     }
   ]
 }
