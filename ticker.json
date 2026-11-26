@@ -1,55 +1,48 @@
 {
-  "asOf": "Nov 26, 12:09 AM CST",
+  "asOf": "Nov 26, 3:09 AM CST",
   "label": "Unverified news",
   "items": [
     {
-      "text": "Macy's Thanksgiving Day Parade's 100th anniversary will now take place Saturday after dangerous winds forced…",
-      "account": "@wkyc",
-      "time": "Nov 25, 10:56 PM CST",
-      "code": "NEO",
-      "url": "https://x.com/wkyc/status/2125815857947222401"
+      "text": "Rain is expected to spread into the area this afternoon and across much of the area tonight.…",
+      "account": "@NWSChicago",
+      "time": "Nov 26, 2:15 AM CST",
+      "code": "ORD",
+      "url": "https://x.com/NWSChicago/status/2125865963438424267"
     },
     {
-      "text": "Heavy rain and wind is expected in the D.C. area on Thanksgiving. Here’s how it could affect your plans and how to…",
+      "text": "Heavy rain and wind is expected in the area on Thanksgiving.…",
       "account": "@nbcwashington",
       "time": "Nov 25, 10:06 PM CST",
       "code": "IAD",
       "url": "https://x.com/nbcwashington/status/2125803342181834963"
     },
     {
-      "text": "Winter Weather Advisories have been issued across western portions of Grant & Pendleton counties until 9 AM…",
-      "account": "@NWS_BaltWash",
-      "time": "Nov 25, 10:01 PM CST",
-      "code": "IAD",
-      "url": "https://x.com/NWS_BaltWash/status/2125802187104178234"
-    },
-    {
-      "text": "Rain is ongoing across the southeast thanks to a large low pressure system moving across the area. With temps in the…",
+      "text": "Rain is ongoing thanks to a large low pressure system moving across the area.…",
       "account": "@NWSAtlanta",
       "time": "Nov 25, 7:46 PM CST",
       "code": "ATL",
       "url": "https://x.com/NWSAtlanta/status/2125768172074590302"
     },
     {
-      "text": "⚠️ The threat for coastal flooding continues along the coast through Friday due to increasing astronomical tides. 🌊 Be…",
-      "account": "@NWSPortland",
-      "time": "Nov 25, 4:14 PM CST",
-      "code": "PDX",
-      "url": "https://x.com/NWSPortland/status/2125714694560493946"
+      "text": "After a chilly Thanksgiving week, temps will be on the rise once again.…",
+      "account": "@NWSFortWorth",
+      "time": "Nov 25, 3:57 PM CST",
+      "code": "DFW",
+      "url": "https://x.com/NWSFortWorth/status/2125710376352338300"
     },
     {
-      "text": "🌧️ Widespread rain moves into the area tonight into Thanksgiving morning, heavy at times in the morning before easing…",
+      "text": "Other than a few flurries/sprinkles this evening, primarily precip. free until rain lifts into much of the area.…",
+      "account": "@NWSChicago",
+      "time": "Nov 25, 3:48 PM CST",
+      "code": "ORD",
+      "url": "https://x.com/NWSChicago/status/2125708309554741628"
+    },
+    {
+      "text": "Widespread rain moves into the area tonight into Thanksgiving morning, heavy at times in the morning before easing…",
       "account": "@NWSPortland",
       "time": "Nov 25, 3:34 PM CST",
       "code": "PDX",
       "url": "https://x.com/NWSPortland/status/2125704653656785047"
-    },
-    {
-      "text": "Strong northeast winds are expected on Lake Erie Thursday and Thursday night, and a Gale Warning is in effect. These…",
-      "account": "@NWSCLE",
-      "time": "Nov 25, 3:11 PM CST",
-      "code": "NEO",
-      "url": "https://x.com/NWSCLE/status/2125698943027687836"
     }
   ]
 }
