@@ -540,8 +540,8 @@
         description: "Private Page, updated in place each evening. Sign-in required.",
         href: "https://cursor.com/canvas/store-2c77da9d-4b8d-4695-afef-1dfe55b4b73a/c1ed5b1c-a562-413c-b4f4-7f433a83ed74",
         source: "",
-        // lastChecked kind: Page's own "Last updated" line (Page saved 4:51:15 PM CST).
-        lastChecked: "Thursday, November 26, 2026, 4:51 PM CST"
+        // lastChecked kind: Page's own "Last updated" line (Page saved 4:55:07 PM CST).
+        lastChecked: "Friday, November 27, 2026, 4:55 PM CST"
       },
       {
         id: "xdr-console",
@@ -564,8 +564,8 @@
         description: "Published ticket dashboard. Volume charts plus open-ticket aging: green ≤ 2 hours, yellow over 2 through 8 hours, red over 8 hours. Clock starts at Requested CST. This is a republished snapshot of the official workbook, not a live feed.",
         href: "https://cursor.com/canvas/store-2c77da9d-4b8d-4695-afef-1dfe55b4b73a/7d16eab5-f464-4a21-9535-981e9ba84070",
         source: "",
-        // lastChecked kind: Page save time 3:18:59 PM CST (Page has no own Last updated line).
-        lastChecked: "Friday, November 27, 2026, 3:18 PM CST"
+        // lastChecked kind: Page save time 5:16:17 PM CST (Page has no own Last updated line).
+        lastChecked: "Friday, November 27, 2026, 5:16 PM CST"
       },
       {
         id: "gotya-workbook",
@@ -575,8 +575,8 @@
         description: "Official ticket workbook, the source of truth for the aging and volume Page. OneDrive copy in GrokBot/Tracking, updated in place by Researcher. Refreshed hourly, 6 AM–12 AM CST.",
         href: "https://onedrive.live.com/personal/5b8af18da2691640/_layouts/15/doc.aspx?resid=179d0aab-5dbf-4dda-8ed4-8ffef5d5fc9f&cid=5b8af18da2691640",
         source: "",
-        // lastChecked kind: OneDrive file modified 6:10:28 AM CST (copy refresh; not a GOT-YA data-as-of time).
-        lastChecked: "Friday, November 27, 2026, 6:10 AM CST"
+        // lastChecked kind: OneDrive file modified 3:48:16 PM CST (copy refresh; not a GOT-YA data-as-of time).
+        lastChecked: "Friday, November 27, 2026, 3:48 PM CST"
       },
       {
         id: "runbook-live",
@@ -685,16 +685,16 @@
     // workbook file stamp. Do not leave those cards on LAST_CHECKED.
     // Keep the numeric copy; do not replace the numbers with a link.
     // Do not edit ticker.json or the ticker strip.
-    const SNAPSHOT_AS_OF = "2026-11-27 15:10:21 CST";
+    const SNAPSHOT_AS_OF = "2026-11-27 17:07:41 CST";
 
     function render() {
       const linked = LINKS.filter(function (item) { return item.href; }).length;
       const pending = LINKS.length - linked;
       const statsHTML =
-        '<div class="stat"><b>215</b><span>Total work volume</span></div>' +
-        '<div class="stat"><b>17</b><span>Open (not closed)</span></div>' +
+        '<div class="stat"><b>216</b><span>Total work volume</span></div>' +
+        '<div class="stat"><b>18</b><span>Open (not closed)</span></div>' +
         '<div class="stat"><b>0</b><span>Ready for review</span></div>' +
-        '<div class="stat"><b>9</b><span>In progress</span></div>' +
+        '<div class="stat"><b>10</b><span>In progress</span></div>' +
         '<div class="stat"><b>6</b><span>Accepted</span></div>' +
         '<div class="stat"><b>1</b><span>Assigned</span></div>' +
         '<div class="stat"><b>198</b><span>Closed</span></div>' +
@@ -703,7 +703,7 @@
         '<div class="stat" style="border-color:var(--age-green)"><b style="color:var(--age-green)">0</b><span>Green (≤ 2h)</span></div>' +
         '<div class="stat" style="border-color:var(--age-yellow)"><b style="color:var(--age-yellow)">0</b><span>Yellow (over 2h–8h)</span></div>' +
         '<div class="stat" style="border-color:var(--age-red)"><b style="color:var(--age-red)">2</b><span>Red (over 8h)</span></div>' +
-        '<div class="stat" style="border-color:#9ca3af"><b style="color:#9ca3af">15</b><span>Age not computable</span></div>';
+        '<div class="stat" style="border-color:#9ca3af"><b style="color:#9ca3af">16</b><span>Age not computable</span></div>';
 
       document.getElementById("app").innerHTML = GROUPS.map(function (group) {
         const items = LINKS.filter(function (item) { return item.group === group.id; });
