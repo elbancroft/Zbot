@@ -1,7 +1,21 @@
 {
-  "asOf": "Nov 27, 6:07 AM CST",
+  "asOf": "Nov 27, 9:07 AM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "Flurries/light snow are possible in parts of the mountains this morning, but the rest of the day will be dry.…",
+      "account": "@NWSAtlanta",
+      "time": "Nov 27, 7:27 AM CST",
+      "code": "ATL",
+      "url": "https://x.com/NWSAtlanta/status/2126306958831501373"
+    },
+    {
+      "text": "Temperatures today through the beginning of next week will be around 5-10 degrees above normal. A weather system…",
+      "account": "@NWSPhoenix",
+      "time": "Nov 27, 7:24 AM CST",
+      "code": "PHX",
+      "url": "https://x.com/NWSPhoenix/status/2126306241685381578"
+    },
     {
       "text": "A cold front will bring windy conditions to the region on Sunday. Northwest winds are expected behind the front, with…",
       "account": "@NWSFortWorth",
@@ -36,20 +50,6 @@
       "time": "Nov 27, 3:09 AM CST",
       "code": "IAD",
       "url": "https://x.com/NWS_BaltWash/status/2126241924239511955"
-    },
-    {
-      "text": "Here's a look at tomorrow's forecast for anyone heading out for some Black Friday shopping🛍️. It will be a chilly…",
-      "account": "@NWSPhoenix",
-      "time": "Nov 26, 11:52 PM CST",
-      "code": "PHX",
-      "url": "https://x.com/NWSPhoenix/status/2126192438515732699"
-    },
-    {
-      "text": "Moderate to major flooding ongoing along the shoreline. Impacts linger through…",
-      "account": "@NWS_BaltWash",
-      "time": "Nov 26, 6:50 PM CST",
-      "code": "IAD",
-      "url": "https://x.com/NWS_BaltWash/status/2126116350087094472"
     }
   ]
 }
