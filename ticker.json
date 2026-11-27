@@ -1,20 +1,20 @@
 {
-  "asOf": "Nov 27, 9:07 AM CST",
+  "asOf": "Nov 27, 12:01 PM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "A fast moving storm system will bring a show of light valley rain/mountain snow to the area…",
+      "account": "@NWSSaltLakeCity",
+      "time": "Nov 27, 10:35 AM CST",
+      "code": "SLC",
+      "url": "https://x.com/NWSSaltLakeCity/status/2126354114065969182"
+    },
     {
       "text": "Flurries/light snow are possible in parts of the mountains this morning, but the rest of the day will be dry.…",
       "account": "@NWSAtlanta",
       "time": "Nov 27, 7:27 AM CST",
       "code": "ATL",
       "url": "https://x.com/NWSAtlanta/status/2126306958831501373"
-    },
-    {
-      "text": "Temperatures today through the beginning of next week will be around 5-10 degrees above normal. A weather system…",
-      "account": "@NWSPhoenix",
-      "time": "Nov 27, 7:24 AM CST",
-      "code": "PHX",
-      "url": "https://x.com/NWSPhoenix/status/2126306241685381578"
     },
     {
       "text": "A cold front will bring windy conditions to the region on Sunday. Northwest winds are expected behind the front, with…",
