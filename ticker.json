@@ -1,7 +1,42 @@
 {
-  "asOf": "Nov 27, 12:01 PM CST",
+  "asOf": "Nov 27, 3:03 PM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "Here is a look at some of the precipitation totals from the Thanksgiving Day storm. A large majority of the area…",
+      "account": "@NWS_BaltWash",
+      "time": "Nov 27, 2:37 PM CST",
+      "code": "IAD",
+      "url": "https://x.com/NWS_BaltWash/status/2126415260475359533"
+    },
+    {
+      "text": "Rain will taper off tonight as the system departs the region. Saturday will be mostly dry with highs in the lower 40s.…",
+      "account": "@NWSCLE",
+      "time": "Nov 27, 2:01 PM CST",
+      "code": "NEO",
+      "url": "https://x.com/NWSCLE/status/2126406108407271584"
+    },
+    {
+      "text": "A warm Saturday will give way to much cooler and windy conditions Sunday behind a dry cold front. Northwest wind gusts…",
+      "account": "@NWSFortWorth",
+      "time": "Nov 27, 1:31 PM CST",
+      "code": "DFW",
+      "url": "https://x.com/NWSFortWorth/status/2126398543350972775"
+    },
+    {
+      "text": "Primarily dry and seasonable weather is on tap for Saturday. However, our next weather system will result in rain…",
+      "account": "@NWSChicago",
+      "time": "Nov 27, 1:15 PM CST",
+      "code": "ORD",
+      "url": "https://x.com/NWSChicago/status/2126394498154397802"
+    },
+    {
+      "text": "Hold onto your hats! Strong north winds are expected behind the cold front arriving Sunday morning, with sustained…",
+      "account": "@NWSFortWorth",
+      "time": "Nov 27, 1:12 PM CST",
+      "code": "DFW",
+      "url": "https://x.com/NWSFortWorth/status/2126393672597955052"
+    },
     {
       "text": "A fast moving storm system will bring a show of light valley rain/mountain snow to the area…",
       "account": "@NWSSaltLakeCity",
@@ -15,41 +50,6 @@
       "time": "Nov 27, 7:27 AM CST",
       "code": "ATL",
       "url": "https://x.com/NWSAtlanta/status/2126306958831501373"
-    },
-    {
-      "text": "A cold front will bring windy conditions to the region on Sunday. Northwest winds are expected behind the front, with…",
-      "account": "@NWSFortWorth",
-      "time": "Nov 27, 5:14 AM CST",
-      "code": "DFW",
-      "url": "https://x.com/NWSFortWorth/status/2126273576638574629"
-    },
-    {
-      "text": "A warming trend will persist through the first half of the weekend, with windy conditions expected on Saturday ahead…",
-      "account": "@NWSFortWorth",
-      "time": "Nov 27, 5:09 AM CST",
-      "code": "DFW",
-      "url": "https://x.com/NWSFortWorth/status/2126272228123681256"
-    },
-    {
-      "text": "Aside from the lingering rain this morning and the additional rain chances on Sunday, mostly dry conditions are…",
-      "account": "@NWSChicago",
-      "time": "Nov 27, 4:07 AM CST",
-      "code": "ORD",
-      "url": "https://x.com/NWSChicago/status/2126256563090227528"
-    },
-    {
-      "text": "[5:00 AM] Light rain continues to fall across the region and we're starting to see some observation sites report snow…",
-      "account": "@NWSILN",
-      "time": "Nov 27, 3:59 AM CST",
-      "code": "CMH",
-      "url": "https://x.com/NWSILN/status/2126254675221770426"
-    },
-    {
-      "text": "November 27, 2026: Mostly cloudy skies are expected across the area today. Snow showers will accompany the clouds in…",
-      "account": "@NWS_BaltWash",
-      "time": "Nov 27, 3:09 AM CST",
-      "code": "IAD",
-      "url": "https://x.com/NWS_BaltWash/status/2126241924239511955"
     }
   ]
 }
