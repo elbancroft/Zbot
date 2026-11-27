@@ -1,27 +1,55 @@
 {
-  "asOf": "Nov 26, 3:07 PM CST",
+  "asOf": "Nov 27, 6:07 AM CST",
   "label": "Unverified news",
   "items": [
     {
-      "text": "The forecast remains dry but not at all quiet! Our next disturbance will bring wind gusts up to 40 mph this weekend…",
+      "text": "A cold front will bring windy conditions to the region on Sunday. Northwest winds are expected behind the front, with…",
       "account": "@NWSFortWorth",
-      "time": "Nov 26, 2:28 PM CST",
+      "time": "Nov 27, 5:14 AM CST",
       "code": "DFW",
-      "url": "https://x.com/NWSFortWorth/status/2126050432187273365"
+      "url": "https://x.com/NWSFortWorth/status/2126273576638574629"
     },
     {
-      "text": "Expect blustery conditions to continue through tonight with rain expanding across much of the area. Any lingering…",
+      "text": "A warming trend will persist through the first half of the weekend, with windy conditions expected on Saturday ahead…",
+      "account": "@NWSFortWorth",
+      "time": "Nov 27, 5:09 AM CST",
+      "code": "DFW",
+      "url": "https://x.com/NWSFortWorth/status/2126272228123681256"
+    },
+    {
+      "text": "Aside from the lingering rain this morning and the additional rain chances on Sunday, mostly dry conditions are…",
       "account": "@NWSChicago",
-      "time": "Nov 26, 1:47 PM CST",
+      "time": "Nov 27, 4:07 AM CST",
       "code": "ORD",
-      "url": "https://x.com/NWSChicago/status/2126040042770485353"
+      "url": "https://x.com/NWSChicago/status/2126256563090227528"
     },
     {
-      "text": "Not a lot of history for a white Thanksgiving. Rain will continue today with a few wet snowflakes possible overnight…",
+      "text": "[5:00 AM] Light rain continues to fall across the region and we're starting to see some observation sites report snow…",
       "account": "@NWSILN",
-      "time": "Nov 26, 11:21 AM CST",
+      "time": "Nov 27, 3:59 AM CST",
       "code": "CMH",
-      "url": "https://x.com/NWSILN/status/2126003417336184859"
+      "url": "https://x.com/NWSILN/status/2126254675221770426"
+    },
+    {
+      "text": "November 27, 2026: Mostly cloudy skies are expected across the area today. Snow showers will accompany the clouds in…",
+      "account": "@NWS_BaltWash",
+      "time": "Nov 27, 3:09 AM CST",
+      "code": "IAD",
+      "url": "https://x.com/NWS_BaltWash/status/2126241924239511955"
+    },
+    {
+      "text": "Here's a look at tomorrow's forecast for anyone heading out for some Black Friday shopping🛍️. It will be a chilly…",
+      "account": "@NWSPhoenix",
+      "time": "Nov 26, 11:52 PM CST",
+      "code": "PHX",
+      "url": "https://x.com/NWSPhoenix/status/2126192438515732699"
+    },
+    {
+      "text": "Moderate to major flooding ongoing along the shoreline. Impacts linger through…",
+      "account": "@NWS_BaltWash",
+      "time": "Nov 26, 6:50 PM CST",
+      "code": "IAD",
+      "url": "https://x.com/NWS_BaltWash/status/2126116350087094472"
     }
   ]
 }
