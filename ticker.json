@@ -1,9 +1,30 @@
 {
-  "asOf": "Nov 27, 6:06 PM CST",
+  "asOf": "Nov 27, 9:10 PM CST",
   "label": "Unverified news",
   "items": [
     {
-      "text": "After a quiet few weeks, a weather system will sweep through the state by the middle of next week leading to…",
+      "text": "Satellite shows a large \"swirl\" that brought light snow to nearby mountains slowly…",
+      "account": "@NWSAtlanta",
+      "time": "Nov 27, 8:52 PM CST",
+      "code": "ATL",
+      "url": "https://x.com/NWSAtlanta/status/2126509624756928905"
+    },
+    {
+      "text": "Happy Friday! Here's a look at some of the high temperatures from across the area today. Temperatures were well…",
+      "account": "@NWSPhoenix",
+      "time": "Nov 27, 8:08 PM CST",
+      "code": "PHX",
+      "url": "https://x.com/NWSPhoenix/status/2126498332646220182"
+    },
+    {
+      "text": "Mountain snow showers & freezing drizzle are possible into early Saturday morning, with conditions remaining dry…",
+      "account": "@NWS_BaltWash",
+      "time": "Nov 27, 7:16 PM CST",
+      "code": "IAD",
+      "url": "https://x.com/NWS_BaltWash/status/2126485467138768900"
+    },
+    {
+      "text": "After a quiet few weeks, a weather system will sweep through the area by the middle of next week leading to…",
       "account": "@NWSPhoenix",
       "time": "Nov 27, 4:42 PM CST",
       "code": "PHX",
@@ -17,7 +38,7 @@
       "url": "https://x.com/NWS_BaltWash/status/2126415260475359533"
     },
     {
-      "text": "Rain will taper off tonight as the system departs the region. Saturday will be mostly dry with highs in the lower 40s.…",
+      "text": "Rain will taper off tonight as the system departs the area. Saturday will be mostly dry with highs in the lower 40s.…",
       "account": "@NWSCLE",
       "time": "Nov 27, 2:01 PM CST",
       "code": "NEO",
@@ -43,13 +64,6 @@
       "time": "Nov 27, 1:12 PM CST",
       "code": "DFW",
       "url": "https://x.com/NWSFortWorth/status/2126393672597955052"
-    },
-    {
-      "text": "A fast moving storm system will bring a show of light valley rain/mountain snow to the area…",
-      "account": "@NWSSaltLakeCity",
-      "time": "Nov 27, 10:35 AM CST",
-      "code": "SLC",
-      "url": "https://x.com/NWSSaltLakeCity/status/2126354114065969182"
     }
   ]
 }
