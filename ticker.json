@@ -1,55 +1,37 @@
 {
-  "asOf": "Nov 28, 6:05 AM CST",
+  "asOf": "Nov 28, 9:10 AM CST",
   "label": "Unverified news",
   "items": [
     {
-      "text": "[5:55 AM] Quiet conditions for today before another low pressure system arrives tomorrow afternoon, bringing…",
-      "account": "@NWSILN",
-      "time": "Nov 28, 4:55 AM CST",
-      "code": "CMH",
-      "url": "https://x.com/NWSILN/status/2126630949689626764"
-    },
-    {
-      "text": "Lingering rain/snow mix will end early this morning, with clouds gradually clearing from west to east through…",
-      "account": "@NWSCLE",
-      "time": "Nov 28, 3:29 AM CST",
-      "code": "NEO",
-      "url": "https://x.com/NWSCLE/status/2126609506511552905"
-    },
-    {
-      "text": "Aside from a storm system bringing a period of rain late tonight through Sunday, rain free conditions are expected for…",
-      "account": "@NWSChicago",
-      "time": "Nov 28, 3:18 AM CST",
-      "code": "ORD",
-      "url": "https://x.com/NWSChicago/status/2126606730599489819"
-    },
-    {
-      "text": "Dry weather is anticipated today as surface high pressure starts to move in overhead. Winds will progressively…",
-      "account": "@NWS_BaltWash",
-      "time": "Nov 28, 2:19 AM CST",
-      "code": "IAD",
-      "url": "https://x.com/NWS_BaltWash/status/2126591744816873507"
-    },
-    {
-      "text": "Temperatures will climb close to 80 degrees on Sunday before a Pacific storm brings rain and 60s by Wednesday.",
-      "account": "@FOX10Phoenix",
-      "time": "Nov 27, 11:30 PM CST",
-      "code": "PHX",
-      "url": "https://x.com/FOX10Phoenix/status/2126549196723323166"
-    },
-    {
-      "text": "Satellite shows the large \"swirl\" over the northeast that brought light snow to parts of the mountains slowly…",
+      "text": "A cold front will bring scattered thunderstorms to the area Sunday afternoon and evening. A few storms may become…",
       "account": "@NWSAtlanta",
-      "time": "Nov 27, 8:52 PM CST",
+      "time": "Nov 28, 8:49 AM CST",
       "code": "ATL",
-      "url": "https://x.com/NWSAtlanta/status/2126509624756928905"
+      "url": "https://x.com/NWSAtlanta/status/2126690060531642471"
     },
     {
-      "text": "Mountain snow showers & freezing drizzle are possible into early Saturday morning, with conditions remaining dry…",
-      "account": "@NWS_BaltWash",
-      "time": "Nov 27, 7:16 PM CST",
-      "code": "IAD",
-      "url": "https://x.com/NWS_BaltWash/status/2126485467138768900"
+      "text": "A cold front sweeping through the region this morning brings gusty winds through this afternoon, particularly across…",
+      "account": "@NWSSaltLakeCity",
+      "time": "Nov 28, 8:40 AM CST",
+      "code": "SLC",
+      "url": "https://x.com/NWSSaltLakeCity/status/2126687675235127595"
+    },
+    {
+      "text": "A windy but rain-free weekend is in store. A cold front will bring a brief cool-down Sunday and Monday, but…",
+      "account": "@NWSFortWorth",
+      "time": "Nov 28, 6:13 AM CST",
+      "code": "DFW",
+      "url": "https://x.com/NWSFortWorth/status/2126650725887361086"
+    },
+    {
+      "text": "A Wind Advisory is in effect for the area from 12 am through 12 pm Sunday as a cold front's…",
+      "account": "@NWSFortWorth",
+      "time": "Nov 28, 6:05 AM CST",
+      "code": "DFW",
+      "url": "https://x.com/NWSFortWorth/status/2126648552705167527",
+      "opsTag": [
+        "Wind Advisory"
+      ]
     }
   ]
 }
