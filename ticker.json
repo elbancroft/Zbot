@@ -1,7 +1,14 @@
 {
-  "asOf": "Nov 27, 3:03 PM CST",
+  "asOf": "Nov 27, 6:06 PM CST",
   "label": "Unverified news",
   "items": [
+    {
+      "text": "After a quiet few weeks, a weather system will sweep through the state by the middle of next week leading to…",
+      "account": "@NWSPhoenix",
+      "time": "Nov 27, 4:42 PM CST",
+      "code": "PHX",
+      "url": "https://x.com/NWSPhoenix/status/2126446649140507063"
+    },
     {
       "text": "Here is a look at some of the precipitation totals from the Thanksgiving Day storm. A large majority of the area…",
       "account": "@NWS_BaltWash",
@@ -43,13 +50,6 @@
       "time": "Nov 27, 10:35 AM CST",
       "code": "SLC",
       "url": "https://x.com/NWSSaltLakeCity/status/2126354114065969182"
-    },
-    {
-      "text": "Flurries/light snow are possible in parts of the mountains this morning, but the rest of the day will be dry.…",
-      "account": "@NWSAtlanta",
-      "time": "Nov 27, 7:27 AM CST",
-      "code": "ATL",
-      "url": "https://x.com/NWSAtlanta/status/2126306958831501373"
     }
   ]
 }
