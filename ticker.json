@@ -1,20 +1,48 @@
 {
-  "asOf": "Nov 27, 9:10 PM CST",
+  "asOf": "Nov 28, 6:05 AM CST",
   "label": "Unverified news",
   "items": [
     {
-      "text": "Satellite shows a large \"swirl\" that brought light snow to nearby mountains slowly…",
+      "text": "[5:55 AM] Quiet conditions for today before another low pressure system arrives tomorrow afternoon, bringing…",
+      "account": "@NWSILN",
+      "time": "Nov 28, 4:55 AM CST",
+      "code": "CMH",
+      "url": "https://x.com/NWSILN/status/2126630949689626764"
+    },
+    {
+      "text": "Lingering rain/snow mix will end early this morning, with clouds gradually clearing from west to east through…",
+      "account": "@NWSCLE",
+      "time": "Nov 28, 3:29 AM CST",
+      "code": "NEO",
+      "url": "https://x.com/NWSCLE/status/2126609506511552905"
+    },
+    {
+      "text": "Aside from a storm system bringing a period of rain late tonight through Sunday, rain free conditions are expected for…",
+      "account": "@NWSChicago",
+      "time": "Nov 28, 3:18 AM CST",
+      "code": "ORD",
+      "url": "https://x.com/NWSChicago/status/2126606730599489819"
+    },
+    {
+      "text": "Dry weather is anticipated today as surface high pressure starts to move in overhead. Winds will progressively…",
+      "account": "@NWS_BaltWash",
+      "time": "Nov 28, 2:19 AM CST",
+      "code": "IAD",
+      "url": "https://x.com/NWS_BaltWash/status/2126591744816873507"
+    },
+    {
+      "text": "Temperatures will climb close to 80 degrees on Sunday before a Pacific storm brings rain and 60s by Wednesday.",
+      "account": "@FOX10Phoenix",
+      "time": "Nov 27, 11:30 PM CST",
+      "code": "PHX",
+      "url": "https://x.com/FOX10Phoenix/status/2126549196723323166"
+    },
+    {
+      "text": "Satellite shows the large \"swirl\" over the northeast that brought light snow to parts of the mountains slowly…",
       "account": "@NWSAtlanta",
       "time": "Nov 27, 8:52 PM CST",
       "code": "ATL",
       "url": "https://x.com/NWSAtlanta/status/2126509624756928905"
-    },
-    {
-      "text": "Happy Friday! Here's a look at some of the high temperatures from across the area today. Temperatures were well…",
-      "account": "@NWSPhoenix",
-      "time": "Nov 27, 8:08 PM CST",
-      "code": "PHX",
-      "url": "https://x.com/NWSPhoenix/status/2126498332646220182"
     },
     {
       "text": "Mountain snow showers & freezing drizzle are possible into early Saturday morning, with conditions remaining dry…",
@@ -22,48 +50,6 @@
       "time": "Nov 27, 7:16 PM CST",
       "code": "IAD",
       "url": "https://x.com/NWS_BaltWash/status/2126485467138768900"
-    },
-    {
-      "text": "After a quiet few weeks, a weather system will sweep through the area by the middle of next week leading to…",
-      "account": "@NWSPhoenix",
-      "time": "Nov 27, 4:42 PM CST",
-      "code": "PHX",
-      "url": "https://x.com/NWSPhoenix/status/2126446649140507063"
-    },
-    {
-      "text": "Here is a look at some of the precipitation totals from the Thanksgiving Day storm. A large majority of the area…",
-      "account": "@NWS_BaltWash",
-      "time": "Nov 27, 2:37 PM CST",
-      "code": "IAD",
-      "url": "https://x.com/NWS_BaltWash/status/2126415260475359533"
-    },
-    {
-      "text": "Rain will taper off tonight as the system departs the area. Saturday will be mostly dry with highs in the lower 40s.…",
-      "account": "@NWSCLE",
-      "time": "Nov 27, 2:01 PM CST",
-      "code": "NEO",
-      "url": "https://x.com/NWSCLE/status/2126406108407271584"
-    },
-    {
-      "text": "A warm Saturday will give way to much cooler and windy conditions Sunday behind a dry cold front. Northwest wind gusts…",
-      "account": "@NWSFortWorth",
-      "time": "Nov 27, 1:31 PM CST",
-      "code": "DFW",
-      "url": "https://x.com/NWSFortWorth/status/2126398543350972775"
-    },
-    {
-      "text": "Primarily dry and seasonable weather is on tap for Saturday. However, our next weather system will result in rain…",
-      "account": "@NWSChicago",
-      "time": "Nov 27, 1:15 PM CST",
-      "code": "ORD",
-      "url": "https://x.com/NWSChicago/status/2126394498154397802"
-    },
-    {
-      "text": "Hold onto your hats! Strong north winds are expected behind the cold front arriving Sunday morning, with sustained…",
-      "account": "@NWSFortWorth",
-      "time": "Nov 27, 1:12 PM CST",
-      "code": "DFW",
-      "url": "https://x.com/NWSFortWorth/status/2126393672597955052"
     }
   ]
 }
